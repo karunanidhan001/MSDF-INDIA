@@ -1,1 +1,115 @@
 # MSDF-INDIA
+
+## Multilingual Singing Voice Dataset for Deepfake Singing Voice Detection
+
+**MSDF-INDIA** is a multilingual singing voice corpus developed for research on **deepfake and synthetic singing voice detection**, with a focus on Indian languages.
+
+The corpus contains **294 authentic singing recordings across six Indian languages**, providing linguistic and singer diversity for synthetic audio detection research.
+
+## Corpus Overview
+
+| Language  |    Male |  Female |   Total |
+| --------- | ------: | ------: | ------: |
+| Bengali   |      33 |      31 |      64 |
+| Hindi     |      42 |      42 |      84 |
+| Odia      |       6 |       9 |      15 |
+| Punjabi   |      33 |      38 |      71 |
+| Tamil     |       8 |       2 |      10 |
+| Telugu    |      20 |      30 |      50 |
+| **Total** | **142** | **152** | **294** |
+
+The corpus contains **142 male and 152 female singers**, providing gender-wise diversity across the six language groups.
+
+---
+
+# Synthetic Singing Voice Generation
+
+Selected voice-conversion experiments were conducted to generate synthetic/deepfake singing voice samples for subsequent detection experiments.
+
+The repository provides **selected experimental notebooks and representative code** to demonstrate the approaches used in the research. The notebooks are provided primarily for **methodological transparency and reviewer reference** rather than as a complete release of every generation configuration.
+
+---
+
+## 1. FFT-Based Voice Conversion
+
+An FFT-based voice conversion experiment was conducted on selected recordings from four language groups.
+
+| Language  | Songs Processed |
+| --------- | --------------: |
+| Odia      |              13 |
+| Punjabi   |              69 |
+| Tamil     |               9 |
+| Telugu    |              44 |
+| **Total** |         **135** |
+
+**Google Colab:**
+https://colab.research.google.com/drive/1TuX07kyC_8T2FK6llZhA39Z-c4UFXPpN?usp=sharing
+
+---
+
+## 2. RVC-Based Voice Conversion
+
+A separate experiment using **Retrieval-based Voice Conversion (RVC)** was conducted on selected recordings.
+
+| Language  | Songs Processed |
+| --------- | --------------: |
+| Odia      |              14 |
+| Punjabi   |              70 |
+| Tamil     |               9 |
+| Telugu    |              49 |
+| **Total** |         **142** |
+
+**Google Colab:**
+https://colab.research.google.com/drive/1O6DneBpPbfXAxxSYtYS0wv-4qmGo9blc?usp=sharing
+
+---
+
+## 3. Multilingual Voice Conversion Experiment
+
+An additional voice-conversion experiment was performed on selected recordings across four language groups.
+
+| Language  | Songs Processed |
+| --------- | --------------: |
+| Odia      |              15 |
+| Punjabi   |               1 |
+| Tamil     |              10 |
+| Telugu    |              50 |
+| **Total** |          **76** |
+
+**Google Colab:**
+https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sharing
+
+---
+
+## Experimental Summary
+
+| Experiment   | Odia | Punjabi | Tamil | Telugu |   Total |
+| ------------ | ---: | ------: | ----: | -----: | ------: |
+| FFT-Based    |   13 |      69 |     9 |     44 | **135** |
+| RVC-Based    |   14 |      70 |     9 |     49 | **142** |
+| Multilingual |   15 |       1 |    10 |     50 |  **76** |
+
+**Note:** The numbers in the experimental tables represent **separate processing runs on selected recordings** and should not be added to the 294-song corpus total or interpreted as additional unique songs in the corpus.
+
+---
+
+## Repository Purpose
+
+This repository is provided to support **research transparency and reviewer verification** of the synthetic singing voice generation experiments associated with MSDF-INDIA.
+
+The linked Colab notebooks provide reviewers with access to representative experimental code and the corresponding processing outputs.
+
+The complete set of generation configurations and language-specific implementations is not released as a single turnkey generation package.
+
+## Research Applications
+
+The MSDF-INDIA corpus and associated synthetic samples are intended to support research in:
+
+* Deepfake singing voice detection
+* Synthetic audio detection
+* Multilingual audio forensics
+* Voice-conversion artifact analysis
+* Cross-language generalization
+* Robustness evaluation of deepfake detection systems
+
+**For research and academic use.**
