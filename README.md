@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6de1d059-075e-48b4-a09f-83ba39eb25ef" /># MSDF-INDIA
+# MSDF-INDIA
 
 ## Multilingual Singing Voice Dataset for Deepfake Singing Voice Detection
 
@@ -42,7 +42,7 @@ An FFT-based voice conversion experiment was conducted on selected recordings fr
 | Telugu    |              44 |
 | **Total** |         **135** |
 
-**Google Colab:**
+**Google Colab:**  
 https://colab.research.google.com/drive/1TuX07kyC_8T2FK6llZhA39Z-c4UFXPpN?usp=sharing
 
 ---
@@ -59,7 +59,7 @@ A separate experiment using **Retrieval-based Voice Conversion (RVC)** was condu
 | Telugu    |              49 |
 | **Total** |         **142** |
 
-**Google Colab:**
+**Google Colab:**  
 https://colab.research.google.com/drive/1O6DneBpPbfXAxxSYtYS0wv-4qmGo9blc?usp=sharing
 
 ---
@@ -76,7 +76,7 @@ An additional voice-conversion experiment was performed on selected recordings a
 | Telugu    |              50 |
 | **Total** |          **76** |
 
-**Google Colab:**
+**Google Colab:**  
 https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sharing
 
 ---
@@ -105,17 +105,19 @@ The complete set of generation configurations and language-specific implementati
 
 The MSDF-INDIA corpus and associated synthetic samples are intended to support research in:
 
-* Deepfake singing voice detection
-* Synthetic audio detection
-* Multilingual audio forensics
-* Voice-conversion artifact analysis
-* Cross-language generalization
-* Robustness evaluation of deepfake detection systems
+- Deepfake singing voice detection
+- Synthetic audio detection
+- Multilingual audio forensics
+- Voice-conversion artifact analysis
+- Cross-language generalization
+- Robustness evaluation of deepfake detection systems
 
 **For research and academic use.**
+
+---
+
 ## Dataset Metadata
 
-The complete dataset metadata, including recording-level information and
-associated dataset attributes, is available here:
+The complete dataset metadata, including recording-level information and associated dataset attributes, is available here:
 
 [Download / View Dataset Metadata](https://drive.google.com/file/d/1pDCAETf01VipDCS7esICPlul1tnp_Qer/view?usp=sharing)
