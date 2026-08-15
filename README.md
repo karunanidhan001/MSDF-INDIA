@@ -39,6 +39,11 @@ Selected voice-conversion experiments were conducted to generate synthetic/deepf
 
 The repository provides **selected experimental notebooks and representative code** to demonstrate the approaches used in the research. The notebooks are provided primarily for **methodological transparency and reviewer reference** rather than as a complete release of every generation configuration.
 
+All six notebooks are versioned in [`notebooks/`](notebooks/) as `.ipynb` files, so they can
+be read, diffed and run without a Colab account. What each pipeline actually implements, the
+output naming, and which released files each notebook produced are documented in
+[`notebooks/README.md`](notebooks/README.md).
+
 ---
 
 ## 1. FFT-Based Voice Conversion
@@ -53,8 +58,8 @@ An FFT-based voice conversion experiment was conducted on selected recordings fr
 | Telugu    |              44 |
 | **Total** |         **135** |
 
-**Google Colab:**  
-https://colab.research.google.com/drive/1TuX07kyC_8T2FK6llZhA39Z-c4UFXPpN?usp=sharing
+**Notebook:** [`notebooks/fft_odia_punjabi_tamil_telugu.ipynb`](notebooks/fft_odia_punjabi_tamil_telugu.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/1TuX07kyC_8T2FK6llZhA39Z-c4UFXPpN?usp=sharing
 
 ---
 
@@ -70,8 +75,8 @@ A separate experiment using **Retrieval-based Voice Conversion (RVC)** was condu
 | Telugu    |              49 |
 | **Total** |         **142** |
 
-**Google Colab:**  
-https://colab.research.google.com/drive/1O6DneBpPbfXAxxSYtYS0wv-4qmGo9blc?usp=sharing
+**Notebook:** [`notebooks/rvc_odia_punjabi_tamil_telugu.ipynb`](notebooks/rvc_odia_punjabi_tamil_telugu.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/1O6DneBpPbfXAxxSYtYS0wv-4qmGo9blc?usp=sharing
 
 ---
 
@@ -87,12 +92,41 @@ An additional voice-conversion experiment was performed on selected recordings a
 | Telugu    |              50 |
 | **Total** |          **76** |
 
-**Google Colab:**  
-https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sharing
+**Notebook:** [`notebooks/sovits_anime_odia_punjabi_tamil_telugu.ipynb`](notebooks/sovits_anime_odia_punjabi_tamil_telugu.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sharing
+
+---
+
+## 4. Hindi + Bengali FFT-Based Voice Conversion
+
+An additional FFT-based voice conversion experiment was conducted on selected **Hindi and Bengali** singing voice recordings.
+
+**Notebook:** [`notebooks/fft_hindi_bengali.ipynb`](notebooks/fft_hindi_bengali.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/12Q2aWmMRQrCas2JoUc92rhd8qztbQQAS?usp=sharing
+
+---
+
+## 5. Hindi + Bengali RVC-Based Voice Conversion
+
+A separate RVC-based voice conversion experiment was conducted on selected **Hindi and Bengali** singing voice recordings.
+
+**Notebook:** [`notebooks/rvc_hindi_bengali.ipynb`](notebooks/rvc_hindi_bengali.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/1XEha1V1gn_hGXsV7kOGavs_NcUgo0HwV?usp=sharing
+
+---
+
+## 6. Hindi + Bengali SoVITS-Based Voice Conversion
+
+A separate SoVITS-based voice conversion experiment was conducted on selected **Hindi and Bengali** singing voice recordings.
+
+**Notebook:** [`notebooks/sovits_anime_hindi_bengali.ipynb`](notebooks/sovits_anime_hindi_bengali.ipynb)  
+**Google Colab:** https://colab.research.google.com/drive/1tYg2hWjPN7llQ_DF5_ziCPaHtJHFSpIX?usp=sharing
 
 ---
 
 ## Experimental Summary
+
+The following table summarizes the experiments for which language-wise processing counts are available:
 
 | Experiment   | Odia | Punjabi | Tamil | Telugu |   Total |
 | ------------ | ---: | ------: | ----: | -----: | ------: |
@@ -100,7 +134,13 @@ https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sh
 | RVC-Based    |   14 |      70 |     9 |     49 | **142** |
 | Multilingual |   15 |       1 |    10 |     50 |  **76** |
 
+The Hindi and Bengali experiments are provided as additional experimental resources through their respective notebooks.
+
 **Note:** The numbers in the experimental tables represent **separate processing runs on selected recordings** and should not be added to the 294-song corpus total or interpreted as additional unique songs in the corpus.
+
+Each FFT and RVC run converts every recording of a language *except the first*, which is
+consumed as the 15 s conversion reference — which is why these counts sit one below the
+corpus count for each language.
 
 ---
 
@@ -108,7 +148,7 @@ https://colab.research.google.com/drive/126JtKk0LJcP6fjXsnj3woH_Df7nlCquL?usp=sh
 
 This repository is provided to support **research transparency and reviewer verification** of the synthetic singing voice generation experiments associated with MSDF-INDIA.
 
-The linked Colab notebooks provide reviewers with access to representative experimental code and the corresponding processing outputs.
+The notebooks in [`notebooks/`](notebooks/) — and the Colab links they were taken from — give reviewers access to the experimental code and the corresponding processing outputs.
 
 The complete set of generation configurations and language-specific implementations is not released as a single turnkey generation package.
 
@@ -226,6 +266,11 @@ data/
   splits/               benchmark_split.csv, balanced_test_clips.csv
   inventory/            recording-level index + Drive file inventories
   templates/            per-recording provenance sheet to fill in
+notebooks/
+  fft_*.ipynb           FFT spectral-blend conversion (Demucs vocals + STFT)
+  rvc_*.ipynb           WORLD-vocoder resynthesis
+  sovits_anime_*.ipynb  preset pitch/EQ effect
+  README.md             what each pipeline implements, and which files it produced
 docs/
   DATASET_CARD.md       inventory, field definitions, known defects, source mapping
   FEATURE_SPEC.md       exact array shapes, framing, naming, worked example

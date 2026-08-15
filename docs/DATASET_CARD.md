@@ -106,8 +106,8 @@ pipeline by-products that were swept into feature extraction and that also carry
 |---|---|---:|
 | `bonafide` | the real recordings | 18,086 |
 | `converted` | conversion outputs — the actual deepfakes | **32,731** |
-| `vocal_stem` | `<title>_vocals.wav`, isolated vocal tracks from the separation stage (FFT branch of Odia/Punjabi/Tamil/Telugu) | 5,662 |
-| `reference` | target-voice reference clips (`<lang>_reference.wav`, `<lang>_rvc_ref.wav`) | 24 |
+| `vocal_stem` | `<title>_vocals.wav` — **Demucs-separated vocals of the bonafide recordings**, written by the FFT notebooks' separation step, not conversion outputs | 5,662 |
+| `reference` | 15 s target-voice reference clips (`<lang>_reference.wav`, `<lang>_rvc_ref.wav`), cut from the first recording of each language | 24 |
 | `unconverted_src` | **Hindi RVC only** — the 32 original recordings sitting beside their `_VOCAL_CONVERTED` counterparts | 2,094 |
 
 Per cell:
@@ -178,7 +178,11 @@ changes.
 4. **The So-VITS partition is the anime-preset variant.** The folder is `SoVits_Anime/`,
    filenames are `anime_<preset>_<seq>_<title>`, and the identity token is one of three
    fixed presets assigned round-robin by sequence number — `kawaii_girl`, `soft_anime`,
-   `energetic_idol` — not a per-recording target singer. Preset distribution (clips, with
+   `energetic_idol` — not a per-recording target singer. The generation notebooks confirm
+   this directly: both So-VITS notebooks in [`../notebooks/`](../notebooks/), covering all
+   six languages, implement a class called `AnimeVoiceConverter` that applies
+   `librosa.effects.pitch_shift` plus brightness/breath EQ. Neither contains SoftVC, VITS,
+   ContentVec, NSF-HiFi-GAN or RMVPE. Preset distribution (clips, with
    source recordings in brackets): Hindi 2,894 (28) / 2,267 (28) / 1,473 (28); Telugu 1,366
    (17) / 1,591 (16) / 1,524 (17); Odia 509 (5) / 342 (5) / 654 (5); Tamil 97 (4) / 82 (3) /
    80 (3); Punjabi 21 (1) / – / –. **This must be reconciled with whatever the paper says
@@ -190,6 +194,18 @@ changes.
    Join by filename **suffix**; `src/load_features.py` does.
 6. **`hnr_frames` is stored per audio sample**, not per frame: 160,000 float32 values per
    clip, 57 % of the whole download, for a signal whose released summary is two scalars.
+7. **The RVC branch is WORLD-vocoder resynthesis, not retrieval-based conversion.** Both
+   published RVC notebooks convert with `pyworld` — `dio` → `stonemask` → `cheaptrick` →
+   `d4c` → `synthesize`, moving the spectral envelope and F0 toward a 15 s reference. There
+   is no retrieval step, content encoder, feature index or model checkpoint in either. The
+   name matches the release folder, not the algorithm. See
+   [`../notebooks/README.md`](../notebooks/README.md).
+8. **The generators of the released Hindi and Bengali FFT/RVC files are not in this
+   repository.** The published Hindi+Bengali notebooks write `fft_<lang>_<NNN>.wav` and
+   `rvc_<lang>_<NNN>.wav`, but the released files for those cells are named
+   `deepfake_<seq>_<srcid>_<Title>.mp3`, `fft_<seq>_<Title>.mp3_22k.wav`,
+   `<Voice>_VOCAL_CONVERTED.wav` and `rvc_fixed_<seq>_<Title>.mp3_22k.wav` — a different
+   run. The So-VITS notebooks *do* match their released output names.
 
 ---
 
