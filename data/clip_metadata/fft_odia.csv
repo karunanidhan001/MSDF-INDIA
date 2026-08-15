@@ -1,0 +1,2101 @@
+sample_id,language,label,method,original_filename,clip_index,duration_seconds
+574c9b0c445f16a9df16ecbf393449ad,odia,fake,fft,fft_odia_001.wav,0,10
+3f80b05ccd1e7417f1e15ed33992eb0c,odia,fake,fft,fft_odia_001.wav,1,10
+ebea5e58f52de557eb9350c6861119bd,odia,fake,fft,fft_odia_001.wav,2,10
+cd5be751faf7e684abd1a2f1e795e068,odia,fake,fft,fft_odia_001.wav,3,10
+ada5ad230899c6479d8eaa0b28213119,odia,fake,fft,fft_odia_001.wav,4,10
+c283fca2d74fee3bff38eacb9bf31f71,odia,fake,fft,fft_odia_001.wav,5,10
+53b7b121e2ccaa08d213a067678e95c7,odia,fake,fft,fft_odia_001.wav,6,10
+b03f6354963a432dcdf584ed9cfc0eb9,odia,fake,fft,fft_odia_001.wav,7,10
+e0baf5ad70499a372c79fb2bac2c6d99,odia,fake,fft,fft_odia_001.wav,8,10
+dc806a6f704a4df1153d936d4317f618,odia,fake,fft,fft_odia_001.wav,9,10
+afab67262d16da2c0e214caa920c2343,odia,fake,fft,fft_odia_001.wav,10,10
+0f32021417316c62925165d3c86f180c,odia,fake,fft,fft_odia_001.wav,11,10
+65cda9d6fec473349d58a408f0b66b9b,odia,fake,fft,fft_odia_001.wav,12,10
+b59dbba5d7d580a7ebcd00663ec6076f,odia,fake,fft,fft_odia_001.wav,13,10
+c5a1b03ec925c65dae4dc089a637ff00,odia,fake,fft,fft_odia_001.wav,14,10
+73684e311c973d06ad52094364416a25,odia,fake,fft,fft_odia_001.wav,15,10
+af1a1a5aa18ac893cf7ed7bcf3f28656,odia,fake,fft,fft_odia_001.wav,16,10
+aa0920c7ee6d35c6c2df5dc39597f7e5,odia,fake,fft,fft_odia_001.wav,17,10
+720094170ba0dc78da553f935109a470,odia,fake,fft,fft_odia_001.wav,18,10
+2b3cebcaa4bb46d3e2a445e7486106e8,odia,fake,fft,fft_odia_001.wav,19,10
+418a8b3a42cb434f528a758411405168,odia,fake,fft,fft_odia_001.wav,20,10
+bce5b7b5c75d13c5cc5fb537f1d0fde1,odia,fake,fft,fft_odia_001.wav,21,10
+6e6121bdbac730f4512e49787da307f2,odia,fake,fft,fft_odia_001.wav,22,10
+adedf46e7100c05139ccb059dac3b70b,odia,fake,fft,fft_odia_001.wav,23,10
+6a898fc544e81581d2af01a13d999026,odia,fake,fft,fft_odia_001.wav,24,10
+fbdfd5be3356fea8053ba139e0be4262,odia,fake,fft,fft_odia_001.wav,25,10
+39c00548f80eccaeb9d4e83f29e53c3a,odia,fake,fft,fft_odia_001.wav,26,10
+c1ea806c5248aca786d427a9d7e8d7b8,odia,fake,fft,fft_odia_001.wav,27,10
+0c05dffc81b80f6555667c90a63dc73e,odia,fake,fft,fft_odia_001.wav,28,10
+80a2b25e48e9b1c63568704780c54fe3,odia,fake,fft,fft_odia_001.wav,29,10
+8bc79b1ed10fd5a9e6459927a8e2c22c,odia,fake,fft,fft_odia_001.wav,30,10
+29762bc3ea1bbcccf85dca5145c3b373,odia,fake,fft,fft_odia_001.wav,31,10
+5f88aabf77e5a78eb18a91fd6af5b8d2,odia,fake,fft,fft_odia_001.wav,32,10
+773df771b0c4e5f65368ad8494f37fc1,odia,fake,fft,fft_odia_001.wav,33,10
+5ec7a0708d85090cc392b7abda37370d,odia,fake,fft,fft_odia_001.wav,34,10
+9f14336f780989d733be64c65f1c3e31,odia,fake,fft,fft_odia_001.wav,35,10
+d2d0d6a4a63d9e41f481e9bd8ec6ea7f,odia,fake,fft,fft_odia_001.wav,36,10
+0bc85dbeea4bf8a38f2e871cc8849c7c,odia,fake,fft,fft_odia_001.wav,37,10
+276ce72a9de4624967907d4a84bdefe5,odia,fake,fft,fft_odia_001.wav,38,10
+e07c3ec7307d87681730c28f96698d36,odia,fake,fft,fft_odia_001.wav,39,10
+7dc3c9ab7739c2501e340ae4c553036f,odia,fake,fft,fft_odia_001.wav,40,10
+d6dd55d2f8f14cd6d115445a405e329a,odia,fake,fft,fft_odia_001.wav,41,10
+0ca2e89633be94979bfd678775d33b0e,odia,fake,fft,fft_odia_001.wav,42,10
+b5fcfa18ecae8c7dabf03c523b3fa7c2,odia,fake,fft,fft_odia_001.wav,43,10
+829d256b5c9dfb9c4753b55284412985,odia,fake,fft,fft_odia_001.wav,44,10
+f487086a56c6d9d92ef4d00a655111cb,odia,fake,fft,fft_odia_001.wav,45,10
+8b681f9f49da3bc64ba54d0d421b20be,odia,fake,fft,fft_odia_001.wav,46,10
+862489d1e7233d7c49434df458829bde,odia,fake,fft,fft_odia_001.wav,47,10
+f0e3d5f777fec04b366a13c5a03c2d78,odia,fake,fft,fft_odia_001.wav,48,10
+fa09693ceac9b1e46987d03d6bd80774,odia,fake,fft,fft_odia_001.wav,49,10
+3dcc893e50853e96d3417d5e9f65dca6,odia,fake,fft,fft_odia_001.wav,50,10
+5e38eb1cf71f4fbbba5fd8ecb53b2813,odia,fake,fft,fft_odia_001.wav,51,10
+f08a306aba1bf078365fec5455c09d6e,odia,fake,fft,fft_odia_001.wav,52,10
+8f7695bd2e7f124980bd681bb1ec166e,odia,fake,fft,fft_odia_001.wav,53,10
+6057ab864b7af94f164c60d77b6ef13f,odia,fake,fft,fft_odia_001.wav,54,10
+84e435a7b669ef152e5e9855824c0051,odia,fake,fft,fft_odia_001.wav,55,10
+d4e626363042981fe32aa123e1a4aa04,odia,fake,fft,fft_odia_001.wav,56,10
+ca6fd13bb2000abe178cd8db4195d328,odia,fake,fft,fft_odia_001.wav,57,10
+0772bd842c57d4bd30bca94c569879a8,odia,fake,fft,fft_odia_001.wav,58,10
+6d67abc6cedc37c07fa005dea8030a11,odia,fake,fft,fft_odia_001.wav,59,10
+77f39dea18bcdc3fbe1910a73ed39fd5,odia,fake,fft,fft_odia_001.wav,60,10
+082bce7d7c5001bc13d03aaa39511919,odia,fake,fft,fft_odia_001.wav,61,10
+aa5fc1f2dc9ae7df7f7a2d626450c776,odia,fake,fft,fft_odia_001.wav,62,10
+1bcf3ac4cef2cb2dbfa690b810ee3817,odia,fake,fft,fft_odia_001.wav,63,10
+6a9df16c8272d0f4c7b29bc475a4351c,odia,fake,fft,fft_odia_001.wav,64,10
+e33c735fcccb825a4e24b814d1d881f8,odia,fake,fft,fft_odia_001.wav,65,10
+a8ac18ec1f3dc226b26ceec0975086f5,odia,fake,fft,fft_odia_001.wav,66,10
+5c4d741f8ee2adf634224bf6c7d43b86,odia,fake,fft,fft_odia_001.wav,67,10
+c1c9f8a83214a3841ee07cdf1090177e,odia,fake,fft,fft_odia_001.wav,68,10
+404363a850fabd7b4026739a45e2c0fb,odia,fake,fft,fft_odia_001.wav,69,10
+e56dc29de42a9ec409a0ad897b3b057b,odia,fake,fft,fft_odia_001.wav,70,10
+64eb9fa8f15455170827b94a3f4e816d,odia,fake,fft,fft_odia_001.wav,71,10
+2da61de41b407eb3bbbc6a1518c8e9bc,odia,fake,fft,fft_odia_001.wav,72,10
+96d0305e258b452df60ea62987f7e2ba,odia,fake,fft,fft_odia_001.wav,73,10
+166873647c8edd01981eb1c0588c1494,odia,fake,fft,fft_odia_001.wav,74,10
+0ead295a6dfba706a199b0111911d1a0,odia,fake,fft,fft_odia_001.wav,75,10
+69ff0af0b1f3c9a88f4ee6bb72a1e2eb,odia,fake,fft,fft_odia_001.wav,76,10
+3c1b7e7e5b35c0757959615ff89bd034,odia,fake,fft,fft_odia_001.wav,77,10
+c02505578e4d107906c2bfd5db892722,odia,fake,fft,fft_odia_001.wav,78,10
+3fe8e5e8cfa64b204f2ab57140ff51b6,odia,fake,fft,fft_odia_001.wav,79,10
+d06cc5c8ad5ca88c94486110de7d6ab6,odia,fake,fft,fft_odia_001.wav,80,10
+a1a9a0286f373c466342836ca4731280,odia,fake,fft,fft_odia_001.wav,81,10
+6202461ce6f8509f00f55e65e1ea6101,odia,fake,fft,fft_odia_001.wav,82,10
+4f938b63f44d4b91b8c46a4b408fc02d,odia,fake,fft,fft_odia_001.wav,83,10
+fe834b0948cec6124e3119e17b5c54aa,odia,fake,fft,fft_odia_001.wav,84,10
+671170e575ec4bfc55008e0842f64293,odia,fake,fft,fft_odia_001.wav,85,10
+74aefe17cc0490f05abbdfd6a3c44866,odia,fake,fft,fft_odia_001.wav,86,10
+cba1e32d7a93b1fffcbc479cc559a60b,odia,fake,fft,fft_odia_001.wav,87,10
+d9d91b59bb0da5eecf43df4a62390ba2,odia,fake,fft,fft_odia_001.wav,88,10
+59d5f761e7b94428d8ac91d46263d76d,odia,fake,fft,fft_odia_001.wav,89,10
+82718577d4044ac1e2d19741142bcd1d,odia,fake,fft,fft_odia_001.wav,90,10
+3ae3e2e086a2568dce2357c11cee41f3,odia,fake,fft,fft_odia_001.wav,91,10
+f462b9df0cf3080512b3ca912f787a00,odia,fake,fft,fft_odia_001.wav,92,10
+ba17f2b162315ea693bf82a6c0dd6a99,odia,fake,fft,fft_odia_001.wav,93,10
+9c2bed6100580d297284bc31eccb40ef,odia,fake,fft,fft_odia_001.wav,94,10
+cffa30638d83b6f90b6de95598374400,odia,fake,fft,fft_odia_001.wav,95,10
+fa4166ba7acf71ef37315457ee7a18b4,odia,fake,fft,fft_odia_001.wav,96,10
+6b1f561b11a1b15ae8293b26dd076a07,odia,fake,fft,fft_odia_001.wav,97,10
+d68e18905504dcb74ce8f36a70451ef4,odia,fake,fft,fft_odia_001.wav,98,10
+67b0321af38153639b40c8bfd2ae9650,odia,fake,fft,fft_odia_001.wav,99,10
+1d8827aa7b2df4a4218aafb33310e4f2,odia,fake,fft,fft_odia_001.wav,100,10
+b21b7d386e25b25667cf7d6e1f60d642,odia,fake,fft,fft_odia_001.wav,101,10
+7599cbfd4c196255ec38fc27bbd6e5da,odia,fake,fft,fft_odia_001.wav,102,10
+feb6ad52a502bcaf621ed2edfbc35415,odia,fake,fft,fft_odia_001.wav,103,10
+39b5344fe0926b62475ed282ea36c013,odia,fake,fft,fft_odia_001.wav,104,10
+03c919b4edb970262a88cffb9f269202,odia,fake,fft,fft_odia_001.wav,105,10
+b5ba2c848cee482101c470db78245ab6,odia,fake,fft,fft_odia_001.wav,106,10
+d70766de1b83dc615e1595076dbcdb05,odia,fake,fft,fft_odia_001.wav,107,10
+828d23c930c02b0c3dfb01607ef1edf1,odia,fake,fft,fft_odia_001.wav,108,10
+47d4f0f3bb8fe695402b06434fbb6629,odia,fake,fft,fft_odia_001.wav,109,10
+c993e2c287bcaa20e0e25703a66a2151,odia,fake,fft,fft_odia_001.wav,110,10
+1588fd4d63b82e30d128c262b71e722d,odia,fake,fft,fft_odia_001.wav,111,10
+164948aa8c7e5c480a5af25ce593a044,odia,fake,fft,fft_odia_001.wav,112,10
+7e0140274b7f4bd8bc94ecfc699947ae,odia,fake,fft,fft_odia_001.wav,113,10
+da0b6d06939645cc355246b8263a6a98,odia,fake,fft,fft_odia_001.wav,114,10
+3e758253bb215adbf8dbfeb0c0398bfe,odia,fake,fft,fft_odia_001.wav,115,10
+ac668b6b8d60a8dc7cdde0392d32ebad,odia,fake,fft,fft_odia_001.wav,116,10
+8dedc3a842fa772e748d36967d3fb8fe,odia,fake,fft,fft_odia_001.wav,117,10
+efa99626614cd7ee24940bf2e2159732,odia,fake,fft,fft_odia_001.wav,118,10
+2b6202ef1312392a6ff51a95dc8bc3d4,odia,fake,fft,fft_odia_001.wav,119,10
+e3e45917141a615cc54bbc1f4d641528,odia,fake,fft,fft_odia_001.wav,120,10
+242b00fd6b9eab1f0f15f13bd5475b9b,odia,fake,fft,fft_odia_001.wav,121,10
+60ab3026baad8043b72e9350cb0200c7,odia,fake,fft,fft_odia_001.wav,122,10
+b1294f8d2bfaa734f4f9efb709c29321,odia,fake,fft,fft_odia_001.wav,123,10
+440cb6978e3a37977f0df23930c5d23c,odia,fake,fft,fft_odia_001.wav,124,10
+4fc08af7615c2dcf2fc1840faf964823,odia,fake,fft,fft_odia_001.wav,125,10
+408050f2715c9a3d6232b969d35853b4,odia,fake,fft,fft_odia_001.wav,126,10
+b1350015ee6cf595945456eeee9c2f33,odia,fake,fft,fft_odia_001.wav,127,10
+86c0c52fd0ddff2618a1cb11c1dc311e,odia,fake,fft,fft_odia_001.wav,128,10
+25827c6fe37392542ccdf53e685548c8,odia,fake,fft,fft_odia_001.wav,129,10
+101b279cfc2ab836bfb2fec981b6356c,odia,fake,fft,fft_odia_001.wav,130,10
+6d0c65d5cc73480ebd5c6cf43d386553,odia,fake,fft,fft_odia_001.wav,131,10
+813ea11a67c2ae481734a5b1e5448352,odia,fake,fft,fft_odia_001.wav,132,10
+d4760ea5c6758a44a5300e2bb5904b00,odia,fake,fft,fft_odia_001.wav,133,10
+716141aed4ee15c800d0e76b70a8d671,odia,fake,fft,fft_odia_001.wav,134,10
+846e0bbeedd13ba1a5a6d5c61baf6b29,odia,fake,fft,fft_odia_001.wav,135,10
+5e5f58b5f42e05f1b2f8eff846b63ac9,odia,fake,fft,fft_odia_001.wav,136,10
+0b68a5b8285d1c71fb17ebdd074c2f30,odia,fake,fft,fft_odia_001.wav,137,10
+3552dd7a11dfe91cfdbf63216c1221bb,odia,fake,fft,fft_odia_001.wav,138,10
+9aa3b57e59387701717f64f53d70b80d,odia,fake,fft,fft_odia_001.wav,139,10
+528e4bccd7ba3b1ff497f245e1735514,odia,fake,fft,fft_odia_001.wav,140,10
+9c38410a1f71ad98d8baea40a9b81978,odia,fake,fft,fft_odia_001.wav,141,10
+e9117300a06495b80068dc19c48b379d,odia,fake,fft,fft_odia_001.wav,142,10
+9eeec455153780467ae4a00457fed942,odia,fake,fft,fft_odia_001.wav,143,10
+37680a1fbcb48f580643a8c911c1bc9b,odia,fake,fft,fft_odia_001.wav,144,10
+741eb9f040549f9f7afa264efb99908a,odia,fake,fft,fft_odia_001.wav,145,10
+73c2d68a5d4c908454b281c801c01a69,odia,fake,fft,fft_odia_001.wav,146,10
+810fc59ab385da0295449b762234978f,odia,fake,fft,fft_odia_001.wav,147,10
+7e4ffb411ac05e690ae3cf570b4a2f9a,odia,fake,fft,fft_odia_001.wav,148,10
+4197ba535d2a190a1e3260f12e42f214,odia,fake,fft,fft_odia_001.wav,149,10
+d887e04406739fc6fb5cee3dc6b17781,odia,fake,fft,fft_odia_001.wav,150,10
+d39e0940c26ccd3c96acfd741ff83b9d,odia,fake,fft,fft_odia_001.wav,151,10
+5f9b54fc4b077658bd132a9cd02b56a3,odia,fake,fft,fft_odia_001.wav,152,10
+5f93bdab0d8a230bc72a51aa8167cce3,odia,fake,fft,fft_odia_001.wav,153,10
+e2b89490d3d81b69fe8f6bc73aa63067,odia,fake,fft,fft_odia_001.wav,154,10
+fb1f7035f9ced1aa54c5213b0fe65752,odia,fake,fft,fft_odia_001.wav,155,10
+a62e485ff3852d93c1d9fcd8ba07e30b,odia,fake,fft,fft_odia_001.wav,156,10
+4df98ec673f4b3c527eb246d20a01198,odia,fake,fft,fft_odia_001.wav,157,10
+bb0a0c2abff11c4f5ab28916d89b56ad,odia,fake,fft,fft_odia_001.wav,158,10
+8b754e6edca2041f0c1b45422bc91092,odia,fake,fft,fft_odia_001.wav,159,10
+f8a54032592db06a8fa32684e12fe4fc,odia,fake,fft,fft_odia_001.wav,160,10
+e0e6f6d419a46f80c069624cf2ba3300,odia,fake,fft,fft_odia_001.wav,161,10
+7bbf4e3fcf809dc742a91c64ecaec0fa,odia,fake,fft,fft_odia_001.wav,162,10
+7b296ecb9811319315b6c63aed6a0166,odia,fake,fft,fft_odia_001.wav,163,10
+7430dbc8b82948c84d9fd31428cfae91,odia,fake,fft,fft_odia_001.wav,164,10
+3f7fd893d839ca4a9be72e45148b61fd,odia,fake,fft,fft_odia_001.wav,165,10
+474c5ebf2d9ea8596b0ebd536167a41f,odia,fake,fft,fft_odia_001.wav,166,10
+d1e3f1d444c55708ae8876215f16457c,odia,fake,fft,fft_odia_001.wav,167,10
+48642a171deafd9f154c131a0c34668d,odia,fake,fft,fft_odia_001.wav,168,10
+2268dc9645a5b678920dd3ff12af5a15,odia,fake,fft,fft_odia_001.wav,169,10
+c4e8378f18fa3273589eacf1256aa326,odia,fake,fft,fft_odia_001.wav,170,10
+92ac304619adf96293cbddad03f4dcf8,odia,fake,fft,fft_odia_001.wav,171,10
+302e9eb92cad65bb029ed700cac1573c,odia,fake,fft,fft_odia_001.wav,172,10
+44a993e04bf0ed2c8aa4f87f0117c00a,odia,fake,fft,fft_odia_001.wav,173,10
+57d8042ad836e460de3edfac06ad0341,odia,fake,fft,fft_odia_001.wav,174,10
+81c5fe99d6990f9e9e6fe570eca98713,odia,fake,fft,fft_odia_001.wav,175,10
+8d513820476b2711d10c4f8fe6eb166f,odia,fake,fft,fft_odia_001.wav,176,10
+2b6daa2a14912b5154608801e6b57f34,odia,fake,fft,fft_odia_001.wav,177,10
+e4a296800aa844808fbab8d8c4b91b54,odia,fake,fft,fft_odia_001.wav,178,10
+67ae0a492a643e3c59e3767a452195b5,odia,fake,fft,fft_odia_001.wav,179,10
+f447307ffd2f9491a860c52999a0f4a8,odia,fake,fft,fft_odia_001.wav,180,10
+cfc01103aa948888ecda30abdf809642,odia,fake,fft,fft_odia_001.wav,181,10
+f5c05ae950ff302688fbf3e9df86774d,odia,fake,fft,fft_odia_001.wav,182,10
+778818c8e25c1155558d4a338e180f7b,odia,fake,fft,fft_odia_001.wav,183,10
+9d37366b05ae20be0b9d6cab99920faf,odia,fake,fft,fft_odia_001.wav,184,10
+0da1d1ec6390f24e2f50e67990b3471f,odia,fake,fft,fft_odia_001.wav,185,10
+55b3d7661464856db5d0fabaa08439fc,odia,fake,fft,fft_odia_001.wav,186,10
+36f6a8aa01136ed13496a1ec1a7347cf,odia,fake,fft,fft_odia_001.wav,187,10
+92002d6aa34a2d7dd80d11915b713e7e,odia,fake,fft,fft_odia_001.wav,188,10
+e61001f559771d563889d05b83f28893,odia,fake,fft,fft_odia_001.wav,189,10
+52b2eac24b9d005446abfe3066f3193c,odia,fake,fft,fft_odia_001.wav,190,10
+628bd0e1ebe1ccce5872272a7b41d216,odia,fake,fft,fft_odia_001.wav,191,10
+3e7b2a9d2651972ffad3e1d5a24267af,odia,fake,fft,fft_odia_001.wav,192,10
+af93a89ec40af3f9eb06fb146e32d4db,odia,fake,fft,fft_odia_001.wav,193,10
+609f0e6f59e9b2ab4695acf4e27231d9,odia,fake,fft,fft_odia_001.wav,194,10
+503604cd22edbe0620696cacf2e5cb40,odia,fake,fft,fft_odia_001.wav,195,10
+91710300f054a515dad206cb2ae0ba94,odia,fake,fft,fft_odia_001.wav,196,10
+e48bc3ca52875ca0f0e96d7cda7903af,odia,fake,fft,fft_odia_001.wav,197,10
+a86ef3f4c8a0b37b830d4bb30977d323,odia,fake,fft,fft_odia_001.wav,198,10
+1e7f5ead4e6c9a492aa68810376118b3,odia,fake,fft,fft_odia_001.wav,199,10
+c17328b3689869a9f71b349769f6708d,odia,fake,fft,fft_odia_001.wav,200,10
+d48e4fc402e0fdc07529b301afcb5197,odia,fake,fft,fft_odia_001.wav,201,10
+a47aaf4652711ff7b8b5ae8b8b44ffac,odia,fake,fft,fft_odia_001.wav,202,10
+ad3f93e002f4da879540268c9c31b609,odia,fake,fft,fft_odia_001.wav,203,10
+dbcf757b9ce6ac3c8774a4cdb2ffa431,odia,fake,fft,fft_odia_001.wav,204,10
+cf2825c55b17e8dee11d558e432ae13a,odia,fake,fft,fft_odia_001.wav,205,10
+dae7ccc7e03c0342e3e3e9937a03365b,odia,fake,fft,fft_odia_001.wav,206,10
+803aebdc3bc368e26ed34de0fd4f191f,odia,fake,fft,fft_odia_002.wav,0,10
+addaaff67819f2f00881f0dae1f6290a,odia,fake,fft,fft_odia_002.wav,1,10
+7537203e1558ce5c08f4fedca4146547,odia,fake,fft,fft_odia_002.wav,2,10
+9a168d2d6c7e7eeec96e57dbc1d9eb6f,odia,fake,fft,fft_odia_002.wav,3,10
+9af05ae8b7de2951279065e9719cd0fb,odia,fake,fft,fft_odia_002.wav,4,10
+c855b3d6f87b3b479af92194f2f3c896,odia,fake,fft,fft_odia_002.wav,5,10
+c23849b97f790b14183141537f9331e5,odia,fake,fft,fft_odia_002.wav,6,10
+14ae660f7216113db7d5ae37ab634730,odia,fake,fft,fft_odia_002.wav,7,10
+1b8e93215a7ba9782e72f492a67d686c,odia,fake,fft,fft_odia_002.wav,8,10
+798ce44175354a92437a2e2057cc2f17,odia,fake,fft,fft_odia_002.wav,9,10
+a43a403f014de8e046f9cc761ee6df7a,odia,fake,fft,fft_odia_002.wav,10,10
+86524347a80137d80ec285aa20a84d19,odia,fake,fft,fft_odia_002.wav,11,10
+ef8cd73ef798ccfaa131c95b92448a33,odia,fake,fft,fft_odia_002.wav,12,10
+99f76ccbd9ba80747c1d442a8a839be1,odia,fake,fft,fft_odia_002.wav,13,10
+9543f9cfbcf1ef20beb3a30fe7ca0703,odia,fake,fft,fft_odia_002.wav,14,10
+c86601d1fcd35f3e3630f298a51c78bb,odia,fake,fft,fft_odia_002.wav,15,10
+28a9a20afd18387257d3e2156a9bbeca,odia,fake,fft,fft_odia_002.wav,16,10
+a7b9727c64df87ebe7f27e6b60bee49a,odia,fake,fft,fft_odia_002.wav,17,10
+a480fdcbb7a75bc2f8d9f25144d5546f,odia,fake,fft,fft_odia_002.wav,18,10
+f6090c6acb664922c0a5a75cafa085a6,odia,fake,fft,fft_odia_002.wav,19,10
+6a109a6febf4d248f14ce48c8c4f1641,odia,fake,fft,fft_odia_002.wav,20,10
+c92c7ba5a0069fc9c40c0b3ce1278bca,odia,fake,fft,fft_odia_002.wav,21,10
+d046d81a5e4a2b4902eb9503c71ff459,odia,fake,fft,fft_odia_002.wav,22,10
+8c381af3dc5f8b8931615a3862185442,odia,fake,fft,fft_odia_002.wav,23,10
+32ae34a6686612b372032e07f241d24c,odia,fake,fft,fft_odia_002.wav,24,10
+da2ac953149e441a0b3992c137572861,odia,fake,fft,fft_odia_002.wav,25,10
+ee97f44af4d2e7f5770d57410c059cdb,odia,fake,fft,fft_odia_002.wav,26,10
+c9a3d9b7207d6d50999a7467c01e4bd5,odia,fake,fft,fft_odia_002.wav,27,10
+dbf1d0cb0db80410ba7a227419d06852,odia,fake,fft,fft_odia_002.wav,28,10
+bf7cafd62a3bfad38f8365104db5fe39,odia,fake,fft,fft_odia_003.wav,0,10
+d802b6b48b16b7642095e10a4a323133,odia,fake,fft,fft_odia_003.wav,1,10
+b674447de573e9d109b522bcce51aeb4,odia,fake,fft,fft_odia_003.wav,2,10
+0eeb53c9b7347be3f61fa0984a6ab79b,odia,fake,fft,fft_odia_003.wav,3,10
+9607c206bac841144cfab50e9be094e9,odia,fake,fft,fft_odia_003.wav,4,10
+f72537c2cfcdf563048d0b5f5cfc5fb1,odia,fake,fft,fft_odia_003.wav,5,10
+23b559e5d05b418e81a258005ef95784,odia,fake,fft,fft_odia_003.wav,6,10
+4ae856e4f9493211196abb30992d41cf,odia,fake,fft,fft_odia_003.wav,7,10
+0442e196e9226c3fba086d15b4f216ce,odia,fake,fft,fft_odia_003.wav,8,10
+a0f8aa0d182f57998823ce05f93cf680,odia,fake,fft,fft_odia_003.wav,9,10
+92236709fe694f9cf81b5b3c569439be,odia,fake,fft,fft_odia_003.wav,10,10
+c9088f8069e39083fc63948a87dadb61,odia,fake,fft,fft_odia_003.wav,11,10
+1dab307a90ca059266ed8724a57813c8,odia,fake,fft,fft_odia_003.wav,12,10
+066a9ee53728d6a5e4cd4d7f11129e6f,odia,fake,fft,fft_odia_003.wav,13,10
+17f373246fb7d801b6e5f58e0c10edd2,odia,fake,fft,fft_odia_003.wav,14,10
+2afe48b407814dd76754191754332562,odia,fake,fft,fft_odia_003.wav,15,10
+99cf5541ddd10eeff7819c9926b45612,odia,fake,fft,fft_odia_003.wav,16,10
+dd2113f5a0b2db2c9acf2b483351ffab,odia,fake,fft,fft_odia_003.wav,17,10
+a48f881417c1a3b5f143577160b74b71,odia,fake,fft,fft_odia_003.wav,18,10
+1492c888dc48d7938967116cd6dd2fbd,odia,fake,fft,fft_odia_003.wav,19,10
+085c7cad179560e0188c6d32054155f8,odia,fake,fft,fft_odia_003.wav,20,10
+d1e72bf5bc2a960a0537de5edbf7203a,odia,fake,fft,fft_odia_003.wav,21,10
+e258d26011630335d3cce6047fbe9c00,odia,fake,fft,fft_odia_003.wav,22,10
+2cc58db24f8850e88d5b80536f4f3934,odia,fake,fft,fft_odia_003.wav,23,10
+cf508f2a2e858ccf5ee9ef53dc269bbd,odia,fake,fft,fft_odia_003.wav,24,10
+8e8581f0df27fe9f52557ad89327582e,odia,fake,fft,fft_odia_003.wav,25,10
+daf0ae38f8920fcdfba6b2ca16cffecd,odia,fake,fft,fft_odia_003.wav,26,10
+c42850aec178d3abf6d9a45ed1f485a1,odia,fake,fft,fft_odia_003.wav,27,10
+9daf774609ff7fa078ba3c49ae699eb0,odia,fake,fft,fft_odia_004.wav,0,10
+cfdd4cf7d1c5c8227696682cf4b40ee7,odia,fake,fft,fft_odia_004.wav,1,10
+7b861e5bb59fb00e07781ec7c13d39d4,odia,fake,fft,fft_odia_004.wav,2,10
+9a410fb45d3b1a48320d6fbc97cc8fbf,odia,fake,fft,fft_odia_004.wav,3,10
+4de82e1b6bf364438c40e68a2abb813c,odia,fake,fft,fft_odia_004.wav,4,10
+141ba9ff4cd7aa30d2d432bf4379737e,odia,fake,fft,fft_odia_004.wav,5,10
+087d6ddcee1c9ffb7bdc781d28ee5bd7,odia,fake,fft,fft_odia_004.wav,6,10
+0358d2a1e3b0183c1dad4c8d61e73be6,odia,fake,fft,fft_odia_004.wav,7,10
+6307b6ce684cbe81f0fbe88f9ea0fe03,odia,fake,fft,fft_odia_004.wav,8,10
+a405c8319f3292b52bd90e8c240a51c6,odia,fake,fft,fft_odia_004.wav,9,10
+5003e2ae4736eb5444c4549bbf85eedc,odia,fake,fft,fft_odia_004.wav,10,10
+d491e206b23e366f7c17a8aa67e10dc3,odia,fake,fft,fft_odia_004.wav,11,10
+171f73f3efd8cfa60c71eb952ab5779f,odia,fake,fft,fft_odia_004.wav,12,10
+67f126c909dd6328efb87b79a65e444e,odia,fake,fft,fft_odia_004.wav,13,10
+817edc20c8120cb2f4de4a86ecf468cd,odia,fake,fft,fft_odia_004.wav,14,10
+9c07bd7172f3be747e0debc144d0a30e,odia,fake,fft,fft_odia_004.wav,15,10
+d1a4b8d899a634a6a8287fc3db3e7819,odia,fake,fft,fft_odia_004.wav,16,10
+2576ad68f99f783f5468481bdf72acb5,odia,fake,fft,fft_odia_004.wav,17,10
+a2f0e4512172d67e8cf6740b2d3db13e,odia,fake,fft,fft_odia_004.wav,18,10
+49d6fe2ad303a9b0e5934f5e112c7a18,odia,fake,fft,fft_odia_004.wav,19,10
+1ecffa68392699da57491a01833d64bd,odia,fake,fft,fft_odia_004.wav,20,10
+ffb3efa632e1b50da865d23e9af3b954,odia,fake,fft,fft_odia_004.wav,21,10
+e6aa78efce1ffd6f950631d78f879c00,odia,fake,fft,fft_odia_004.wav,22,10
+5762596afc20a8cb85c7256788822256,odia,fake,fft,fft_odia_004.wav,23,10
+dc1a8f24f357f37bdcb920d297e600c6,odia,fake,fft,fft_odia_004.wav,24,10
+39c077c5f40707e2ef391ef27e2385a5,odia,fake,fft,fft_odia_004.wav,25,10
+1bcb1ce5ee1f314cf9ee7b138ad9d56d,odia,fake,fft,fft_odia_004.wav,26,10
+91d8818d1cf1850391eca605187ab4b9,odia,fake,fft,fft_odia_004.wav,27,10
+0274c5bb655f46bbf06a1a0c02cdf7ee,odia,fake,fft,fft_odia_004.wav,28,10
+4b0e0bc83a05c376b752f8b189df7b1f,odia,fake,fft,fft_odia_004.wav,29,10
+2a8781e3346cea13a87bf025e7a50713,odia,fake,fft,fft_odia_004.wav,30,10
+bdde830e6e7119ae4e3d321571a0ab5b,odia,fake,fft,fft_odia_004.wav,31,10
+71d16ab1578ff52037dd0cee5c61822b,odia,fake,fft,fft_odia_004.wav,32,10
+09e9a28e63aa0390445d0bdd14579b1e,odia,fake,fft,fft_odia_004.wav,33,10
+e1608ae2e7cdb0830cdf8b3d73e9229c,odia,fake,fft,fft_odia_004.wav,34,10
+bdf3a83098e8cee6cc50828b60a4387a,odia,fake,fft,fft_odia_004.wav,35,10
+4a0d7327a0d87ee53df4b8dca3b59724,odia,fake,fft,fft_odia_004.wav,36,10
+4cbe3207f81b8003bff6f163d5f7a1f0,odia,fake,fft,fft_odia_004.wav,37,10
+d8c6949a1b482d01fa9b5928f9a99d14,odia,fake,fft,fft_odia_004.wav,38,10
+25ac77c23fce6ce665935afad75c9f62,odia,fake,fft,fft_odia_004.wav,39,10
+5366a8ca36a4ae9e2287b2c45824ab04,odia,fake,fft,fft_odia_004.wav,40,10
+7fad8bedf9ef57f00c613ed487ae71ab,odia,fake,fft,fft_odia_005.wav,0,10
+6664e5adee2d38eedebe2ff5e0b8b87e,odia,fake,fft,fft_odia_005.wav,1,10
+c8119405697b55bb7edf89fa80d5b411,odia,fake,fft,fft_odia_005.wav,2,10
+f96287eeba304dceb5754e6001884bfc,odia,fake,fft,fft_odia_005.wav,3,10
+39df42acbee86f8d4d48fb0bd97c8036,odia,fake,fft,fft_odia_005.wav,4,10
+5173d12db755c914914bfebc88de096f,odia,fake,fft,fft_odia_005.wav,5,10
+5c797ee9fcb76b1369548c5261abdad6,odia,fake,fft,fft_odia_005.wav,6,10
+1824bee9e58de808ec64e0ee6345633f,odia,fake,fft,fft_odia_005.wav,7,10
+0ecf3fdecb6d93c96913a3ccc9362182,odia,fake,fft,fft_odia_005.wav,8,10
+a23e06f9f48a8466d93e37fcb4cdf3c3,odia,fake,fft,fft_odia_005.wav,9,10
+fa4fe2aa350ebc670acfc23f60d6b802,odia,fake,fft,fft_odia_005.wav,10,10
+4da8b0cb9650d08660d9837950f3b60a,odia,fake,fft,fft_odia_005.wav,11,10
+6b334d4ac8d64776ffe8a604351de286,odia,fake,fft,fft_odia_005.wav,12,10
+5276f808a78bb739c7f418de6f404181,odia,fake,fft,fft_odia_005.wav,13,10
+41de20391781ad8086673a11abe29628,odia,fake,fft,fft_odia_005.wav,14,10
+41f8d51da03f3ebcd1e00b5b6c85102a,odia,fake,fft,fft_odia_005.wav,15,10
+caf47cb0cbae8f4b118d7f47cc90049a,odia,fake,fft,fft_odia_005.wav,16,10
+e25b19de9c85cd9c6cb8d8e39f3aa6c9,odia,fake,fft,fft_odia_005.wav,17,10
+0b0c2bd0b643cf0c95c1edfd34099aa3,odia,fake,fft,fft_odia_005.wav,18,10
+3e7342fd139ac99e52b13198dcedc597,odia,fake,fft,fft_odia_005.wav,19,10
+ac59f06ef7051d397e84d15d8ab8298e,odia,fake,fft,fft_odia_005.wav,20,10
+5e579fbd790e3ef507f6f7e179a0bfee,odia,fake,fft,fft_odia_005.wav,21,10
+6bd3003f21cbc010c0f81b4b45f0f733,odia,fake,fft,fft_odia_005.wav,22,10
+4a27b9d53ab6181fb81ddc320ffff4cd,odia,fake,fft,fft_odia_005.wav,23,10
+7835c9e7da6ea26521822bd1da50c227,odia,fake,fft,fft_odia_005.wav,24,10
+eded0f721d46b04b60fee4faede52e6b,odia,fake,fft,fft_odia_005.wav,25,10
+4c4583f3ee351ef6706db31b4f618f1a,odia,fake,fft,fft_odia_005.wav,26,10
+b7087c2ff7815dc946b23504ef3ef542,odia,fake,fft,fft_odia_005.wav,27,10
+ecee7b8011eda9e5714bf939446abc85,odia,fake,fft,fft_odia_005.wav,28,10
+6c82b9a21ed2ec5c64464d355ab60bb6,odia,fake,fft,fft_odia_005.wav,29,10
+6dced515677e694f8974f83f1fb2d86d,odia,fake,fft,fft_odia_005.wav,30,10
+b5637f4471779cd73394db0f7a088030,odia,fake,fft,fft_odia_005.wav,31,10
+f87fcb1f5068a2093b2d1401af9e3da1,odia,fake,fft,fft_odia_005.wav,32,10
+09acddb7ffbea538f8f6177d28b56255,odia,fake,fft,fft_odia_005.wav,33,10
+4e280fc3222ab1c82cc57efd22f47ba9,odia,fake,fft,fft_odia_005.wav,34,10
+cabbf63d7a32eec2f7ed0efe7e07b33d,odia,fake,fft,fft_odia_005.wav,35,10
+e30e880704a9623daa4e45e237e813da,odia,fake,fft,fft_odia_005.wav,36,10
+f83fc2c4ff0a5d5a4925e8303c1dc235,odia,fake,fft,fft_odia_005.wav,37,10
+ef7438673974324806dfa1ed31f3c245,odia,fake,fft,fft_odia_005.wav,38,10
+decb72c618d2c6ff81ecee5ee9207b53,odia,fake,fft,fft_odia_006.wav,0,10
+f60a548edd924437111130ab4a569851,odia,fake,fft,fft_odia_006.wav,1,10
+201105afab464fc705c84c47dd0ed41d,odia,fake,fft,fft_odia_006.wav,2,10
+640912a84446731e6d0e46c4b3f62ccf,odia,fake,fft,fft_odia_006.wav,3,10
+c49f4697ea6171cac71f97197007c05b,odia,fake,fft,fft_odia_006.wav,4,10
+dfb040d175c968c2a79e2a1e42254a1f,odia,fake,fft,fft_odia_006.wav,5,10
+84eafb293bb47d8c229a520bf7dee455,odia,fake,fft,fft_odia_006.wav,6,10
+8dc2b3da5078efdf637f561cb431dd79,odia,fake,fft,fft_odia_006.wav,7,10
+6c863c971ac72bf3b0320f81577c4990,odia,fake,fft,fft_odia_006.wav,8,10
+60366e1b9cf69c5a41deedf226370092,odia,fake,fft,fft_odia_006.wav,9,10
+8505dad84f4003326075c8d5a1515b68,odia,fake,fft,fft_odia_006.wav,10,10
+fefc35ced3a525ad39c257425b2b6a20,odia,fake,fft,fft_odia_006.wav,11,10
+3fa9e14fd52ac72dd4d4c8a93c85dce1,odia,fake,fft,fft_odia_006.wav,12,10
+e51abf8fe90aa4d4217f08d8451ce6e7,odia,fake,fft,fft_odia_006.wav,13,10
+57784fc1d207aad11f5ce4f715f12778,odia,fake,fft,fft_odia_006.wav,14,10
+e33f2131fb98b0f4234666bdedb3e081,odia,fake,fft,fft_odia_006.wav,15,10
+2bd51f1ea2a7a98141739c7647619244,odia,fake,fft,fft_odia_006.wav,16,10
+6274f04946da61903410630c6ef1ef02,odia,fake,fft,fft_odia_006.wav,17,10
+bdf8f4bd129d5405a3594f721190284e,odia,fake,fft,fft_odia_006.wav,18,10
+9c18af89a722f1181590291fa1d992da,odia,fake,fft,fft_odia_006.wav,19,10
+3ba503fc0bf091b31eb09c837a388fd0,odia,fake,fft,fft_odia_006.wav,20,10
+fc8a43cf8392a2dc2e5fd1e25076399d,odia,fake,fft,fft_odia_006.wav,21,10
+346e5949ab603b133d8f0cbcba0ad397,odia,fake,fft,fft_odia_006.wav,22,10
+f14b013b26c72b6bd2c32de35b2e6e79,odia,fake,fft,fft_odia_006.wav,23,10
+105104ddc57fe43f807551989ad3ce86,odia,fake,fft,fft_odia_006.wav,24,10
+8a5145c91d273108a833298830c468f6,odia,fake,fft,fft_odia_006.wav,25,10
+ba0cceccc9ff52121c24575d0fea9953,odia,fake,fft,fft_odia_006.wav,26,10
+85177fd48f5891f2a852ab723bb07d1f,odia,fake,fft,fft_odia_006.wav,27,10
+73de27efa8f47c378dadb2f3e31c7187,odia,fake,fft,fft_odia_006.wav,28,10
+d8b8fe99cb29b84acce6fefec967637a,odia,fake,fft,fft_odia_006.wav,29,10
+9851d672d432e0a06bf442e543a112a1,odia,fake,fft,fft_odia_006.wav,30,10
+7451a70b7274a905e23b3cc8c65eaf2a,odia,fake,fft,fft_odia_006.wav,31,10
+ffe0cadceda34d88cfd8d9bfd8dc2b8b,odia,fake,fft,fft_odia_006.wav,32,10
+dd8dd0dc818831310dd2a7f59ac52c54,odia,fake,fft,fft_odia_006.wav,33,10
+b382ce05928fd6b150918bfcb1f808e1,odia,fake,fft,fft_odia_007.wav,0,10
+2780ac02a0d6979ecc8cf672d4b44596,odia,fake,fft,fft_odia_007.wav,1,10
+5dac8d03f535e3c2bf86322a6655ca26,odia,fake,fft,fft_odia_007.wav,2,10
+ecb8d2dfc37689f06b4250e04b60b580,odia,fake,fft,fft_odia_007.wav,3,10
+d9e2528e5004f9ad8ceed0a32ae038ba,odia,fake,fft,fft_odia_007.wav,4,10
+e1567ff1aed2ac65d8c8bb582c27e4ad,odia,fake,fft,fft_odia_007.wav,5,10
+de984a5147b1593e4f1f8776d3fe2ed6,odia,fake,fft,fft_odia_007.wav,6,10
+8641392ae8c1c09854221c9dec2cb6d5,odia,fake,fft,fft_odia_007.wav,7,10
+3eaa99e1c621d053eeea109e398fe531,odia,fake,fft,fft_odia_007.wav,8,10
+faabc2664332b55e21af93aa51ffecba,odia,fake,fft,fft_odia_007.wav,9,10
+368167cf9ff0174b2fe7f3103b567150,odia,fake,fft,fft_odia_007.wav,10,10
+5bc903bca0bc74fe8fd15523727f484d,odia,fake,fft,fft_odia_007.wav,11,10
+604bb3a0462509ba315b4335b7eff729,odia,fake,fft,fft_odia_007.wav,12,10
+ed90324cf1fb9b1250f9143bc372bf9d,odia,fake,fft,fft_odia_007.wav,13,10
+64c0d939a6e417416702023227eb791c,odia,fake,fft,fft_odia_007.wav,14,10
+75af069d61c72b0a13a0e20336c32d5e,odia,fake,fft,fft_odia_007.wav,15,10
+51ae19860c3488140800972e4a067347,odia,fake,fft,fft_odia_008.wav,0,10
+234f684c637960674485acce39b49534,odia,fake,fft,fft_odia_008.wav,1,10
+3d4cf2abe29fefaff30792bd6dfdb0ee,odia,fake,fft,fft_odia_008.wav,2,10
+97e6217c9ed4f182587acf3826a88647,odia,fake,fft,fft_odia_008.wav,3,10
+8a863b20dcb85f6b17d352ba5b731d27,odia,fake,fft,fft_odia_008.wav,4,10
+fad3415325db501dc9dfeae1a74960d3,odia,fake,fft,fft_odia_008.wav,5,10
+b140e8a0038dda07b3a11b87d1db2808,odia,fake,fft,fft_odia_008.wav,6,10
+129f6515c93f4e3d3327675e26af381c,odia,fake,fft,fft_odia_008.wav,7,10
+d44ead80fcb75e8de68b53f6ae2960f0,odia,fake,fft,fft_odia_008.wav,8,10
+a152d54c2f6652ff49fdaf5f7668969c,odia,fake,fft,fft_odia_008.wav,9,10
+136ef2a82e6b13e95433baea3b6d7e20,odia,fake,fft,fft_odia_008.wav,10,10
+bce2c5ed307ea0744966180fa0606010,odia,fake,fft,fft_odia_008.wav,11,10
+c94575fa60f2888f47f54cfff138b1bc,odia,fake,fft,fft_odia_008.wav,12,10
+053c4afc36bcd8ad6d0543ce9943bb7d,odia,fake,fft,fft_odia_008.wav,13,10
+b0451c7b8ed6f6088511fb1cfd50b038,odia,fake,fft,fft_odia_008.wav,14,10
+1d75a3cd4eb6ef5e91f6c8feee1091c8,odia,fake,fft,fft_odia_008.wav,15,10
+870c6d5888707fed177b252c7300cf0e,odia,fake,fft,fft_odia_008.wav,16,10
+46eb5a019d190dfe00afef0357a458ef,odia,fake,fft,fft_odia_008.wav,17,10
+ffdb999d8681d24b7378e76a129a801b,odia,fake,fft,fft_odia_008.wav,18,10
+e953b9c4195e7c44ed58242d7ab59b52,odia,fake,fft,fft_odia_008.wav,19,10
+f5b7dc7f51c2a1e1964af2cd3f4bf902,odia,fake,fft,fft_odia_008.wav,20,10
+cc1fa5e11e7499543fc16d27929e96fb,odia,fake,fft,fft_odia_008.wav,21,10
+a56da935ec1df58ff9f1f4ab0e8e83ad,odia,fake,fft,fft_odia_008.wav,22,10
+2f08a53d73b3c1d13c38cb0ed6ef5ca0,odia,fake,fft,fft_odia_008.wav,23,10
+1d038b0979dd43bfcc30a8ee996bc805,odia,fake,fft,fft_odia_008.wav,24,10
+b6b607f16fc2daecfda760694f5822b0,odia,fake,fft,fft_odia_008.wav,25,10
+bacf17deb1cd6205305353b3178c6a13,odia,fake,fft,fft_odia_008.wav,26,10
+dfd8be09a480fcdc6dc694e4266e0742,odia,fake,fft,fft_odia_008.wav,27,10
+22416daed81bf1adf009e4776db0404e,odia,fake,fft,fft_odia_008.wav,28,10
+74bc84f132968364c70c09b39a590cc1,odia,fake,fft,fft_odia_008.wav,29,10
+5b8aac4051ea99cac647025b6c7b9aec,odia,fake,fft,fft_odia_008.wav,30,10
+ac9c3b2cfdd0470dbd4d4d9dfffd2ad4,odia,fake,fft,fft_odia_008.wav,31,10
+c2f115c476bafc359e69b17b4e72c6f8,odia,fake,fft,fft_odia_008.wav,32,10
+9ac3948790686b004071b77eda03abb2,odia,fake,fft,fft_odia_008.wav,33,10
+a3ca6a2f07069d3f5e626ce47942c471,odia,fake,fft,fft_odia_008.wav,34,10
+1aa3b48b0f76b1003de4381eaf6e5dd3,odia,fake,fft,fft_odia_008.wav,35,10
+5072a3284d7ce278b985fe2f558a0958,odia,fake,fft,fft_odia_008.wav,36,10
+cff5cca225e3a0ce9198bf09c7f201b1,odia,fake,fft,fft_odia_008.wav,37,10
+accae1b46ac567094c22d31914d85a12,odia,fake,fft,fft_odia_008.wav,38,10
+6932f67260cc824f961cbb8ed24cfa3a,odia,fake,fft,fft_odia_008.wav,39,10
+71b06a6cbcad07512949cc44e21759f1,odia,fake,fft,fft_odia_008.wav,40,10
+e6c6fc84001a0d9356170f0a3aaeb06a,odia,fake,fft,fft_odia_008.wav,41,10
+b62657c55c8765a4d55cf9659f7a75bb,odia,fake,fft,fft_odia_008.wav,42,10
+789a900f21ef533563f8c807c479ae84,odia,fake,fft,fft_odia_008.wav,43,10
+9335f2e4610b32f3c651154fe2f636cc,odia,fake,fft,fft_odia_008.wav,44,10
+195f2a934a26e421bcef4bda51820b3b,odia,fake,fft,fft_odia_008.wav,45,10
+be4e3874457c87f588ff54657ed657ce,odia,fake,fft,fft_odia_008.wav,46,10
+f27730541df9ad1e65e1a8778081bb98,odia,fake,fft,fft_odia_008.wav,47,10
+98154a2318f5c4d1f37ec90d381e7153,odia,fake,fft,fft_odia_008.wav,48,10
+7ed4bd585ba1db062061b37a8a23f026,odia,fake,fft,fft_odia_008.wav,49,10
+8340d56eaad64de29e7dfc9e58be9c69,odia,fake,fft,fft_odia_008.wav,50,10
+93ee4f0a1aa1a777a8e096dad7f5f923,odia,fake,fft,fft_odia_008.wav,51,10
+e4dcb8cb08319c65aaf1d7ee12758443,odia,fake,fft,fft_odia_008.wav,52,10
+3a469c65949b9fbacb5af07f4036235c,odia,fake,fft,fft_odia_008.wav,53,10
+f5c7cb90f2d045266d88f72170ae50df,odia,fake,fft,fft_odia_008.wav,54,10
+d854791c56693d6903b34607f0f0e08b,odia,fake,fft,fft_odia_008.wav,55,10
+0ef28604693e14f19481c40f88b93381,odia,fake,fft,fft_odia_008.wav,56,10
+01904815fd5bb113ebf57846d2067430,odia,fake,fft,fft_odia_008.wav,57,10
+52e4bb545d0c95cacce22974c0588ac1,odia,fake,fft,fft_odia_008.wav,58,10
+1fa0f4f8e70fcd6d0185589266472efa,odia,fake,fft,fft_odia_008.wav,59,10
+45c5086e1075bf309b0c0f99ed2afe7c,odia,fake,fft,fft_odia_008.wav,60,10
+ce6423ed6ef464b6519feea0c62c32c8,odia,fake,fft,fft_odia_008.wav,61,10
+6425e7f5328e6eedebcbbeb1daf8f4ca,odia,fake,fft,fft_odia_008.wav,62,10
+ab728b8fb0aef259976c82a27ea4b7ac,odia,fake,fft,fft_odia_008.wav,63,10
+6ba5edeadc29ce45881fb84c20b6a27c,odia,fake,fft,fft_odia_008.wav,64,10
+844c7490653f01a32a644ee3973f55d9,odia,fake,fft,fft_odia_008.wav,65,10
+ad0d596a009dd4e6a980ab85e193cb03,odia,fake,fft,fft_odia_008.wav,66,10
+ee3b38e97b6e0d560c2c5f54674042d7,odia,fake,fft,fft_odia_008.wav,67,10
+7142477e0158f237c45e57574d9fe573,odia,fake,fft,fft_odia_008.wav,68,10
+06490443b6dc22890a178cb772048049,odia,fake,fft,fft_odia_008.wav,69,10
+7df05cedb635f88edb0c4a0f6a9f419d,odia,fake,fft,fft_odia_008.wav,70,10
+e400ad8022c1bb3514844f152ebcc989,odia,fake,fft,fft_odia_008.wav,71,10
+de2905811c126de26f49409cbe05ea80,odia,fake,fft,fft_odia_008.wav,72,10
+9845ca88cddfc372252ef285d3c6cc0e,odia,fake,fft,fft_odia_008.wav,73,10
+fa2f66f48263f4f76f4e056c376b25da,odia,fake,fft,fft_odia_008.wav,74,10
+9f14d649f0df90f84ecbe7e560994f37,odia,fake,fft,fft_odia_008.wav,75,10
+d7f9f8a380fe75a1a28c492599edd95c,odia,fake,fft,fft_odia_008.wav,76,10
+134ec60387c059f7384163441d4d9bb0,odia,fake,fft,fft_odia_008.wav,77,10
+cd91b9dd72312b7bf61deef2540b23a2,odia,fake,fft,fft_odia_008.wav,78,10
+16754d58c8e8343ff239ab2dcd12ffc7,odia,fake,fft,fft_odia_008.wav,79,10
+2a0e6747cb9e9fbc9c1bb369ec77212a,odia,fake,fft,fft_odia_008.wav,80,10
+09bb1a5c765a43e32a07b45823035bbe,odia,fake,fft,fft_odia_008.wav,81,10
+20a961ecca949e924a795c97a0650b1d,odia,fake,fft,fft_odia_008.wav,82,10
+f6ef8091cf696e86b9f0dd47c4a3ae36,odia,fake,fft,fft_odia_008.wav,83,10
+a262c2eeb2a7fafbe2b7f561af3b00c3,odia,fake,fft,fft_odia_008.wav,84,10
+3501484be0bd45f1352f3958d6059513,odia,fake,fft,fft_odia_008.wav,85,10
+292751b306632ce7471cf9571cdda0f4,odia,fake,fft,fft_odia_008.wav,86,10
+15514362e69004b6c8ba130826df6cb2,odia,fake,fft,fft_odia_008.wav,87,10
+a2d7acc73f70acf7a3cf6226f2e774b6,odia,fake,fft,fft_odia_008.wav,88,10
+845d639d2f4be3717da6eb9761cf8e63,odia,fake,fft,fft_odia_008.wav,89,10
+1c6980f4465a2dcf5c4212c2db334dca,odia,fake,fft,fft_odia_008.wav,90,10
+903b29ce5d9bc057abf49d35c5c7f120,odia,fake,fft,fft_odia_008.wav,91,10
+c85d3070bb4b0a0d692c4dcbeaeb98bf,odia,fake,fft,fft_odia_008.wav,92,10
+4a695a492e15224592c01f415b38c153,odia,fake,fft,fft_odia_008.wav,93,10
+25d2fda4432e2569341fe12304fdcaf6,odia,fake,fft,fft_odia_008.wav,94,10
+febc1027f6e805eb014913bddb415cc2,odia,fake,fft,fft_odia_008.wav,95,10
+e75ff810c8b5cc06104555366457b9c3,odia,fake,fft,fft_odia_008.wav,96,10
+a779367b3c24030f9aa0946870c77a83,odia,fake,fft,fft_odia_008.wav,97,10
+89a09f4ff38bba03bd4827504c7bbab1,odia,fake,fft,fft_odia_008.wav,98,10
+26169614b8408462b5499f7a60fd90fd,odia,fake,fft,fft_odia_008.wav,99,10
+224e05ad1dfc85e2d3d8c6bddbdb750a,odia,fake,fft,fft_odia_008.wav,100,10
+3c838837cf42846c39d9b2b6af2dd485,odia,fake,fft,fft_odia_008.wav,101,10
+467c25407709351071ffd9384a500952,odia,fake,fft,fft_odia_008.wav,102,10
+532eb2aa92b902ca7606b71bf296e3d0,odia,fake,fft,fft_odia_008.wav,103,10
+62e047c79cb14437c20d0fa48fd99b8c,odia,fake,fft,fft_odia_008.wav,104,10
+7e44e62b7b88554de5d84334247c08af,odia,fake,fft,fft_odia_008.wav,105,10
+b59fc48da3d360e1da1ceb685a0a1bb0,odia,fake,fft,fft_odia_008.wav,106,10
+9daa2b10ba63b1decbe5f133f1187eea,odia,fake,fft,fft_odia_008.wav,107,10
+79c9d28c5bbc457007e0d9d583f005fa,odia,fake,fft,fft_odia_008.wav,108,10
+0739435d13d6cdc36e2b614c3d212674,odia,fake,fft,fft_odia_008.wav,109,10
+0ed3c74b7be319cf13004368bf11a8f6,odia,fake,fft,fft_odia_008.wav,110,10
+67e407c469c731bd50d69a37a1f12460,odia,fake,fft,fft_odia_008.wav,111,10
+b5065c51cc411f05c8a10e5047a3675f,odia,fake,fft,fft_odia_008.wav,112,10
+5927466cfdf728189a8022346100fcc0,odia,fake,fft,fft_odia_008.wav,113,10
+c59830b5f424c53d8973f9cdfddf6775,odia,fake,fft,fft_odia_008.wav,114,10
+ba80d3f8cf822139a1945f421494484d,odia,fake,fft,fft_odia_008.wav,115,10
+a00c8c0f8238f220cd090478f012dbb5,odia,fake,fft,fft_odia_008.wav,116,10
+da11d843d22e681792975a5cd9bbe01c,odia,fake,fft,fft_odia_008.wav,117,10
+aba01806bad92fab343ac2fc4220d735,odia,fake,fft,fft_odia_008.wav,118,10
+3dc38902f295295c39251ca4bb5d7290,odia,fake,fft,fft_odia_008.wav,119,10
+2fdbaed69faec336fea33d16d4e599f8,odia,fake,fft,fft_odia_008.wav,120,10
+8352a3ea564b4a32da3d166f8e385cae,odia,fake,fft,fft_odia_008.wav,121,10
+b5ebbb8c772b29b7e5b11e5f6d6ba2c5,odia,fake,fft,fft_odia_008.wav,122,10
+cb3ca0970d2478bbbf31f8d744ad1122,odia,fake,fft,fft_odia_008.wav,123,10
+54b334636caea1b5ae0d08d3b0c352eb,odia,fake,fft,fft_odia_008.wav,124,10
+cfe0f6d98371e2f0781f44cb1272aafb,odia,fake,fft,fft_odia_008.wav,125,10
+b901e97c70a486c361ed0c15de4fffa8,odia,fake,fft,fft_odia_008.wav,126,10
+c2aeb42ac7b925f0309b6f5cd9dff188,odia,fake,fft,fft_odia_008.wav,127,10
+9fc027c43ed082e63ea8afebd54a607a,odia,fake,fft,fft_odia_008.wav,128,10
+d3e50e9422ddb0e2ab00688c35a36d5e,odia,fake,fft,fft_odia_008.wav,129,10
+1efbc6001420a06d5e0eb501850715a4,odia,fake,fft,fft_odia_008.wav,130,10
+7a0195850fab689ff08f243fa78dcfeb,odia,fake,fft,fft_odia_008.wav,131,10
+52fbc1fb3527f48216b821d3ae6a4c1a,odia,fake,fft,fft_odia_008.wav,132,10
+29bf6345fbc2ad3faa0509397ff2e91f,odia,fake,fft,fft_odia_008.wav,133,10
+f67ae27a92123c3e1909fe3975252274,odia,fake,fft,fft_odia_008.wav,134,10
+d4a459a96c3ed508e7d724f71569e489,odia,fake,fft,fft_odia_008.wav,135,10
+f12a60b110949ec42fd54ad617cd43a2,odia,fake,fft,fft_odia_008.wav,136,10
+77ded75f65cec03bcf8f87fc59257e9a,odia,fake,fft,fft_odia_008.wav,137,10
+f8ac3fe5c8519d0babf06ad5cbf08da4,odia,fake,fft,fft_odia_008.wav,138,10
+afa9b5a3dff19af3b13100c6891f404e,odia,fake,fft,fft_odia_008.wav,139,10
+9d510c362002dc5b481559dd31f1045f,odia,fake,fft,fft_odia_008.wav,140,10
+871eac8609807609a91472b070a30a40,odia,fake,fft,fft_odia_008.wav,141,10
+c4134442c3f446ca68c493d7c5562a94,odia,fake,fft,fft_odia_008.wav,142,10
+5dd5054904dccbc105e413cdd5e76847,odia,fake,fft,fft_odia_008.wav,143,10
+4c84c9fbe203253550c9b1e6d33e0a04,odia,fake,fft,fft_odia_008.wav,144,10
+be2b926e39bc443cd96197d8febfe8d7,odia,fake,fft,fft_odia_008.wav,145,10
+83ffb2137d89856532db8cef5e1a8863,odia,fake,fft,fft_odia_008.wav,146,10
+c58945bb43861ea79e6d00b550a1ceb0,odia,fake,fft,fft_odia_008.wav,147,10
+8c10f0b36509a802976c210c6d172434,odia,fake,fft,fft_odia_008.wav,148,10
+69a7f5d6a025a0171e05dc37b3a3ffb9,odia,fake,fft,fft_odia_008.wav,149,10
+42c56a7853d1990824a832dff38d569e,odia,fake,fft,fft_odia_008.wav,150,10
+1804f70a09d54ec63c6cb29232264fd9,odia,fake,fft,fft_odia_008.wav,151,10
+183956d8d5f86f4e51cdccf2b2aa5dcd,odia,fake,fft,fft_odia_008.wav,152,10
+ed5ce04e441547972541b6266aeed9a4,odia,fake,fft,fft_odia_008.wav,153,10
+7fd22425ff578b39466ada06f5246d61,odia,fake,fft,fft_odia_008.wav,154,10
+8bd385464774f4b4b32c501272a3f01f,odia,fake,fft,fft_odia_008.wav,155,10
+f3763cfecf696b6058d454c6ae89c6e8,odia,fake,fft,fft_odia_008.wav,156,10
+9885eae1e3b3156fd683cd254cbfb8f7,odia,fake,fft,fft_odia_008.wav,157,10
+61f96b8308ac59bf0786f6f77e5d4d40,odia,fake,fft,fft_odia_008.wav,158,10
+f6272b77c0e3ae604257aa55c233ed91,odia,fake,fft,fft_odia_008.wav,159,10
+d9e9579ec809599e8057859a5735aa42,odia,fake,fft,fft_odia_008.wav,160,10
+2a02b245af60d81822b006809948a3d8,odia,fake,fft,fft_odia_008.wav,161,10
+c741f5b868ef298aceb4478eb139edf8,odia,fake,fft,fft_odia_008.wav,162,10
+c136f83227b7fdab9a30c5e72946c067,odia,fake,fft,fft_odia_008.wav,163,10
+6208c29db3e15c175c67fa7753d11c92,odia,fake,fft,fft_odia_008.wav,164,10
+000c8831dbd27762ff393d0e62d4364e,odia,fake,fft,fft_odia_008.wav,165,10
+9563919ab59e7d3b5fd42b0b39d9727a,odia,fake,fft,fft_odia_008.wav,166,10
+051d512ea315d7a9cfc951b89ba601cf,odia,fake,fft,fft_odia_008.wav,167,10
+8f1890abda5844b6cdfe31a102213a22,odia,fake,fft,fft_odia_008.wav,168,10
+44e16945d1856bec1f0c84238e9d4da7,odia,fake,fft,fft_odia_008.wav,169,10
+f3c898928655558bc4671da2a6c39074,odia,fake,fft,fft_odia_008.wav,170,10
+58134952b76e69ef7777d09004f90809,odia,fake,fft,fft_odia_008.wav,171,10
+32542a1d787d3fe74ca88a2e53b281d4,odia,fake,fft,fft_odia_008.wav,172,10
+75f7cc6f733c0658be0f401b8e9a8b03,odia,fake,fft,fft_odia_008.wav,173,10
+f4f479612d55b38b65c1337e718d8b83,odia,fake,fft,fft_odia_008.wav,174,10
+6539d767bcbbef0fc8a69c78069958be,odia,fake,fft,fft_odia_008.wav,175,10
+678ae69c113c38e88431f5766736270a,odia,fake,fft,fft_odia_008.wav,176,10
+ea1793eee85a27ad4bec981e1e462d14,odia,fake,fft,fft_odia_008.wav,177,10
+d789beb51ec289cbab4c0d27c9f71c92,odia,fake,fft,fft_odia_008.wav,178,10
+dd76489eaac14b24f1ab7bddc6a49fd8,odia,fake,fft,fft_odia_008.wav,179,10
+99ec51e9e8b1fc44cfb6dd1767e636b7,odia,fake,fft,fft_odia_008.wav,180,10
+f0dfffe6dbc2d1ea6762c9349ff356e6,odia,fake,fft,fft_odia_008.wav,181,10
+fc4edd154aa04cde92f1b2cf5ee478ab,odia,fake,fft,fft_odia_008.wav,182,10
+5f7707408a71b1566c47d5e0dffdf25c,odia,fake,fft,fft_odia_008.wav,183,10
+4b48ef4c95f62877b2030fde246c88a0,odia,fake,fft,fft_odia_008.wav,184,10
+706115b1b08b0b8e470ca76a4e34755b,odia,fake,fft,fft_odia_008.wav,185,10
+7ec141bc1f0194aadfd612709898face,odia,fake,fft,fft_odia_008.wav,186,10
+16966e94312c05f3c189974c7144c47b,odia,fake,fft,fft_odia_008.wav,187,10
+c62f8cf9dc110b9cd1c7039d9cab402a,odia,fake,fft,fft_odia_008.wav,188,10
+f3b77ebe9e48a1c3e5fe7708a1ea8fcc,odia,fake,fft,fft_odia_008.wav,189,10
+7cdea7854269cb341658a9f37410ad3e,odia,fake,fft,fft_odia_008.wav,190,10
+c947f95d84cf7992c5f1be5b549efb03,odia,fake,fft,fft_odia_008.wav,191,10
+94fdfbcc315ec6ca78c0f3dfa52156e4,odia,fake,fft,fft_odia_008.wav,192,10
+5f629a08e278f332823438fad6dfe54c,odia,fake,fft,fft_odia_008.wav,193,10
+7a909ccb2c7a823aaf244256dd51c810,odia,fake,fft,fft_odia_008.wav,194,10
+44092f2bb35fd707e8ba0dcdc684329e,odia,fake,fft,fft_odia_008.wav,195,10
+a210407d454c5e07c5ef4a3b55aa2efb,odia,fake,fft,fft_odia_008.wav,196,10
+40aa6cf12dc9d3c2068be81dc3adcee8,odia,fake,fft,fft_odia_008.wav,197,10
+27911cbf8aec54e109fd6b4d4064b314,odia,fake,fft,fft_odia_008.wav,198,10
+8283f78c7b9a9d016ddbb42a49f2eded,odia,fake,fft,fft_odia_008.wav,199,10
+c33d98956812438692aa7bea587c4da9,odia,fake,fft,fft_odia_008.wav,200,10
+94f88dbeec22f45c51151498311d37e3,odia,fake,fft,fft_odia_008.wav,201,10
+ba49692cfabb405509cbdfd899c72026,odia,fake,fft,fft_odia_008.wav,202,10
+4e5ef1713d916b64075a0b728b1b6758,odia,fake,fft,fft_odia_008.wav,203,10
+b5c47705ba9f4f2698195ae8c386ee4a,odia,fake,fft,fft_odia_008.wav,204,10
+357185ae8c3e8b7a3c0e444facee82be,odia,fake,fft,fft_odia_008.wav,205,10
+c665811cd9a637bbaa851a5980e0c3e9,odia,fake,fft,fft_odia_008.wav,206,10
+5be57c0228e41e1b240f417fad6e6172,odia,fake,fft,fft_odia_009.wav,0,10
+226b69f99e440f768a2ac861f7090072,odia,fake,fft,fft_odia_009.wav,1,10
+fd1ba6cfd0921a1a1438285805c5b98c,odia,fake,fft,fft_odia_009.wav,2,10
+ee8a479be396955e4db46bd1d4e8a3a0,odia,fake,fft,fft_odia_009.wav,3,10
+2155c3ebcc0bd5456700cc83cca92e26,odia,fake,fft,fft_odia_009.wav,4,10
+957a2684a86d344325d21a9d965d6f23,odia,fake,fft,fft_odia_009.wav,5,10
+4fb5941b6e66a79de15411be87329cea,odia,fake,fft,fft_odia_009.wav,6,10
+798b4ab0f401c5d252fea22c6438e033,odia,fake,fft,fft_odia_009.wav,7,10
+e92489ce2468890b399fa6f2a4c22ddf,odia,fake,fft,fft_odia_009.wav,8,10
+be49cc22cd6df20a2054f35b7e7bb7a6,odia,fake,fft,fft_odia_009.wav,9,10
+57874b2508503cac5af04cb2a7205e9d,odia,fake,fft,fft_odia_009.wav,10,10
+991d5942fb19d57d9b71cfb17b719d1c,odia,fake,fft,fft_odia_009.wav,11,10
+e19296e20dc268f5cdb4451af1e3d000,odia,fake,fft,fft_odia_009.wav,12,10
+89f8d4b2147c219326b222833b675e9c,odia,fake,fft,fft_odia_009.wav,13,10
+077950f3ed67cfd275dcc35794f0be9f,odia,fake,fft,fft_odia_009.wav,14,10
+0a886ee12ac2ea6b15c0e6655ce2df48,odia,fake,fft,fft_odia_009.wav,15,10
+bfc0a67d824c788b82fe699a05110a09,odia,fake,fft,fft_odia_009.wav,16,10
+d3c810f8605d5c0a95c9dc7ca615c411,odia,fake,fft,fft_odia_009.wav,17,10
+e9483e7b86c9d5bd0ffb28e4f461e0e8,odia,fake,fft,fft_odia_009.wav,18,10
+9a118f1a65e668873d8c78af5f87501b,odia,fake,fft,fft_odia_009.wav,19,10
+f70e0545c60905ad0f38bebeef2fd3cd,odia,fake,fft,fft_odia_009.wav,20,10
+4eb512785fa92054828c63fd0e0e2004,odia,fake,fft,fft_odia_009.wav,21,10
+504827c5ce00141e9d6a72350713bf41,odia,fake,fft,fft_odia_009.wav,22,10
+aea8ffb976b3208d41dd064adfe18da7,odia,fake,fft,fft_odia_009.wav,23,10
+b845ed57758cc65799cda5651435e5ba,odia,fake,fft,fft_odia_009.wav,24,10
+42460b42705fe73c37ae9dd6d4a476ee,odia,fake,fft,fft_odia_009.wav,25,10
+91c17c43c0c43e4469384b384ef535a9,odia,fake,fft,fft_odia_009.wav,26,10
+e227cbe38d5d91125d14afc0279c4fd9,odia,fake,fft,fft_odia_009.wav,27,10
+1d94e441db1d51f89ef0f4e89b13fc47,odia,fake,fft,fft_odia_009.wav,28,10
+875e33621651751777cc8ba21bcae43a,odia,fake,fft,fft_odia_009.wav,29,10
+050c796d9206455497936a7767fef7c9,odia,fake,fft,fft_odia_009.wav,30,10
+1b1e4c9d1073f94e9d87eb420411c7e7,odia,fake,fft,fft_odia_009.wav,31,10
+9f69fb5ed4f5cd22e2cfa2e51b2fd237,odia,fake,fft,fft_odia_009.wav,32,10
+a278c757db9529d7470f6144bffe98b0,odia,fake,fft,fft_odia_009.wav,33,10
+9f0a4cd0892cdddf46b71e09549add87,odia,fake,fft,fft_odia_009.wav,34,10
+ee1a94c12eb8cea4cbcc459c68b0e5cd,odia,fake,fft,fft_odia_009.wav,35,10
+ba74474d8ed984a24b0faf3ed5f9ca8d,odia,fake,fft,fft_odia_009.wav,36,10
+df988582241012de1faed2b6127133c9,odia,fake,fft,fft_odia_009.wav,37,10
+721750cc6ef58107dda7369dd317ad37,odia,fake,fft,fft_odia_009.wav,38,10
+1d3fe1932217279af16d1807b2ec095b,odia,fake,fft,fft_odia_009.wav,39,10
+a8669ecc9064e6f2ff71f700501a01f6,odia,fake,fft,fft_odia_009.wav,40,10
+ad254978b589f845a46ceb91cac04c11,odia,fake,fft,fft_odia_009.wav,41,10
+9954db779279d9a6e206e2d51199bbd5,odia,fake,fft,fft_odia_009.wav,42,10
+8a3cb44af155b15f79659989352c43a5,odia,fake,fft,fft_odia_009.wav,43,10
+e96c8beadcd8bb4dd937cde9065473a3,odia,fake,fft,fft_odia_009.wav,44,10
+cbb84849ef4ba6df3e0475af804e40fa,odia,fake,fft,fft_odia_009.wav,45,10
+9e8c8e2853a53c0d382fd65d968e8ed5,odia,fake,fft,fft_odia_009.wav,46,10
+8f7ea9c7a3dda2a881c57e9bd528a439,odia,fake,fft,fft_odia_009.wav,47,10
+2e8aaf2ee671fadbb087d7796caf8eca,odia,fake,fft,fft_odia_009.wav,48,10
+f8bcdbb501e23803ebacd7a0416ddef4,odia,fake,fft,fft_odia_009.wav,49,10
+d3c7b4d1bcb76059fa7b17a763c14ac1,odia,fake,fft,fft_odia_009.wav,50,10
+eec5f58805a1c2244f92138620bdb414,odia,fake,fft,fft_odia_009.wav,51,10
+48c1f3865e2ec39a4b8461a3790e6093,odia,fake,fft,fft_odia_009.wav,52,10
+5f95b9a02b35be204d2bdc558864c8ed,odia,fake,fft,fft_odia_009.wav,53,10
+7943d101a7c0488b9befae2d8aca8107,odia,fake,fft,fft_odia_009.wav,54,10
+63b1b5aeebd4b72bc08c52f25c09e5ce,odia,fake,fft,fft_odia_009.wav,55,10
+dd0b0a0883c14266a2b271f3bf15e5ba,odia,fake,fft,fft_odia_009.wav,56,10
+a688d122772ded70badcc492cbe1713d,odia,fake,fft,fft_odia_009.wav,57,10
+dcd09fa63942b82e6a19a33a03677ee3,odia,fake,fft,fft_odia_009.wav,58,10
+d0ff38a645bab158571abcb6a365806c,odia,fake,fft,fft_odia_009.wav,59,10
+722a944e3fb7f1dbd3e13d7a84c16856,odia,fake,fft,fft_odia_009.wav,60,10
+6d1d87ab92f99d124ff4b8fd3f6d7789,odia,fake,fft,fft_odia_009.wav,61,10
+a0294e73e51fea7a69f68b26f5bf3723,odia,fake,fft,fft_odia_009.wav,62,10
+1186a10e4c9465166cea0ee7f8346981,odia,fake,fft,fft_odia_009.wav,63,10
+776945b510112749bfdf75023cbc3b22,odia,fake,fft,fft_odia_009.wav,64,10
+f7f9c48b12abf3741faa751df5df588c,odia,fake,fft,fft_odia_009.wav,65,10
+68dd067325c56be73e64aca164e55d4b,odia,fake,fft,fft_odia_009.wav,66,10
+c610a8637b768c76104625d22bef93f5,odia,fake,fft,fft_odia_009.wav,67,10
+42381b043fe1a7aa30caa8326a960732,odia,fake,fft,fft_odia_009.wav,68,10
+dd688dcacdb1b9ef0fc05107e4913925,odia,fake,fft,fft_odia_009.wav,69,10
+9bcd7018455fab65cb923c5773416b35,odia,fake,fft,fft_odia_009.wav,70,10
+c199b61813eceb9dc4e2cb5ea67a93e3,odia,fake,fft,fft_odia_009.wav,71,10
+f6f7e6cdd93d71547caa0735ae1837dc,odia,fake,fft,fft_odia_009.wav,72,10
+d4a3a349792314ad9e4127f835320e90,odia,fake,fft,fft_odia_009.wav,73,10
+ef2eefcf7dc4e1291d5d2c367434173e,odia,fake,fft,fft_odia_009.wav,74,10
+dc9f2dd3dbaa15338cb1f5c2f40dffce,odia,fake,fft,fft_odia_009.wav,75,10
+052d8e91950ff98f9fc43d1317134ed5,odia,fake,fft,fft_odia_009.wav,76,10
+e368720837d62047b2dc7717adfddbbb,odia,fake,fft,fft_odia_009.wav,77,10
+b30a85ff3df22290b92efc9a568c1e3f,odia,fake,fft,fft_odia_009.wav,78,10
+05be7c838855de43e703490bb7ccd3c0,odia,fake,fft,fft_odia_009.wav,79,10
+856d6c4da5309b4f0f9d14b7f84c1827,odia,fake,fft,fft_odia_009.wav,80,10
+c3199f691534760a8f6dc570bec1e33f,odia,fake,fft,fft_odia_009.wav,81,10
+dcb68fd37dfbd11ca53396d7e3e76d28,odia,fake,fft,fft_odia_009.wav,82,10
+9fb83112a9a53c743053f6c64b5e4989,odia,fake,fft,fft_odia_009.wav,83,10
+12527589e3bd9ace2aba693e27ff73bc,odia,fake,fft,fft_odia_009.wav,84,10
+dc3f3ae58fb06c85ea50a32cc6559781,odia,fake,fft,fft_odia_009.wav,85,10
+62e791a320dda586ea2187a018477bf3,odia,fake,fft,fft_odia_009.wav,86,10
+7b3c030fcddfb389466f5ed650cd3982,odia,fake,fft,fft_odia_009.wav,87,10
+32248830c1d285f6739756ada914229f,odia,fake,fft,fft_odia_009.wav,88,10
+637c6cf4ab5c14b1102248a3a864409b,odia,fake,fft,fft_odia_009.wav,89,10
+52360d6450abadf370a854416fd8dba6,odia,fake,fft,fft_odia_009.wav,90,10
+31eb8444a3326ad0cfb4cd1b01ae0289,odia,fake,fft,fft_odia_009.wav,91,10
+0212c7f152ac292bbc4caafaffc3a7d0,odia,fake,fft,fft_odia_009.wav,92,10
+5aa223cc88add7e9d6284f61d6b1dc2c,odia,fake,fft,fft_odia_009.wav,93,10
+de3efcde6d338855f9c06aa8524390d8,odia,fake,fft,fft_odia_009.wav,94,10
+bb7d1b1b0343587284b56e86ff3ea247,odia,fake,fft,fft_odia_009.wav,95,10
+481d694758797a4ea7e9b9267030ae32,odia,fake,fft,fft_odia_009.wav,96,10
+a7b100bf5bb0734c4c32dcae57f14472,odia,fake,fft,fft_odia_009.wav,97,10
+0fff213852a38c803c974a20e3d3fa73,odia,fake,fft,fft_odia_009.wav,98,10
+eb5271a86f7aca7536bd3eefad455a5d,odia,fake,fft,fft_odia_009.wav,99,10
+2f7060f4193a153f5e162fc76ded0da7,odia,fake,fft,fft_odia_009.wav,100,10
+9f8780f7bf8b858f0ea11558fc5bbf33,odia,fake,fft,fft_odia_009.wav,101,10
+58cedcd892b93aadbff3cfc49442c2f3,odia,fake,fft,fft_odia_009.wav,102,10
+7ef16f13836bb8cca07e25f7b678e941,odia,fake,fft,fft_odia_009.wav,103,10
+ec21e67f6a4b0e3a2eea34797a2e02d4,odia,fake,fft,fft_odia_009.wav,104,10
+f871479196d76437fb8a4768c63f4ba8,odia,fake,fft,fft_odia_009.wav,105,10
+b6f8ba0f70333fd9da2199e33b6d4ec5,odia,fake,fft,fft_odia_009.wav,106,10
+619a7c3eacf5c09376ee81f5fa81f2e5,odia,fake,fft,fft_odia_009.wav,107,10
+9163789d58129f715d42ff6559712796,odia,fake,fft,fft_odia_009.wav,108,10
+6eaa86a99d87a1f348b4d9c681e52b69,odia,fake,fft,fft_odia_009.wav,109,10
+e47e283468da912c2209bf012e7e5a20,odia,fake,fft,fft_odia_009.wav,110,10
+126766e9f63b75ae46348b4945cce124,odia,fake,fft,fft_odia_009.wav,111,10
+05b0ac5bbbff40589dea10166a4b37f1,odia,fake,fft,fft_odia_009.wav,112,10
+4249ce4538af4eeb12329608e9678b01,odia,fake,fft,fft_odia_009.wav,113,10
+ac95bc4e68071bfaf2d51b489022a29c,odia,fake,fft,fft_odia_009.wav,114,10
+abf9ea7b55efe68abfce183a5ea866a0,odia,fake,fft,fft_odia_009.wav,115,10
+6258cb1fd7e2a942202b7e94822da8d5,odia,fake,fft,fft_odia_009.wav,116,10
+1ef527698ad567d22df71431f6eaed3c,odia,fake,fft,fft_odia_009.wav,117,10
+750a3f70d5e34d93132f4e5bca687e88,odia,fake,fft,fft_odia_009.wav,118,10
+c8b998cee6ff0b709655b25a4b1edfff,odia,fake,fft,fft_odia_009.wav,119,10
+b334a198bc8ff2178e4fb3a2f49fae68,odia,fake,fft,fft_odia_009.wav,120,10
+6717e09f29f173777989d339f6a74005,odia,fake,fft,fft_odia_009.wav,121,10
+741c0fe27f664ebb021482848f46061c,odia,fake,fft,fft_odia_009.wav,122,10
+948bf6c0f5c4cb1a78800a7933c94856,odia,fake,fft,fft_odia_009.wav,123,10
+3e066c50b1f590a7046f77a53799ab7e,odia,fake,fft,fft_odia_009.wav,124,10
+d825222bf2db22c75f9a3f7beeba826c,odia,fake,fft,fft_odia_009.wav,125,10
+83a2a17c3d1b7f0a57c2f6f2fefa8568,odia,fake,fft,fft_odia_009.wav,126,10
+73331dbab4011f2bc0029d9f1f4bdec6,odia,fake,fft,fft_odia_009.wav,127,10
+459f7a8656b5039d3e3ee89e76234911,odia,fake,fft,fft_odia_009.wav,128,10
+c2867c97a102af2a530efc208277a387,odia,fake,fft,fft_odia_009.wav,129,10
+e01107b3cdb834c896ed2a5a7cd8a669,odia,fake,fft,fft_odia_009.wav,130,10
+3cfed5efecedee14080f403339c08a8a,odia,fake,fft,fft_odia_009.wav,131,10
+7dbf58e54de82631e8a7292e28030bb1,odia,fake,fft,fft_odia_009.wav,132,10
+54464f6b8dbdb4809cd1c2ec38a8d060,odia,fake,fft,fft_odia_009.wav,133,10
+9448a2e238231af4cff2aaaba69b619c,odia,fake,fft,fft_odia_009.wav,134,10
+d97cee3b21f99fcbb4f8f7f5b9170bf3,odia,fake,fft,fft_odia_009.wav,135,10
+e44ed354889a5aa048695ed9502b9764,odia,fake,fft,fft_odia_009.wav,136,10
+91cd4775f63936bd991b77663cf4a2bc,odia,fake,fft,fft_odia_009.wav,137,10
+43fa3234b05f4fdbf4b2aa764540aa97,odia,fake,fft,fft_odia_009.wav,138,10
+9c04ac584a36fa3df338d5be0c89782c,odia,fake,fft,fft_odia_009.wav,139,10
+5bed9ce43f0eb49cb545a55969a14a75,odia,fake,fft,fft_odia_009.wav,140,10
+b4c4669dc906feb8f4204ce3f38439cd,odia,fake,fft,fft_odia_009.wav,141,10
+b3a9a4602b10be70fd700310a55159e4,odia,fake,fft,fft_odia_009.wav,142,10
+313dbc1eb795351a64097fef6664d4e2,odia,fake,fft,fft_odia_009.wav,143,10
+5a784771b1477c0a238329da206ceb98,odia,fake,fft,fft_odia_009.wav,144,10
+73d2c8092536e66180cbbb556af0330e,odia,fake,fft,fft_odia_009.wav,145,10
+ad05bf40e800fdaae88d3cdf50bae6c4,odia,fake,fft,fft_odia_009.wav,146,10
+f947495afd4e3737ac912f66c7f497dd,odia,fake,fft,fft_odia_009.wav,147,10
+3b1964100a7782ee29eb12e283a5d367,odia,fake,fft,fft_odia_009.wav,148,10
+88ee940a5a60a463482d5de5956166ee,odia,fake,fft,fft_odia_009.wav,149,10
+4e9de7d8595118379346fb6df308c245,odia,fake,fft,fft_odia_009.wav,150,10
+2f5697a7193e64d354cf8681f105f22d,odia,fake,fft,fft_odia_009.wav,151,10
+8b1ebbd0d1bbc2babf71cd2f8954c319,odia,fake,fft,fft_odia_009.wav,152,10
+b394730bdd5e2bb529363a3bdc064acb,odia,fake,fft,fft_odia_009.wav,153,10
+e0e7c7b949ca93b383591ecbb39c77a6,odia,fake,fft,fft_odia_009.wav,154,10
+9d69e8d76e98f182dc03ff15ec880c00,odia,fake,fft,fft_odia_009.wav,155,10
+6d93bcd2fa17d0061bcbbd7157912a0a,odia,fake,fft,fft_odia_009.wav,156,10
+2002aa1df15275edecf81c2059fb0a24,odia,fake,fft,fft_odia_009.wav,157,10
+5924456de75c1ca79968990abeead7bf,odia,fake,fft,fft_odia_009.wav,158,10
+9519855e11fbc7b4854900ee779ade89,odia,fake,fft,fft_odia_009.wav,159,10
+8eb4951e98c0f74e8ef81793779db1d0,odia,fake,fft,fft_odia_009.wav,160,10
+d8fd2f7197a2c42d4a1d33c43b2efbb4,odia,fake,fft,fft_odia_009.wav,161,10
+b75ccdd90c47b26d678f68be65a7d1c9,odia,fake,fft,fft_odia_009.wav,162,10
+61990408bce3f31f62ccff61bbcef6e5,odia,fake,fft,fft_odia_009.wav,163,10
+645a7f2048341e94c28884a550139c02,odia,fake,fft,fft_odia_009.wav,164,10
+2437608a05066333a95cc00473398340,odia,fake,fft,fft_odia_009.wav,165,10
+51c7cb733c4d4b8702d9488f5a6fd778,odia,fake,fft,fft_odia_009.wav,166,10
+85dadf1123f21904af2cb2ceb826af7b,odia,fake,fft,fft_odia_009.wav,167,10
+63e021f87eead81dbb1742fee266f97e,odia,fake,fft,fft_odia_009.wav,168,10
+3e526a2607980f38f0cc4dbf7b52e07d,odia,fake,fft,fft_odia_009.wav,169,10
+ad7d5bb27b95cbbccb3066f0bcda6eb0,odia,fake,fft,fft_odia_009.wav,170,10
+e6ce72fe43aff902140d609f2df7c725,odia,fake,fft,fft_odia_009.wav,171,10
+6c33812b622d3c5983ff704ec5b106e7,odia,fake,fft,fft_odia_009.wav,172,10
+eff21fd4855429ab6dea1aabfde84773,odia,fake,fft,fft_odia_009.wav,173,10
+2ea432577a4b0acda864f04fb83ee080,odia,fake,fft,fft_odia_009.wav,174,10
+481efd6eaf271d594efed3dfe07597d1,odia,fake,fft,fft_odia_009.wav,175,10
+963d44000959446efc2b092491bfd41b,odia,fake,fft,fft_odia_009.wav,176,10
+7410919683f225948aadbaa4bf038dfd,odia,fake,fft,fft_odia_009.wav,177,10
+b467403819c6fa114280fca87cf0fc25,odia,fake,fft,fft_odia_009.wav,178,10
+d0ebf7c54a45a5b683be6a2f77ffb757,odia,fake,fft,fft_odia_009.wav,179,10
+d716cc019a2006b2789d477bc797cd11,odia,fake,fft,fft_odia_009.wav,180,10
+2c2f75258089552cc2d8ce2dbb8a9278,odia,fake,fft,fft_odia_009.wav,181,10
+dc129905cc1ad9f3f3cc9d7b90c5914f,odia,fake,fft,fft_odia_009.wav,182,10
+894569ffac9f32fc466f52c43b2baa12,odia,fake,fft,fft_odia_009.wav,183,10
+594b9768783e4a7cce21c250e9e4d53b,odia,fake,fft,fft_odia_009.wav,184,10
+4e3310250f9422007ea93e2d48200044,odia,fake,fft,fft_odia_009.wav,185,10
+85a15690ea0e7cc1faea3462d5889c7a,odia,fake,fft,fft_odia_009.wav,186,10
+6c271ac745df3f9958890d160a6b0e0b,odia,fake,fft,fft_odia_009.wav,187,10
+51f87e942b6bab119c8ed8d0f990700c,odia,fake,fft,fft_odia_009.wav,188,10
+8b296780a922a07fadb3fb8b0c705d9c,odia,fake,fft,fft_odia_009.wav,189,10
+d24ce82095c56090752dca31ba146708,odia,fake,fft,fft_odia_009.wav,190,10
+7bf8e1fd51065560844ed3c8ed4b0a02,odia,fake,fft,fft_odia_009.wav,191,10
+aee55d6fd340576d14982c407187d71c,odia,fake,fft,fft_odia_009.wav,192,10
+ed919f779f920be3ab38d02be7d8c4d4,odia,fake,fft,fft_odia_009.wav,193,10
+0efb37b97b7a34e63ce6543fb730baf5,odia,fake,fft,fft_odia_009.wav,194,10
+de34e8a66cdc16d6d8e34d9eb32eba1b,odia,fake,fft,fft_odia_009.wav,195,10
+363a94c735e42aa654c13951c6b5aaa8,odia,fake,fft,fft_odia_009.wav,196,10
+ae5e06097a073054364b22d4e6c29aa4,odia,fake,fft,fft_odia_009.wav,197,10
+dae4ea0c028c7accad7ace6fb8b486a8,odia,fake,fft,fft_odia_009.wav,198,10
+917a69aae626a70ef949efe515d71164,odia,fake,fft,fft_odia_009.wav,199,10
+08870b6cb7e7a810a441912e5e961ac9,odia,fake,fft,fft_odia_009.wav,200,10
+ce80723314a2f86e3d1731f046a81d4c,odia,fake,fft,fft_odia_009.wav,201,10
+a1f0e621353a7ff7142a2dde86fa11b3,odia,fake,fft,fft_odia_009.wav,202,10
+51dd53d857ae1d2e4696bc0a826c3175,odia,fake,fft,fft_odia_009.wav,203,10
+ab35a2cf7d9effa363a46639b60ea9f9,odia,fake,fft,fft_odia_009.wav,204,10
+d1dcb006332188ad07e8ef6303653583,odia,fake,fft,fft_odia_009.wav,205,10
+88336da2c75c0b58dab7115f0fc52ce7,odia,fake,fft,fft_odia_009.wav,206,10
+c851a17d83c55c23eb2c1b2a90a652d9,odia,fake,fft,fft_odia_010.wav,0,10
+f032653172e0ef01a3dfe4e93514ebe6,odia,fake,fft,fft_odia_010.wav,1,10
+b237b90976d60b91cd9004e35634d551,odia,fake,fft,fft_odia_010.wav,2,10
+3687caaae940492493ed6c88ef346900,odia,fake,fft,fft_odia_010.wav,3,10
+570550bd913d16bf735b332a0bd0b1f6,odia,fake,fft,fft_odia_010.wav,4,10
+80fb8d359bc70f003cb708afc7edb408,odia,fake,fft,fft_odia_010.wav,5,10
+fb5c7b50fd5a83841bce296a7daf87d0,odia,fake,fft,fft_odia_010.wav,6,10
+13697342b2add37b36a538d182f7c50c,odia,fake,fft,fft_odia_010.wav,7,10
+2a1c9aa28caee47cc52b741e6423b700,odia,fake,fft,fft_odia_010.wav,8,10
+0b4876352945059db059c2146f35146b,odia,fake,fft,fft_odia_010.wav,9,10
+072a838635989db4e32b1591ed344361,odia,fake,fft,fft_odia_010.wav,10,10
+336265e78580214bd7b8ec3369b0af55,odia,fake,fft,fft_odia_010.wav,11,10
+9b7353092fa42ed5bcb21a9d2beb2517,odia,fake,fft,fft_odia_010.wav,12,10
+5ab69fd828052f433cec802d29b20a22,odia,fake,fft,fft_odia_010.wav,13,10
+03f5fc3e93ea2e629c5b2cdba9813528,odia,fake,fft,fft_odia_010.wav,14,10
+728f707b88e67521304bcb44203f9a64,odia,fake,fft,fft_odia_010.wav,15,10
+20ae0c02fad7b621f3cd73cc447a0bf4,odia,fake,fft,fft_odia_010.wav,16,10
+5a73a2c6b596d5ab78a6a3bb33982303,odia,fake,fft,fft_odia_010.wav,17,10
+62cee3bb6823e8ea5e9663547a4bd182,odia,fake,fft,fft_odia_010.wav,18,10
+47fbb59442af900d4b3b9aa86208d14c,odia,fake,fft,fft_odia_010.wav,19,10
+d8fd87dfb6511100dc3e80193f23452a,odia,fake,fft,fft_odia_010.wav,20,10
+191a252c8d55da2f5229a12f9b714480,odia,fake,fft,fft_odia_010.wav,21,10
+e165b5a7dd854456cec734b9639daec3,odia,fake,fft,fft_odia_010.wav,22,10
+e74e3d9a3bff311daf75eeddfe9ac697,odia,fake,fft,fft_odia_010.wav,23,10
+5fde7a97c4391b99143b94cc5633bc45,odia,fake,fft,fft_odia_010.wav,24,10
+98d53793b8487a34433bed0184059d99,odia,fake,fft,fft_odia_010.wav,25,10
+77fbaf76c3b1d4d4de198e541b4829ee,odia,fake,fft,fft_odia_010.wav,26,10
+d07349fa5950b91bcd3e08ca48887e1a,odia,fake,fft,fft_odia_010.wav,27,10
+5f2e7c2c696fbafa55564c135f1282c4,odia,fake,fft,fft_odia_010.wav,28,10
+7e411c09c43e497b957ae3581e040d00,odia,fake,fft,fft_odia_010.wav,29,10
+1aa3c739c8423f58b45ac1f983b8cc76,odia,fake,fft,fft_odia_010.wav,30,10
+d60ea08d7ef295e9c15c3a6e3ca9d366,odia,fake,fft,fft_odia_010.wav,31,10
+63f4bdbf4406b44f23c982641e644cfd,odia,fake,fft,fft_odia_010.wav,32,10
+0e059c31e034b0404b42e77997b00a2b,odia,fake,fft,fft_odia_010.wav,33,10
+ba8778117d1b6f0a6710b7b0c4e31644,odia,fake,fft,fft_odia_010.wav,34,10
+b6cf61e51768a782f4ff3e558c6703cd,odia,fake,fft,fft_odia_010.wav,35,10
+28f3b2ef6379be9bd04fb9b0ee730274,odia,fake,fft,fft_odia_010.wav,36,10
+df81d4d1cef45c2972c512f17c24f0be,odia,fake,fft,fft_odia_010.wav,37,10
+7984b80cb3ebde2e40a5615e4b55970f,odia,fake,fft,fft_odia_011.wav,0,10
+704a4ab28a61cb357fdb90d3eb5a9517,odia,fake,fft,fft_odia_011.wav,1,10
+a25d4df383a1adeace795ac277816070,odia,fake,fft,fft_odia_011.wav,2,10
+24505a204df57c21480a80751187781d,odia,fake,fft,fft_odia_011.wav,3,10
+b4bb403a88cb529b1bc92b3b87e9662e,odia,fake,fft,fft_odia_011.wav,4,10
+3b5cc96182cd21932884a06e5548378a,odia,fake,fft,fft_odia_011.wav,5,10
+d33a7b255a3ffd2aa654af81afc524c4,odia,fake,fft,fft_odia_011.wav,6,10
+3c4a27e29874cd1f0c7819a3661bbc92,odia,fake,fft,fft_odia_011.wav,7,10
+bbe19b9fde4931288514701a964f8580,odia,fake,fft,fft_odia_011.wav,8,10
+2360605ce0faafe6b8824d653f40f4ae,odia,fake,fft,fft_odia_011.wav,9,10
+4dd5c4c3f6569032498c69804628d487,odia,fake,fft,fft_odia_011.wav,10,10
+e7fdd99eda15b400bd573a6b401a359e,odia,fake,fft,fft_odia_011.wav,11,10
+dfe0cf753cc52e91bcac784fd77ff37b,odia,fake,fft,fft_odia_011.wav,12,10
+fbf060934c820a1d34a713069e955bdf,odia,fake,fft,fft_odia_011.wav,13,10
+627859af9e2ebc95473b2d7bb17fce0a,odia,fake,fft,fft_odia_011.wav,14,10
+4b0542d858e8659f998f314f027807e9,odia,fake,fft,fft_odia_011.wav,15,10
+4bea5974211316738575f75b8874a808,odia,fake,fft,fft_odia_011.wav,16,10
+9de152e70a98717fd65e68d15842ee51,odia,fake,fft,fft_odia_011.wav,17,10
+96f9c5bfd2a7ab6b0baee17b704f6792,odia,fake,fft,fft_odia_011.wav,18,10
+8827e5d3566e8cdf1108d1487eab4e06,odia,fake,fft,fft_odia_011.wav,19,10
+49ec9f358861f7abf99342896dd4b1f0,odia,fake,fft,fft_odia_011.wav,20,10
+dfcc9d7c44115a7644e0bb2cdab89ee9,odia,fake,fft,fft_odia_011.wav,21,10
+bfb13c7864f852a80bb2cdf4a61f384e,odia,fake,fft,fft_odia_011.wav,22,10
+215aaf4b7ebc71b259ce1a5628d48cdb,odia,fake,fft,fft_odia_011.wav,23,10
+1de6700aebdd946d914fc01e4da8e1c0,odia,fake,fft,fft_odia_011.wav,24,10
+f98ca2c01e193eb1deaddc4b2a216c75,odia,fake,fft,fft_odia_011.wav,25,10
+8bf8d6c1e3c13c7cf720c1b97214ad2c,odia,fake,fft,fft_odia_011.wav,26,10
+54c4fa987d0c370d5251381a78643b99,odia,fake,fft,fft_odia_011.wav,27,10
+5f7ec410793c41abcd90cb75384fc715,odia,fake,fft,fft_odia_011.wav,28,10
+48b0babfbacddb2f5d03bbd5b7e752d8,odia,fake,fft,fft_odia_011.wav,29,10
+e0fbc29892eac1021badf8fdec27fecb,odia,fake,fft,fft_odia_011.wav,30,10
+1e1dd96d9808f823db05cefbae9922ff,odia,fake,fft,fft_odia_011.wav,31,10
+e6333562c4d8fe288af986c44c31ff29,odia,fake,fft,fft_odia_011.wav,32,10
+cda069a1a006ede96d8cbfc5c6ff4eca,odia,fake,fft,fft_odia_011.wav,33,10
+13e0ac02821aefea6e127f497191d7d5,odia,fake,fft,fft_odia_012.wav,0,10
+58af64aab9916bd596c0d16dcfcb6383,odia,fake,fft,fft_odia_012.wav,1,10
+dd8fb1b2d66764efffc74092d6a83fab,odia,fake,fft,fft_odia_012.wav,2,10
+315a2e9057ffe4e265aebd867c21df6a,odia,fake,fft,fft_odia_012.wav,3,10
+edc271ca1f7c88b25e464a280781587b,odia,fake,fft,fft_odia_012.wav,4,10
+8890e9bb618870468dd40d2407b3bb52,odia,fake,fft,fft_odia_012.wav,5,10
+bea7e6de7971bbbbb42720f6b6b9ab7b,odia,fake,fft,fft_odia_012.wav,6,10
+bf8d8f415d23790660f4d3585019b1bf,odia,fake,fft,fft_odia_012.wav,7,10
+6a6fc4357b9a5053a72b988ff228ce26,odia,fake,fft,fft_odia_012.wav,8,10
+d0cb386b4051817f66fae07d6879f999,odia,fake,fft,fft_odia_012.wav,9,10
+9ba3f3f3f0a39df752f3bf43a5f199f3,odia,fake,fft,fft_odia_012.wav,10,10
+a406f169db28712182f9bec2b2d8aadd,odia,fake,fft,fft_odia_012.wav,11,10
+bfc75e83aa49fc0204807766a990ed55,odia,fake,fft,fft_odia_012.wav,12,10
+1d1cbdb1459b5fc565e85046ef7c1540,odia,fake,fft,fft_odia_012.wav,13,10
+f2cb7d88c1763a48ad077d00bd7b2f34,odia,fake,fft,fft_odia_012.wav,14,10
+ed2fc8ed1e57d7f0a53f625b04942e60,odia,fake,fft,fft_odia_012.wav,15,10
+4aa1057f1671ec084c56a79cdbcffdc8,odia,fake,fft,fft_odia_012.wav,16,10
+93cbf9aa9f97e273e614ae1209074c4c,odia,fake,fft,fft_odia_012.wav,17,10
+106bd20e90f772dca066ac940d4ac7a2,odia,fake,fft,fft_odia_012.wav,18,10
+a5c92a4ff5f5d85531d7ebca9392f291,odia,fake,fft,fft_odia_012.wav,19,10
+7b365c84e19fd6633547419c3f9120ff,odia,fake,fft,fft_odia_012.wav,20,10
+60d75b0d9330475ce44438fec23d0820,odia,fake,fft,fft_odia_012.wav,21,10
+3562ba43e406136afdba65c3a36298ec,odia,fake,fft,fft_odia_012.wav,22,10
+9d237a92b34a8a0822b01f1c2d62dd76,odia,fake,fft,fft_odia_012.wav,23,10
+1bfda4ba8194e391e210084757224dcc,odia,fake,fft,fft_odia_012.wav,24,10
+c53a542f8344d71464f3a199eb31f8c5,odia,fake,fft,fft_odia_012.wav,25,10
+494e80003e130c7b0d32267f5c2d4b21,odia,fake,fft,fft_odia_012.wav,26,10
+1b091b7cab45a68b598186e78aca0e69,odia,fake,fft,fft_odia_012.wav,27,10
+416008e0ef078157ccb28516e592ce33,odia,fake,fft,fft_odia_012.wav,28,10
+e12ea8ef3695e678a0db62474a054dbc,odia,fake,fft,fft_odia_012.wav,29,10
+def2fa1d184b065f3a4889db5f132d43,odia,fake,fft,fft_odia_012.wav,30,10
+b2a2abe183018baf6acee995fabee661,odia,fake,fft,fft_odia_012.wav,31,10
+d3efb7960412834ffd9100b1a77951f5,odia,fake,fft,fft_odia_012.wav,32,10
+c0143e76767e2e58e91b2a73a999a962,odia,fake,fft,fft_odia_013.wav,0,10
+ddeb164ff0c086ab9ab92d9d07c5c53e,odia,fake,fft,fft_odia_013.wav,1,10
+fcce578fd04f89cb18cd922fcf6a537e,odia,fake,fft,fft_odia_013.wav,2,10
+3bd459f7567028672ae22028baf13b60,odia,fake,fft,fft_odia_013.wav,3,10
+fc6bed0bac27e3a0ebaa66b740d08ef8,odia,fake,fft,fft_odia_013.wav,4,10
+d0fa160c56cecfd88d5d7fb2b56ae7b2,odia,fake,fft,fft_odia_013.wav,5,10
+d5f798cf7d8eba3b2786ef13938b9ab6,odia,fake,fft,fft_odia_013.wav,6,10
+f1d4a31fb20c04a70ed7789060c79a1f,odia,fake,fft,fft_odia_013.wav,7,10
+6b7d1979d5c2bcaf1b3127a674254139,odia,fake,fft,fft_odia_013.wav,8,10
+4a95685b684cec4641f7b620074adc4b,odia,fake,fft,fft_odia_013.wav,9,10
+5f5812a448ca5e82509a6dfa67190d7b,odia,fake,fft,fft_odia_013.wav,10,10
+e78916793951298d853f6e6afb8c88ae,odia,fake,fft,fft_odia_013.wav,11,10
+c20f7dbf80bff7141cadeeb0238a16dd,odia,fake,fft,fft_odia_013.wav,12,10
+c5fc03340b07746144fb9f81b1d2605f,odia,fake,fft,fft_odia_013.wav,13,10
+a6f108fec792c192b35c0dcd83eb2c27,odia,fake,fft,fft_odia_013.wav,14,10
+353176cd407e0ef6bb8d95cc18e5c0a1,odia,fake,fft,fft_odia_013.wav,15,10
+20f0fdd8127ca630561250413297003d,odia,fake,fft,fft_odia_013.wav,16,10
+5bf0016b636c0228ffe90b307e188b19,odia,fake,fft,fft_odia_013.wav,17,10
+18ad89518facb720d80e68db718a1f61,odia,fake,fft,fft_odia_013.wav,18,10
+44aed635ec3991fb8d4994e5dbe0aea4,odia,fake,fft,fft_odia_013.wav,19,10
+56e84da2d34f0e69adc860e66b09fc7c,odia,fake,fft,fft_odia_013.wav,20,10
+3d40f1bc8393b76716e4572c204f86a2,odia,fake,fft,fft_odia_013.wav,21,10
+a0b9487901037d8b423f1f033867f6fc,odia,fake,fft,fft_odia_013.wav,22,10
+71ba425aaec47676c37fae75662e3df6,odia,fake,fft,fft_odia_013.wav,23,10
+cb6f6c9f431e172dcb01d73b89d06606,odia,fake,fft,fft_odia_013.wav,24,10
+aa74a94d94aab4fff4c43156d8b3db81,odia,fake,fft,fft_odia_013.wav,25,10
+0438732b52dc8f7ab5f4d62e13af7555,odia,fake,fft,fft_odia_013.wav,26,10
+c53107bfc14b5e8c0bcab529c3a93b64,odia,fake,fft,fft_odia_013.wav,27,10
+d4a09728325c5bca510c39cfca6d6aa4,odia,fake,fft,fft_odia_013.wav,28,10
+7f6b6991832876d5441db0f183654a65,odia,fake,fft,fft_odia_013.wav,29,10
+c38458b517042b758c245f25199b5ed2,odia,fake,fft,fft_odia_013.wav,30,10
+1a1a4fc32a7b4df5493967dde867fec9,odia,fake,fft,fft_odia_013.wav,31,10
+6c51ab72c62aebba4e482d096ac4600f,odia,fake,fft,fft_odia_013.wav,32,10
+22bd911574ae7a47439230a467282ce9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,0,10
+2382ae198bc1adbd3f2870cf993b5c36,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,1,10
+8407b79a2020773515274943ccdfc37f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,2,10
+d3666f89e3fba923e83e06e170c44474,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,3,10
+14794ac87354aa0f8f91e1b37ef703e4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,4,10
+2a1e41921c4f23f48e700df85df60e55,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,5,10
+9832999f34688335898048d87d432d08,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,6,10
+c73414dcf8b18400ea8be09cbed587f7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,7,10
+500f4e3c2885ac6f0f05c597ad17207b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,8,10
+fcfe92b52dd191c138bd517275a6719b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,9,10
+86a4bcb60fd30d9758e00b58937fded2,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,10,10
+8051842dfccb40612a03558acd896dfb,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,11,10
+104ef74a202a83822530cc4d8b608dfd,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,12,10
+8b4b5b6c5f0fe75be803eda3e6f93bd2,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,13,10
+6593c75a1c4e3cacb41088bbebde5606,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,14,10
+703054a9465181dee2fbe2d614b7ffbe,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,15,10
+d6c166a51525001ecb3f5722bf5a6777,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,16,10
+7dc1ba3d09f6f87995bc8166b26234a0,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,17,10
+2de73cee71d29888fc498323ae55a4b4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,18,10
+8313c922294eb266c71e8758cf6d9ba5,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,19,10
+b3696211a3e4d08dba7691db4a05ea38,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,20,10
+1b560bb8e5e75813de306284c6f9eabe,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,21,10
+cfbe7934879a42ca436bf483434501e9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,22,10
+c8e94553af85f16e3c9b7dda3369e5b6,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,23,10
+63eb3023e9d9da034883451f890994d9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,24,10
+43dc2f050d4a86fb54c6721fb8c4de86,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,25,10
+00cfe4daba61f5d8626728594cacc8e1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,26,10
+30a0959dbf4fc6e7a3b94fa22ecc093f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,27,10
+d2de9a39b82d9b9feb1978d5fd9e17ad,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,28,10
+3b64d73123cb9ba7777ad9999493afef,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,29,10
+36f29d33a4612c67d62898802d051311,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,30,10
+11fb44c6763d32c91decd724d86f19f3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,31,10
+9ca567ddbbccb551bd754df5aab1d538,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,32,10
+61efb6c0180721877c3c7ea2a86859df,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,33,10
+f6a52772e2db4ab993eda8c4057a4236,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,34,10
+fac2acf6639ab750a7373252bc752a8c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,35,10
+38b4435351704a521d9d445dc3925a68,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,36,10
+30f3f315fa2539b487d38ce9234cf37b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,37,10
+10e38e1ccb7a9583ead4e5ac300c4e2e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,38,10
+58f9145fbfe42ce1f4f662742db9e831,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,39,10
+84b828278ee97566f5af67da0907e2fb,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,40,10
+fa6ca3eaa0afc13cd4e94a9be3dc1b1d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,41,10
+7d445542e17635b19482cf7e06692c22,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,42,10
+7d4621e7be283fdc4483c4e8cdcde7ce,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,43,10
+f5e2b67ef83a9e4c6605bf71b2c6a913,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,44,10
+8e8b28e6f5c2af14d1443f28c18bbb12,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,45,10
+c35930dcf0bad68c578b2abefb6408f7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,46,10
+59345e2719f03b0cfba8a8575d776c29,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,47,10
+de011bd2e88e6de5ba053ccf958a8613,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,48,10
+5fcb037e54b7e14dfa687f2c9b5a01d0,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,49,10
+0b328e7244bf920f78547fa4ba86b5a0,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,50,10
+20920f5a00a1a71c29564a059cbe131a,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,51,10
+02a71343c0e904d5e1cf2cb0836fb0e3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,52,10
+fa581e7dee56d1b14dcdf95806b94b06,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,53,10
+8d2605218c788e9f0196a4e137760bf7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,54,10
+a43b9148b318d393cc865b9e6114329f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,55,10
+1adfcca5bdde92fefc0cefa91efe88fb,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,56,10
+5d64bb12e1692be348a45eb6f1378de1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,57,10
+d2846585d24c5bb012adbd3cf0ae58b7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,58,10
+b950e63eee0f728d3ac6c2e7bf7f627d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,59,10
+2009d55321576a00b63d68e84566e287,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,60,10
+ee6042880e96ed33c597f961b1ca52f6,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,61,10
+2fa2670e2e789ff85f52273cdf6011ba,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,62,10
+80620dd4d6f7c46c62a4430e6eba7765,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,63,10
+b8f92f6bad8148b71889504501b5e383,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,64,10
+66e969742cca9069e1f45cf83de2cfd1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,65,10
+0993f027bcdc92e2c481800f1f63d656,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,66,10
+ce24aaceb2e31ffc6fd04bd1c356144d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,67,10
+3a679377dd2a66d628a9c6cc16b9531f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,68,10
+707d7fda80ead7b3c14d5a525c650eab,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,69,10
+9dee635d97d8eb2976aba414a4474628,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,70,10
+e0ecd0eafbb8108e10b001e70e09e30e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,71,10
+73587fe60d22c07e3c7c1069f1ff72f4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,72,10
+02d34a7d67578b212ccef1ef34b6a7ba,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,73,10
+665f6bb56662c38cad1d3f6b39837f2c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,74,10
+51e6a572c786e922fe3557481657ca11,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,75,10
+bad306af33070f25c8bddd28b08f723c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,76,10
+50610fc365e51f2901ade85b28647847,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,77,10
+3135c685ab1993623b9131e7dece4807,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,78,10
+8258450c3fe923283a03d6111557d5dc,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,79,10
+b496111699e2384696eb596ba389df4d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,80,10
+50271a11c35c5fde12ea5958924bde2c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,81,10
+453092314c16d28d232115bee579bf4c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,82,10
+889be1bc6929cd7649662a1b551b6428,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,83,10
+a3547bb48fc0c141791d9fab9be786f7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,84,10
+c3d7ce78bf5af960e20132064352db64,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,85,10
+beeb0f8c46bd641a5cec7d8f0d9d4b27,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,86,10
+5bd20a3a4877daf5a5fb0edf1d156bd1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,87,10
+1b24757fffe45458086fe1d0a4da6780,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,88,10
+6da3556848b87a5e468c5c77447d3474,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,89,10
+c0d3910df1b6cd6dd64bac8841fc18f6,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,90,10
+2d61e9df86378d6ce4a866fe64e874a7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,91,10
+ee92ad3f298412c0153515be7a8b0146,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,92,10
+288ab588b9b515f6d1d1e5cc0bfc9040,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,93,10
+eb5df488f529f1902472208f523bb036,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,94,10
+0852fed62f2fb06a7b2bab80034b7abc,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,95,10
+431452cc62187c540928de9a39e80465,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,96,10
+f76838befad2e3d890edc504cc01fb2f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,97,10
+3419e084191d792ac2b56c30935a11f5,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,98,10
+f436df535da4ab3a3a095b8463e69307,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,99,10
+0fc12a8f3b09aa0036ab27c3e354409c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,100,10
+1bc9fd98e734749ea04087d95c35214f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,101,10
+5435cba142b6610c3effbaea163f3ce1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,102,10
+21e01c748fd46ff7f182d125f1c6a4c8,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,103,10
+704c90fbd0f59f4f689573732088a554,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,104,10
+6cce2888264274fb26abf603b4e3162e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,105,10
+9313f7693c9688473401b012dc898d56,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,106,10
+2a62b08e192a1d93f5527df88cff4a4c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,107,10
+96369375b8ea94152d52a2843ee1f6d6,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,108,10
+bcddc4cd115095b2030a831e372347d7,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,109,10
+628a6c12a2ef10f991f885b1407bade4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,110,10
+191519c72894bb49fca45fc1fedc7ef2,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,111,10
+713c9fc572f8ab4f9d5e8228ad296090,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,112,10
+df7783d557ba023a72a79f26f6bc4ae4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,113,10
+8cf24a9deb684e9bfd81a8cd6907df24,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,114,10
+3efe4f88f243ec677c777b293ce48576,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,115,10
+cdedccc0221ccad5f32abc53f8b77583,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,116,10
+a3c374385b38b7b6b3232736ed71d15c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,117,10
+b087e96d575a02d6669523b71639549b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,118,10
+52466767b51459cf5b494476a9afdcff,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,119,10
+ce28bb8ce5036dc8f96a405b0a8b75eb,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,120,10
+e2455b14d5b468d456c5425160037d2c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,121,10
+506b5b68a2f13b450b5c2df979454d72,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,122,10
+bd401293fe015f218b0b3d956dcbf753,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,123,10
+68d89fc9d015a1ae9dffad7fdc835b89,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,124,10
+069a4fac376890b0f32b1bd03d63f187,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,125,10
+f4ef693ebd68e41a3584feeae0dc4469,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,126,10
+1cd1ad80b7941a3bd3aa03afee101e45,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,127,10
+ccac4f6d4e15ea788bab6affb0189cb1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,128,10
+8d93d4de99d3113a0ef71b2bbb494381,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,129,10
+05dafa2d2c692c623d73063503732a20,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,130,10
+61a7f6ff5427b8fc53000ca4afcb1d08,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,131,10
+5b9566bec7c0221a13b8efd4203c8030,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,132,10
+a402f41ce9adecb4f3cbd1f30426d773,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,133,10
+3ba982df2d09d7c63c45f26179f6480e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,134,10
+889c238647125f5b47b1c0f70e0c4263,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,135,10
+e6c83ac25a2df16fdfe3ff20b83f7dea,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,136,10
+5ebb4d751757815537153e5fdbffad27,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,137,10
+bd2fd5c9d6757c39b5a75a480d93ea03,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,138,10
+e42dfb49cd0605a9abe7822c62c9c8ab,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,139,10
+1bb1bca8e021c1bf4e368dbc94b971d2,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,140,10
+9c83677e6f6109a09ad7dbd47221ef2f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,141,10
+ce7db250c08c0bcbac3348a78ce48125,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,142,10
+1f5fc5fe800a9c26e8bc6545fcda5582,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,143,10
+c868d80b47ec6e2b47bc590a779ffb4a,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,144,10
+9d07c013dc53da5081650b05d029b15c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,145,10
+aae5da992e8c840a363d9cfef1827d81,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,146,10
+b23127c2191fef54252a343621518a8d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,147,10
+7a110acb1159a0e3cd8a5ecbff7f97a9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,148,10
+9a72503d9d55b642cbf2a59040f299b3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,149,10
+66c067942bfe04b97fd2a74c2d8a2722,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,150,10
+be0f5c560a4113b1595c2d4b0580b151,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,151,10
+1695ff4488e1e5c84ce61d0d960ec32b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,152,10
+232c075c652552450311420bf0dfe4e3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,153,10
+5ce9c481da7ac37eca1ae62d6810ef76,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,154,10
+7ffe7f2bb10bd4fa335de4d94f7b981c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,155,10
+f77b805e00a6ffe28c67c1e979024ec1,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,156,10
+b96171b35afd4c62857914f736850209,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,157,10
+3ee6a0e3e58814921c4170b14878ca04,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,158,10
+2d7d791fb66c8b7d71a396718cca0195,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,159,10
+f8568bbbbdaff754c9e08f21f10ce31b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,160,10
+7f94d3f8fe611174fded48290cfc4f01,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,161,10
+1e4259d4594a5d336bcc690ea5e74515,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,162,10
+0cc200263c1b548a07c07d6c41257434,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,163,10
+417871d5ae57aa04ce06cf96137e31da,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,164,10
+29e1a18c2c82eb2b6ca00aa93f54a213,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,165,10
+4843df7b65023f276ced63bfd4f82c36,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,166,10
+650e00e3238cc5e793b40799d0a5df4f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,167,10
+4b845dc7cc13aad9b25edd02c11e4eb9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,168,10
+3d5f11299de2111cebb095b4ceb8aea9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,169,10
+9802ac086f6bfecdfe38cd6fcdce6b48,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,170,10
+9a46d5c33a1b27ff6071f81baa4b0e58,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,171,10
+a5b5e62858d78a240f1c245345235d1c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,172,10
+767f48d3a034ea441813ac9573216a87,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,173,10
+bca971a05dec50dd06cf11380927ead5,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,174,10
+48e16b3cf1ee08ca134dfdde6fe3c64f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,175,10
+ee9d3c9fbe4b554cb52ef5b0e460b6d9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,176,10
+21034893f82bd1e0b1e856c3af003ff9,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,177,10
+fc016aca6d87fe44607083d9019367ac,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,178,10
+9cb8e4c8520aba38aadf4ec4a0ae63a3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,179,10
+af9916336e4d663f0af7a66ff32e63ca,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,180,10
+54c8e40b1239eab94ed58e205044981d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,181,10
+e94692a7bc41b7bce2be083d0c2db62e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,182,10
+8a5e58b55e2eae4f71aaff424ffaad7d,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,183,10
+d4974a7be21fdc4697c6680165757e2c,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,184,10
+de41b4539077ed01c4b7b74270f4f2cd,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,185,10
+fb5701fc8ff3162a1004f0a11bcc7544,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,186,10
+30077df399950aedac4d92f2febd8e50,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,187,10
+36623b9e8e96562bfe3f393324bf4933,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,188,10
+d72fcacb1abe7ffe8f6dabcc963a636b,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,189,10
+e763f71aaff58d66cec321d0209f6496,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,190,10
+6c538fd36d22384ca9fcb3c2e113583e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,191,10
+bc07cff32e5a706204ebf71c935414d5,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,192,10
+f06752fe5b42440916a0dd869d2afda4,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,193,10
+7b10b3b7aed3874b1962ebb42edc5435,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,194,10
+8867cc6fb2f7fd54feba4808092ee9c6,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,195,10
+a51a181624d23bc89510e9c85b26cb87,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,196,10
+3d5857872a6e7a8e888e0cc80db3016e,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,197,10
+fe5249e1f8209fe57af9204afa421d09,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,198,10
+656b6c0658717786a5526ec8b7987102,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,199,10
+5cffbdfef7e64a8cba7b9c77af3590eb,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,200,10
+c12901fa2ed0d6b8f272a3e410017f6a,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,201,10
+0019aaee8d9ce50b66c39933290787c5,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,202,10
+7f779e3775e0feef4e1c6c900c1f8d1f,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,203,10
+2afda11d707346c1e4121ed7854c33bf,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,204,10
+db2b4412908c1871fa6b438b202d0425,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,205,10
+f5aa65f525a6e7a3e6f67eaba68258d3,vocals,fake,fft,Alo Bau Lo Bau _ Folk _ Sudha Mishra_vocals.wav,206,10
+94201a1fd263cf7be81b4054a3cf31a6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,0,10
+26415fe177bacac8cca5ca6bfcb231e5,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,1,10
+58f9837088e68e782cd712797da4ba17,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,2,10
+093ef5aeb5ec8243ef17ed25e17d9be0,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,3,10
+4b9b4b3b3cd3bc3131a557183e3ea11a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,4,10
+52ed75e0d63e43073fa1f81e7316ffb6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,5,10
+6fcc0f39518e02e4e86a8db5924d3e26,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,6,10
+abad083e078242d9e22a384f067ff878,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,7,10
+5f1d8f311e31ec4ffa5fcf2fd12e6ca5,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,8,10
+a546e50cadd8b6c784a266242e16387c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,9,10
+c403283a9ef1775f93f297233447cd58,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,10,10
+3ca7d0037eb8b04f0b9c1a08d13fdce1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,11,10
+f3ef0ac4a32bd631914aed8f79f3b410,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,12,10
+240440a311a830f99ee271a8722592ad,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,13,10
+acd2a1e79aed8bfd80085544728074ae,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,14,10
+8fd695592ea44ce001dc5a1eb00092ee,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,15,10
+e2012c5f44497dfb4321426c4ddd114b,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,16,10
+930c0b56dadf27b581a82f2da3be1544,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,17,10
+a59781ca8a4009b8f7ae308104fc7332,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,18,10
+8c50707e7f54eac0a4cb46afe463778a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,19,10
+c9ee5b9df8f366d2fdff25079e6079af,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,20,10
+e1e72022464e18c7048716c919524189,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,21,10
+2f9f99bd78c01a298991805792103120,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,22,10
+77aff3d1aa8d444a00a53669a2c3ed89,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,23,10
+370fe951f6e62c094b6b52c3ebd0edc2,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,24,10
+fbc4ccbb5d7f0c4d1b3f1946d43df527,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,25,10
+229bf049184edc3bc1bb39c96c46437d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,26,10
+b5dfe15604355d9a8d7c6b41a8f143bf,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,27,10
+85026cb9ec77e787f5ad70a5dda4377a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,28,10
+c4a9379a86c4585618dbe5fcb1ef8050,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,29,10
+a0b052fd2c0168e1b74b3da440a8bd0a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,30,10
+86c404f52a8878df31494be133376012,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,31,10
+7928ba6afa78678595dc15d3666f1aa4,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,32,10
+3247c028015bdf2a9aef4e7fe7f1372a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,33,10
+4bda1b00cf8ec40aa2cd6da17a50e50b,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,34,10
+08ddcc4d59953e6037f825a8957f9b3d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,35,10
+e000e31ceb9b07779dfb8e1f4584196b,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,36,10
+b5e131078be1242a1b3c1685a48609a1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,37,10
+d8b52ee9b6ad795a7aa87ec03102b5c7,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,38,10
+9c164c6563130ed8858cab689097fd10,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,39,10
+975e2ef71bcdeee871923cd601a38a07,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,40,10
+20f5a376522a51fa0ebedadcc1ab7fc1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,41,10
+af0218786c6a24cb3d9cebf1cc7537ce,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,42,10
+774d2c852ccef8a92948491a0b041b8d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,43,10
+0a0f99a648403c60b9243073d1cefe90,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,44,10
+9018f2a6175de7a4aa8a5143434292ff,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,45,10
+2a5a2cd279f464b43fbd81d7b271242b,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,46,10
+80e5295320c25a0cca67400883f76baf,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,47,10
+9c00ae4b5b283fd0d619c22dee3d0602,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,48,10
+0273ed784af079a16e87cafae8c5b9e5,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,49,10
+a33cbe8c363e051c6d492d35b76cc317,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,50,10
+88e35465a5d0d88609eb9cb6be240192,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,51,10
+5a6b1e1c05d154c44a5bf83e2db7cb7c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,52,10
+837bf51874d7bc4bf27cb1fed7c64085,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,53,10
+01ac2b5c17cfced871e1db9d544ece55,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,54,10
+85c0e0980031a038246b2f253b34399c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,55,10
+b75e7a7deecf5f10c9e09688ca770e32,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,56,10
+438d5decbe3fc46d21c066945c43c2b6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,57,10
+3155f2c9e4a625ea16570065e4106716,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,58,10
+26ac60dd8062952aad552f3f9caa28de,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,59,10
+d4ecba1fb255e27ffc21d9ae22ccb609,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,60,10
+84d4412f979a3e42883df8963dd533a2,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,61,10
+eeddf47ada7031ad3dc0425cf8584deb,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,62,10
+7d39481059b71c6d9e083cfb3d4baaa9,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,63,10
+7feeab3d9b1e5f4a695ea1864f4a5fca,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,64,10
+579091b31ffabe603ea3a9308197a6fa,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,65,10
+46cc4ead0c4351770da949fbec92ebda,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,66,10
+7a026c44695cd0cfaef7b69c42dd0e06,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,67,10
+5c3e37ba9860b6578e4081b5ca4044a6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,68,10
+a47e978f7ee73e11f7041bffedf9cb36,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,69,10
+8cd34c65d8b4ff0a2a1be8d311e6c0a5,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,70,10
+37e9abcf59c873e3dedd0d23a02cb107,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,71,10
+7aef758e560ba599fee71de117d72885,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,72,10
+7aaa7e765b20a377dfd93a48f3ee55e3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,73,10
+f673ca5d0e6582a176b67c78d183fb20,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,74,10
+eb4cb32e44914c4e7398b4d577f7c43d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,75,10
+5325d9abba0b61a363f66e4102558081,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,76,10
+61eacd5e98fe08d31ff3085ad646c4cf,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,77,10
+34d39297446a6ce0f226001cc24763a8,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,78,10
+c91c4a81292f7473fbc457752b3f3ee7,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,79,10
+1a31b6be14952fc34000088e252e8970,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,80,10
+9152eed1df31518424ea8b00671d0f43,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,81,10
+64ee73639c44141f09927a638d7cd48d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,82,10
+7c643b33d316bc3538e105d287bed2d7,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,83,10
+d08317532a41c1bfcdfe303ff007ef5f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,84,10
+db7fec7d969e123c5654ebf90d02b3a8,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,85,10
+591a7b8e1fbbe6550ff37684c6b5dd55,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,86,10
+d0b5c35f3b5afb9848c20a9e3bb01843,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,87,10
+d42dfbb093fc43ee53f50d632cfe06a7,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,88,10
+5c5dd2d094a5c27b6507e5eec2987043,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,89,10
+21bd66ceccf59a777a3f9b85abea7f7c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,90,10
+b76773b9120bb2a271f567b27ff430c2,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,91,10
+51b3e6331798670697faeab28aab6024,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,92,10
+d2b1ffa587765bf3a34fae590921e4fc,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,93,10
+f3debe9cb44842a1c1997d03847e4ba3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,94,10
+d9bcf7d58a7d873dfb4e5e9dda722867,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,95,10
+bad042b5e6e173f9f966eaf5e47a1096,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,96,10
+ad9b722439dad6d7a341b5fb1954a381,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,97,10
+39b887dc1fb8525457531b9923a72453,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,98,10
+50306ba808a9fd3f6b859caf1c703c93,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,99,10
+97895bfc8ac313d2a3501fe0751ee1e3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,100,10
+53596b904fda21ae84979c1b56fdb2f8,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,101,10
+3b000caa76a5e5a2644bb336f4be2c3a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,102,10
+7b9bb8f21d15d4deb5c5785e36cd10e0,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,103,10
+6967d2f8aab49a3e138a5f532e1c2fb6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,104,10
+74279d3e8ec71ef3a7e13ecedd271d97,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,105,10
+3f6d440dc5668860bc5f259c7f22186e,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,106,10
+f8445ef79d04e33d93dd19843f7024fb,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,107,10
+71db933d53ccba46976c5944b57f7f92,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,108,10
+7cbd66da4878c2885a946bf82ba06f3f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,109,10
+c5c2c8aed8a6f40c31a8dfad015ce55f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,110,10
+b80961ad8adc64a3715df190de3cac1c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,111,10
+20c5ad1c2e4d382d4933d332c400b1de,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,112,10
+9de322e12e288276e352b1ebc456f6d1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,113,10
+dd7c01dd83c78dd292e63118e23b19c6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,114,10
+fa97583933f45bd5777277f34c7a4acd,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,115,10
+86ca40caff8ea65aa69a9cd5b847a8fc,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,116,10
+fc32ebb0521b3faf92674e6c2a947351,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,117,10
+4c7530d9e89235901848ee62d73332ac,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,118,10
+7013cca4a8df928c2df684fa2b80e803,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,119,10
+fbc677430b2ef6080444fa77a81054ea,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,120,10
+17de14dd904cf7be41090108e7a4f721,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,121,10
+a35005dd50e363eb14ec112ed0ae3cc1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,122,10
+d5406915791de348633a7e13782763b6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,123,10
+1b3521331b91f39535922e300479c513,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,124,10
+8f6c6bf0aabc9ecf4daee42397b56d1f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,125,10
+1e595cac07fbb3102e1622713e94885e,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,126,10
+fb560e80077aba08c8f0b247c5545634,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,127,10
+df3e43c03f3662878bf8f5c8832a8dd7,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,128,10
+5db7b22ab44cf36fe60253a6d9e8cd6a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,129,10
+a5a7c8941117cd7a2c9196bc7921ff07,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,130,10
+c5cc1843d43db74a9d98ad67da649d29,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,131,10
+ded929e2a59df1da07628cde22139218,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,132,10
+b84fc92c08da64c8d45245770e8955cd,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,133,10
+c360e51238923dfa989b7c8d7c33b44c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,134,10
+8eb9a8b79328c8e920d42ae10a877f24,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,135,10
+9064594d628abb06f30623362be66f19,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,136,10
+98bd46fe4ae37a6551ccbebc6e5e4508,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,137,10
+7072aed18c853af9701934f07b86efed,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,138,10
+01d3b41e8c8205cd90b9f50770ac76cb,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,139,10
+69d0e0505a67eb4c65b370712d702913,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,140,10
+f4b10da9090942fd79a14aa238253085,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,141,10
+93672af2aa0a7e321c2bdf0730d3e8d8,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,142,10
+2f2ab6686c4bf20b5dc7379d54dbdd06,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,143,10
+3dbfae68f2ec1a175bf3abf8bde198c3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,144,10
+874cfbba68a0c9f699d1667b44acf717,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,145,10
+185b0ba7a32d779e291697d8e875b4c5,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,146,10
+a8977fa7ffd26112124411de3c47fa13,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,147,10
+2ec0649a9db2dc925af886455a1eaf39,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,148,10
+b68d61f5b52b112bce6d57f308a7fd3f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,149,10
+9818241ec94c9f07804707b3edb590e9,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,150,10
+3d06f0431e04b3bb8ab1cb1b788fbb3e,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,151,10
+d8806576b5e1b75a8935dd6199b30a92,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,152,10
+98967dfe7b1280c7c17ba72758a56de0,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,153,10
+3cfed1cf9d74ac83454422dcfe959f82,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,154,10
+ba6ca51edaedc2ddfb1f73e7dc9f1851,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,155,10
+c5ca45452fd637ea498b77f8c9c21bf1,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,156,10
+94c61b17ac83982ba6c0eb1cd7695818,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,157,10
+8d3778e19836078854500c6afd92d629,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,158,10
+a32276b1b6547ca986ad44b0c06d63d6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,159,10
+11960d670f678e8346fd12a1ae7cc5c6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,160,10
+67ac42992eef12d721b13b59973b9068,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,161,10
+26618fe1f932ff6635395416f2f9190a,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,162,10
+28a47d6b1f7e81171c185cbb0856ebdc,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,163,10
+52389bad9266d1f088858fb1656f66bc,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,164,10
+a6131417666c554bd72eab3757fbeda0,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,165,10
+dc3def76b9ad17fb7917228540a38689,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,166,10
+6923a604a7603f65d9f4c4fa2dfd8b60,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,167,10
+02c32f43e80fdb378de18e0e31088146,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,168,10
+87bd80250a57a9717f535cd1ba3e9bf3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,169,10
+d0a4309b8b2f1fbb7b56cc180e369c35,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,170,10
+d9edfe1e38cc47a5c83b68682b8b29de,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,171,10
+8dcf45471cc61a9f34ff89ec5f3eebb6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,172,10
+d00d940df038d32218037f48151c746d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,173,10
+bbaebe54e350e37d3436b05a76f5862c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,174,10
+b63f74cd2184634a237e5e073dbb9f66,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,175,10
+84f070b9dd30a4ee323ae2ba5ba740ad,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,176,10
+fb9f1a592df0710be9ca46aa8cb6d78f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,177,10
+2ba486ed8eea38c011b639c1d85a2792,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,178,10
+29722e3c76f8f8bac395cc735089df2d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,179,10
+9ba482facee863a84f61348324875883,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,180,10
+d6ea9363571ff48a5f12dd433f5719e4,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,181,10
+277155643bff2028db3591acd1f9f17f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,182,10
+87f2f97fcbc3e2e4fce40622e42e1a37,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,183,10
+93b37cdfc4e6b189edd19468d32ace36,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,184,10
+b8f64767a4fd0d1b24b5f1352c20746f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,185,10
+8e7bb40f54ef1f0aac59ebef059aa6c8,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,186,10
+967171220339059f8c7eb332b8bd057f,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,187,10
+13cee4df8eb4736a8f61c1d3dfd60c46,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,188,10
+393f61b25102fff06595e95c0fbdbd99,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,189,10
+27fc396d790235092242e22dd4424486,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,190,10
+80172e32b9b20726dc0f108b476c2a0b,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,191,10
+8ccae5c3524aa5a6ab35be519ad90fc4,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,192,10
+01e558e620cfa3ed3ad7301e82491ce0,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,193,10
+bdd39684f9a927d115070afa592770f3,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,194,10
+b788e7c8f18ea3767a4f2710ce09e36c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,195,10
+101aeeba69f90b5da24fece256e8fb02,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,196,10
+54e01859a78cb44ec0d51352c9d4a4a6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,197,10
+b8e0ce9ef19656ca6bad5f55d7766ca6,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,198,10
+0ab4ff0d199c2461633a673adf381d2d,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,199,10
+2a73725b8caa768fea2deb9c67b69b9c,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,200,10
+68be6cb7230aba07999b9a3a7ab93712,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,201,10
+ec9c90b220cc90fe2ff4b764135a2979,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,202,10
+66e2bfa915feff2aacd5c501c0edf573,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,203,10
+f43fd8bb1279699701ac3129d84f20ca,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,204,10
+6b03d4b938bcb21fa62d20d71af16837,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,205,10
+bfb3008cab98c2b11e5c90e984d1eb81,vocals,fake,fft,Asharah Masara Jata _ Folk _ Sudha Mishra_vocals.wav,206,10
+f486bfffde7e3e7a875503c978207e99,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,0,10
+d883ebab3159d0d89041311c5ffa1a6b,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,1,10
+a13ad1eff4c5d8bc2d0dc8d655c31cb5,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,2,10
+f7fa853895d0f9dfe9d5ca777e863469,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,3,10
+abdb75e33b1da72b480e78df7180445a,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,4,10
+76e40ca4504c3fd35f37d5e530f5ae15,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,5,10
+3f6a323906058ca5365e5210eb113944,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,6,10
+fbc2835850a274435578140fcadc16b5,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,7,10
+0f89133e4dba0ec0635998b1d1890643,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,8,10
+baaf5e81cac684d7798b142e9f679d99,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,9,10
+1c2ab84ff860d4fe854d28f7c96683bb,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,10,10
+8149363e98e7ca7863cb915d2096c8e1,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,11,10
+4334a77de9d8c566c748a5d154326143,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,12,10
+f11987ddaeda1387b13bcb0f9f7fdb7a,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,13,10
+ca461a1adfc469de18fa6b9bea689d76,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,14,10
+71484ce5df29779a37c2956afbb0cdc7,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,15,10
+f70261a44a1ba70ba43acd25754f9d8d,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,16,10
+64cbf03189d86afe76c1d6b5aefe3223,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,17,10
+88464ff76e1331f7a3876368f8d234c3,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,18,10
+9e9ec75fc1dade2d356de258943614ba,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,19,10
+bfe5ed8232f83db5b42d567bf4497206,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,20,10
+46028c08d222185f4676a521868e47bb,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,21,10
+b8621a9cec6a85752eed6c28bfb65913,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,22,10
+759a2bfb469f32b7018489052c34eaba,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,23,10
+16dcf4ecd4850e2fc86c11ecf971aeb9,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,24,10
+aff628336a900477b2a7017172e67745,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,25,10
+86a8bff0bd9f5f4ae8b45eb6841c775b,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,26,10
+a0cef93d9f6328e210b6ea67f6ed7127,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,27,10
+49140fa2824556092eca52fd60c1b0ab,vocals,fake,fft,Dalkhai Re _ New Version _ Lopamudra_vocals.wav,28,10
+f74dad4cca5dec688d7f3355d5b42837,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,0,10
+a001ea3ab2420718d6613b41646bbf3c,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,1,10
+81df159671081ef30980ef8fc74c81a1,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,2,10
+f3f4435d4581568d3b88ed066493dc31,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,3,10
+38119108aa6db02e6a2c20c3dc62ac97,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,4,10
+c19cae7f9e09d875cc50957a3ac77a9c,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,5,10
+3f76d8feb27741b495fe755de83a5f1e,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,6,10
+edf88581a5a74807748f5f6cca984cb3,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,7,10
+2e3c9750aeca5b25b610c0d273476b02,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,8,10
+8ac8822a650c5a7ed5fcd4e20d74e936,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,9,10
+b503fa855377d9d03e1f44c9d73ada36,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,10,10
+4834942c358c05a40a785d946b9bcc03,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,11,10
+bbbe8a833e37027e0bfa4a1a99d59837,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,12,10
+060e0173eac4baf5489d1d6fbe7afdbb,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,13,10
+d8f23f065d3891d8bb35aa2fd6337ded,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,14,10
+cee4ec6e51ece37be80f2aa621c32691,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,15,10
+145b181193756856d2126dc43975843b,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,16,10
+6024f2ecc9f6cddad540058697250e3d,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,17,10
+3d4049d8e3d59ae023fb3cc883ea96b8,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,18,10
+542e223f221671383deea85ac14bf6ea,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,19,10
+3052d40503a207761c64e7b04dd25002,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,20,10
+5a17d4e5adb347420e4ab4fad71740ce,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,21,10
+3c3c742b8ce796b090499125015002ea,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,22,10
+dba213df0ac6f5137d688471138c13a3,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,23,10
+3da14eb67900e9eb6adf392ab35c9381,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,24,10
+e095bcb5755764036d062ac8b51d6b3c,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,25,10
+454dafa88a78c3bf46022ab1aff4fdb1,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,26,10
+28cc7ea6bcc1eb2421bfef7210fdc51e,vocals,fake,fft,Dalkhai Re _ Provided to YouTube (Audio)_vocals.wav,27,10
+1829ebb30c5789cdb6033425afa8b515,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,0,10
+66a17ebe8bfe801dae3874bfba633e3d,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,1,10
+486c6cd31fd6f273274e6c56307bf159,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,2,10
+fe616d1b1a5f18c7acc62b9c5f7e38e3,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,3,10
+6aceb71c758d0845bd5a7b51989e082b,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,4,10
+a34f4541bdca398d4b31ecf85ee38702,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,5,10
+5fa3e38f6f2b974d7bb158d012508fe2,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,6,10
+2916c159901d097acee3bc7de93be3aa,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,7,10
+edc482af7158b225eb65ae0d15246f94,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,8,10
+b7a208e1197b88493afce7a83143a910,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,9,10
+9a4eaeb90b9f5b80d775b66da1ef2aeb,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,10,10
+c6e7ece57c9789e3f74a27bde6cd72a3,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,11,10
+982a28e4e389095a7cb4490598c34281,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,12,10
+9252481f4466022fbe492da815b93280,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,13,10
+134c7d52af7a9573b95b09fefe8942df,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,14,10
+a79293597b868185471c774908bcb234,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,15,10
+5a2443714f15a94145179ac07ae75de2,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,16,10
+f9b8c5b1f6ea7a9e8f022fbb6b8f4e9c,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,17,10
+b7c7132dc93d3135db9f533cf4ebf1e9,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,18,10
+85833be17070f8fb42546d36f6692c21,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,19,10
+68d8c56ce69cd2046bbc6f99dacb7e19,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,20,10
+f84000b48528cba04d7bca845fc3d19d,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,21,10
+c60d754b30ceb4b1bc7ebcdf0e947304,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,22,10
+9d5001fa5b077979c6e36222ffa14d70,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,23,10
+70c2828eae574ea2c07dfeaf1c05c406,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,24,10
+5dc4e6eba4324d9f032ba3d6d0e23991,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,25,10
+271425c7b3deb3d873d060bd06c861ae,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,26,10
+b6874bf56252a65a4d08337ee135c33e,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,27,10
+a1662739bcf3b98fd57917edcb4dde1c,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,28,10
+82ca0308ea0d9c824a1a7f4b55b3b69f,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,29,10
+c92ba4ab343bf7f4e6ca709049a15840,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,30,10
+8cf5deef3daacb0b6413d767bb323291,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,31,10
+1dc703e0ecb2879d33d42ab4aac58e36,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,32,10
+e8c61b11e6e3c88f5e7ef14f29271ead,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,33,10
+1417d2f3a63fccf226a6ceb426e450bc,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,34,10
+139f7775572bcdec2851d4afaa328fc5,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,35,10
+4c00aba84d92f5aae5146843d5fba5b3,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,36,10
+61478ea6d34793760ecd41a5db4a6963,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,37,10
+dac8c9c408e6c0a17269241623ffdc32,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,38,10
+00e7ac1cf5fa3c8b70797439320cb6bb,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,39,10
+d95b73e3e76eab5e1edb8b0e4f688743,vocals,fake,fft,Dalkhai Re _ Sambalpuri Folk Dance Video_vocals.wav,40,10
+4b9e1987410e10e3e7b12fe583997aa5,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,0,10
+f27d131267b43135abd67956e6f8f6fc,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,1,10
+70a822478318ee34c1fbade91371ec58,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,2,10
+3ad65af887b68e9ac9f189055f2ee575,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,3,10
+587b3025766a1bd80bf359e4f880b79e,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,4,10
+57769c167e91e3193de94a05869c8927,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,5,10
+b0218a0f454dbcc5eb7d97d54d0d1f37,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,6,10
+b91ec887ba8d848dcd5a8d786b8d2a82,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,7,10
+4d438d8ebdf0d8a727078243f13f08a1,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,8,10
+37b979e1375e6600c4706a2d0246cda3,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,9,10
+4d8829637a8fa5b03f20f5ca8f4cd3a4,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,10,10
+e342922f1728e371b9b0d7f0cc2eedeb,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,11,10
+017555e53db53cdf4f3ce0432da5d4ac,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,12,10
+dbf720a6b9ec00a75cb5e016316f6042,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,13,10
+4c64755f461010b7241027a60d74834b,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,14,10
+ac01e6dd3d08d414461090315b1fb006,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,15,10
+3675d6f288d79807452f041ad9074483,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,16,10
+27c82b04cf812da0962f40bde921784c,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,17,10
+43d1e7d274ee104210cc8ee251597e02,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,18,10
+51c13d7ee7ba8a59905934aa22549932,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,19,10
+752b585ba7a67a1cb89f967bbb7e49a7,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,20,10
+fe7f6a5a83cfb95fa90a345573685f8a,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,21,10
+bc8ece9d91e32b508dc02ceaecc8952f,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,22,10
+4549efaaa8bdd42377a0d573764d695a,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,23,10
+5db6cdda165fb12334425d7b3424464a,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,24,10
+29050061b9c0148fbdbdd70561954eff,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,25,10
+ecf28129f03d44bbafb41e55bf56c87d,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,26,10
+9e66ea8cb1824bcc4e56f5ba1e7ffeef,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,27,10
+86d51753687eaa9c88226b3b9902ff0c,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,28,10
+ee83310813c63488d796069b3e4126f8,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,29,10
+c9bf7acc3cd15e300d9e5c183a0b860b,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,30,10
+676a2533dbdf9c590dc7bf01a76dcb91,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,31,10
+fbc4f1d0a8b4bbe8b843098fe5f49a58,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,32,10
+583a5c9c2c9848a14771cf824048ef40,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,33,10
+7c521016e4892095fcade3a8a72c83e5,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,34,10
+6d8267a5cdc830a87c0482c5e20e8fc9,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,35,10
+6ba675e04cc9b3b2a5a97b54aed50524,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,36,10
+84499f91017e9a47fc6be983c0e94ca7,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,37,10
+dd6da049b9586a741c1a35c1e6f7bfc3,vocals,fake,fft,Dalkhai Re _ Sujata _ Sika Music_vocals.wav,38,10
+c8ca0f73183b1a307f5d9abf174af9ba,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,0,10
+9dd2d86713adf7efabb0b20e108993d1,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,1,10
+bf5778212cdf127e2f5cdd87485c07f1,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,2,10
+9665dc99e2476cad2c73b9df32933b3b,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,3,10
+9ffc5ab21e35084580cee7585aa79df2,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,4,10
+8df7cd5a0e87c49b06274235fcad54be,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,5,10
+6977c788540410246dc2c162a25d4606,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,6,10
+ca857286a0f9b4b2daacf56f9c130a71,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,7,10
+8148207ae04943a8edfb3768e881f6c8,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,8,10
+013f4abe41409bd1747d98c5f86cf765,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,9,10
+d0e05feb83c246249fab5687ab749b63,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,10,10
+96f4ca4b33d37215208a3e972e3be8d9,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,11,10
+b9b3b34cb02e1af82a8444125528fdd7,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,12,10
+378cd9efd0798ab032c16f99720c6200,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,13,10
+0b25be5c4919ee452fa8b681618d918e,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,14,10
+86bc0f79ec1e499eaf5b4d8b5f57f2d1,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,15,10
+f567c7c72ab97edd35d1cd45cd5324dc,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,16,10
+7cf8a99829cc91ce40d792131b492059,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,17,10
+f9f0e64ff102f86c42711b72ac1e462a,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,18,10
+90dc71f12d70855d402913f5205b5ae1,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,19,10
+d003e2de9459f6e7cb009589634618f2,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,20,10
+2e38c1f7c74e6e415ba4359033edb90d,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,21,10
+9bee06b97d99f2146cc5c91f5d3df00b,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,22,10
+01497b032c0938981f1737c23b8698e4,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,23,10
+40ce3cbd906438f647d624cad11de3d4,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,24,10
+182bcbf739e0477d9903559596c99096,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,25,10
+0d5e2c82bb28c1b7b736e4241ba4d631,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,26,10
+e55b779dc66676c8087d63a3c6d6d2fd,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,27,10
+c1c3caf2cd4a28a9b3ba428f4f385892,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,28,10
+64565fd8fc70e6060835887858c8bb1d,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,29,10
+bcbec764db8d3533640bc88a6717ae1d,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,30,10
+cb51c2c35186845d1df8b963e79bded4,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,31,10
+7fcea255b28fb5ae6179768c62ed05aa,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,32,10
+29c5c146bb332120e82d2547b4455b7c,vocals,fake,fft,Dalkhai _ Sambalpuri Folk Song 2020_vocals.wav,33,10
+ab9ee82bf2b0e32ef32119d4690594b7,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,0,10
+214787217cef34212aff68cced2d2510,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,1,10
+e889b411960b54d0bfbb2d5d3facd4ee,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,2,10
+e2bbc61542597cc7968f0a546e46e2a6,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,3,10
+519cf38408fa097383c301dd6dbbd88d,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,4,10
+727ac8240138e4967892940a0f11c2c0,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,5,10
+6e4e45af2d3c2848d3862be2dc7f868d,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,6,10
+28cbea121ab80f02275982c15286bfd9,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,7,10
+697d412f72ed9455f5ad0e2e1feb01c6,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,8,10
+42cd0a735efc25495bc73298cb7d15cb,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,9,10
+f0690ec8c3f9a074991b6984146ee6e8,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,10,10
+2692ec1e8b4db47113eb0555283d339f,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,11,10
+5e13927044d4acaf678c21468b5cafa9,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,12,10
+b8fea7eba5f9a6be2cfeb85afe18f5eb,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,13,10
+5ea02ddd5fcbaf50d04a973c290139a9,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,14,10
+7de748753c6f94fbcc853cb8bf42f7a8,vocals,fake,fft,Din Gani Gani _ Odia Folk Song_vocals.wav,15,10
+cf5d4e424813af52640db07c45de8fa8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,0,10
+52a3b1e34d70454b54c98a0d9b88d261,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,1,10
+e505c8f2f7ea43d4536689d549c69dd3,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,2,10
+03df0fa3a6d4316b53e20473500e7777,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,3,10
+17c9df65d8ae70185ca7c5deaf6580ff,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,4,10
+95dca3e44edcffd118ac8531f6f6070c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,5,10
+e911537479709ac64156b016e2d2059b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,6,10
+9d201abfb3385de6bd94659a77000145,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,7,10
+0f2cb18e327828c84b65afd3530feb11,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,8,10
+2ef60b70ed21713e89241a68d8a88cb1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,9,10
+058673e8c45a21f741612199cd1ef2fd,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,10,10
+ce13ad98c8c758192a04b429c98eb72e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,11,10
+6aff1a49d134165c6ee0eab1cad85dd0,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,12,10
+4b9d8e766a3a07e21c8d27c65330f496,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,13,10
+e098a43abbbe3bef7c22c3715af4fe49,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,14,10
+c2043f518973a923e88baebb2a09c316,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,15,10
+3a3600ba8d196ffef9c9baef09660629,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,16,10
+c82457a88aa1eb7dcea1595366aa195f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,17,10
+d8df6798b5f7c0c48426c80eaebbe1b7,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,18,10
+50076c059cd8f94f531e1b9e1a60beb1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,19,10
+098848e2c3943e5aa9343f5c46a43570,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,20,10
+3df4305308a0e4ac3c61a55158be170a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,21,10
+21f1b4b2b40a9f8236eaed7ea1078ee2,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,22,10
+96e27a4440c000cc9128ab546d9f31ac,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,23,10
+c763ec2ff2762d4deb6236951f6384d1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,24,10
+35e362f8e2aea7042836f7d057047657,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,25,10
+ca29d204d8fc9682e390d569abe1aa8b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,26,10
+89839a453dbb0996253af1b0ab9ccde8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,27,10
+73c559ca0e217ca73b858aa6cb43990c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,28,10
+2aafb7e2f204a0c4425ce5ad5009338a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,29,10
+18bae3a86bc7cbd3e6c39a6b82a969f5,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,30,10
+be04f2a550c6f4a2875f2203bc07392f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,31,10
+a9e8c5d569d8b6e87beaf5d5d68fc6d7,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,32,10
+5a1b4a25a4173dd5b45564d950ed7ebd,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,33,10
+3214775851878fbc1ee80385594cc7fa,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,34,10
+d7a971cc36f24b16268865c1784f6085,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,35,10
+0756618e73c49c68f1a3588dd45e3f8d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,36,10
+fe7558a5b465c0f5801d4177b47a6a79,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,37,10
+8e9b4ad34be4a1178dded27aff590c56,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,38,10
+3c41911d81173e6a05d91f3becd3ae3d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,39,10
+d2f64331545b95511e7df6af4b45c48e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,40,10
+b1ecaa69a802741bf7b3d3c3e0d9f8f8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,41,10
+19be08a052325aaf07ebf4f6042d56cc,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,42,10
+e05f1b42f07115a7eb4626b9717e9c8c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,43,10
+4641db8d9fdf6aecc779ccf0bcbcb503,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,44,10
+a90c0c9861c5ef3f32b0ccf7da70dd92,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,45,10
+35537d5c9d4a6f015b475670cff11e87,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,46,10
+9d6f36e561dd8eb341e9847b0e107367,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,47,10
+4b11c32a67514e7449748fbe4a91c27f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,48,10
+2262d508855e11c0317fd86ac372621c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,49,10
+fe1958e14eb891da4e56f01219032a8e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,50,10
+9a578ae308ea502898505832b831df5f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,51,10
+1222ec513cb754f01f5205b7c3d8e788,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,52,10
+45f1ad102de70d7ede3f6f278d0651b0,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,53,10
+6a1f7c9e104c178d822d4c8cfea91f6a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,54,10
+ffb0e95160c196e6f431a17ad75fd8ae,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,55,10
+ba09bea9a102c46c56321e35628561d1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,56,10
+47ad7483446caa0ed406ee3665d54340,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,57,10
+222755b4823f8e6c72a42a29bf05e291,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,58,10
+dc15d4084a480022320d81c66d308128,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,59,10
+4c928cb808ae23df4703a365a18591ea,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,60,10
+f584be0fb3e685bedb151adef6486989,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,61,10
+678021d370feb870d0a64ca34a350c95,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,62,10
+a64805624fb94a365f6748542d012447,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,63,10
+6940f73370b95cb39c0091f114070be4,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,64,10
+d4cd3c494c75bd59f6d547fb7c92a084,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,65,10
+07d129e2460f98e69621e6c804791cff,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,66,10
+3865e79e19dc51fa52425af6c99892c9,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,67,10
+3d6b832ce12acfd0c863193cb2930267,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,68,10
+fb6a8fac3ab1977f7e81cad42b487942,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,69,10
+dd0d5267a0c308bc7c5b8de77d6c5212,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,70,10
+20f3300423c413aae4319b0d2054d292,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,71,10
+5186e7b6af0d28bb49d373c35815047b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,72,10
+9e7c8390012d187fe838b768ffec565a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,73,10
+deaa35c645bcd7d36a4b95e11a495a9f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,74,10
+8ad280a4959f318113e94fd80dfac19e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,75,10
+f4a18e166dc909015c29d99d4e77fb46,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,76,10
+3d7142f39baf5dc1ee5c00c888266f6b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,77,10
+1d5e843778b4abda2cf36e51766345a3,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,78,10
+188b46d8e467d02aa18a711b7ea4742c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,79,10
+863cc1e543a944df6169aa1ec6a49d79,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,80,10
+3f1c2496053948f257ab73053b044ff6,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,81,10
+4325b45c7e95ca987a2204796f88f378,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,82,10
+dac510236faac50397b7b6b0e76f76ac,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,83,10
+b6d3cf67e34ecefe53afdb6d526343cc,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,84,10
+53ea841408ba48f4db69641e06f99605,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,85,10
+723b42c58c2e2dca9a235865f044768e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,86,10
+26b55a2ae3b5aa68c3f11a4b109b5330,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,87,10
+33bb18fb477e1179179870cb35bad45b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,88,10
+85459ff77a9474108632570ffe2feb12,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,89,10
+0d2ffac0c3ad28a8314683460c1b3a19,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,90,10
+c889a5647da04d13509c4e2cad11da20,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,91,10
+985fdd5816f69d886cf1e364c46d4d85,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,92,10
+25009e0b67c5024c47fa4c40712f8d43,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,93,10
+2b157a7506285471d624a56654cc510f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,94,10
+5b6beca4787c434afc78fb645e95ecdf,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,95,10
+9cd55123f448f26417dd565ec6278090,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,96,10
+752511eed9aad7e4fd87ca334b5a2faf,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,97,10
+b484fd0c96143f74bbefbaddf0ae0e85,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,98,10
+3f2fecb1d7d31704839af5faa89c958d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,99,10
+0bf47c05c4a7a6f40538e999558da50f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,100,10
+997cad4f876f6a5b5b283636ba7c887b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,101,10
+57c651c7bb2bdeb59f3707c34acdafbf,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,102,10
+b4a9acd57828765510410504de8d87bd,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,103,10
+fb5a5e1d1749090bb90b93fd37157023,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,104,10
+117b49e56834c7c3aa2ab8cc573f1d72,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,105,10
+00136b489ff3c3a6e91435ed59ba8882,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,106,10
+e2659ea399087d47e7565f3b4e252df7,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,107,10
+7e143282a429da8527675c2d50cc7f22,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,108,10
+ad89f3803447c5231fa7b933640b046c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,109,10
+48659da4776052d3b5acec3ab0c30886,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,110,10
+db1ae8d72fb61560bd1e92f5e5627f04,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,111,10
+5d91202693bd5a2ea5a89aaf90c180d9,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,112,10
+b9deef4b79115e0c1c540fca23e4cb86,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,113,10
+355153eb0f9eb73ffa03169780890476,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,114,10
+a5911802ffa2e53ad68bcac49adff71b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,115,10
+deb8d61fa55b147cab6c18ab2b024cea,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,116,10
+bc2d21f85be3314ccf871fd484a29962,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,117,10
+74f39ca5261b46b1354f3a79652109bc,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,118,10
+a9fbc51904deb5fe64ea6f7136f17b3b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,119,10
+96e05144c75ea80633dd1d04a0b1ee9c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,120,10
+8b1e2e4705347bb9d6e6a152e814bd47,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,121,10
+72c6da6f6c940c7759e467f97d8390c6,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,122,10
+2a3401b99607d1114d75058b22a2ac18,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,123,10
+4779451fdd46776e306e83dd2f17df41,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,124,10
+84dfd4bfe3ec0f6cb15568a0f3cf7939,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,125,10
+e89e1f7c284be8bf7bd44078047e8f74,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,126,10
+8e99a4f5c646f0c5530d190049d329d9,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,127,10
+ddad6a834ab906beb776c1a38c1eb1fa,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,128,10
+41efc0ab85d23b4636e01af355c27e32,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,129,10
+5b7ea003dbf4c395a7af5ca3aa3c6241,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,130,10
+5a59884dc996640d3ea9b8abf72999e4,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,131,10
+b62ce53671c6f02431234504412ca548,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,132,10
+7f166ecf167c873bbe418b8293ae9fed,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,133,10
+5feac39e229e74e805ef52548d078341,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,134,10
+5beccfa5f7b5176d3b61df836fa017bb,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,135,10
+34028b0f3b89cb176977ffd06793d725,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,136,10
+9c9dd57d333c9d45cb22d221dc152c54,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,137,10
+7b0726ebb93ad00b9a9ca48ff38ef5dc,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,138,10
+e569c63e18d550bd9bb585e856ebbac1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,139,10
+50d247602da8d2ddeacd11d32093052a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,140,10
+f699aab2449584900b16e1b2a78f0f7c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,141,10
+a6a851aabb59dc6aad3331ac555edd65,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,142,10
+0e07f9eb5bc21b6cf99fa01b8c66e791,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,143,10
+0a4def95240312e4279c7c49b560a2e5,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,144,10
+ee1a510aa5b4f74508783e11b1ac81d4,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,145,10
+189f920ba44f8671c8551e802ce4f4b8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,146,10
+1231236cfa195478138f73ee967b9a7b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,147,10
+97623f1fa4031edab7130cfe3c84ca78,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,148,10
+fa781e74abde200b337d7f2ca055764f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,149,10
+5a29059e941979c8e74fd2e542ccad76,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,150,10
+2a615332b5dae925466b269d253ace33,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,151,10
+6290326f5749677dba11bfc0bb9decf0,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,152,10
+832d36fa1d4c94605d7589fb38fdddcf,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,153,10
+bcf6ff3dcc08416dc3ae3e2049773b9a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,154,10
+4992554115f0e7241832b4e8b48722a7,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,155,10
+9da25cc29c8e8f0b80c3fd78cf6bb600,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,156,10
+2b1be0f15ba66ba4c54283a8b8690dda,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,157,10
+d7d1a43c624bb3dc1c5739d91824b389,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,158,10
+1ee00e6a22dfbbc0d95a802115dcc2c9,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,159,10
+1eea4c6772b3d8cf2be283b0ecb468ab,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,160,10
+8c64dfeb8ef63b86b237ae772b4b7888,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,161,10
+ab578dfd4ddfe0fd3c333a69ee809b3e,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,162,10
+bda81867b4ead52c7d9a3dbbfa0f7601,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,163,10
+68f18e2e1cb76d6679e9bbc376119f8c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,164,10
+e8b35475daaab92f5b238fcb4cc3a89d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,165,10
+ab15a06ba9283b0728a872eff7a66833,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,166,10
+128a1f847bbde0c470040e2badae6e7d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,167,10
+cb25b80754c6d17e9c02371c014afe4f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,168,10
+69964665942324615860d5da763c689a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,169,10
+dfe9e79e41dbcf13406ab2cc95efda34,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,170,10
+4d7065d4f396cd3c00d5004aca82f9f8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,171,10
+0cf25aa9356620edf107e064ab9681c4,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,172,10
+ec39cbb8beb89d83fab7c7005333a645,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,173,10
+7e382a3b8afbd30304947995ba4a874a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,174,10
+03d55788bdf8ca675d4cf96c60f2f539,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,175,10
+38740c0d67b71b1d59809aa7e48a6a68,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,176,10
+49923905dc41df746208baf66729372c,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,177,10
+45a122fcea34d7e5426d32ee1c43ebdb,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,178,10
+2398b8ed9e205dee1d02a44d0036c68d,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,179,10
+2ffe9110816409672c271fe038fc9333,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,180,10
+09ab7c0a36485c66660fe23fe4076cb3,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,181,10
+182cd2e5b071289fb56b5987a35f746b,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,182,10
+0e352f740b7713bcec68bcc46ef2d484,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,183,10
+f41a639e3a10e4214162b230c07748f6,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,184,10
+e7a4515000a0fca9f0f4e718d0c3cc10,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,185,10
+71f5770762e6b238e75282a6f72c6cc5,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,186,10
+9bb5a10c04f07d848341544e3f14a16f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,187,10
+94fe305388c00bd7c2e1a5eb90360d46,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,188,10
+53565eac16c57ed6ecd9d388690819ab,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,189,10
+121208ff9045d80e56077659fa6ac2d8,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,190,10
+90cc5ae7df4c9d0533cdac6c2d69ac4f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,191,10
+7bde02ea423539195cb00042d50e4d00,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,192,10
+60906debfbf094fb20642d5181142bf1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,193,10
+f7dfae8d7ee92af69d43c98f3de16e1a,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,194,10
+5e6d6630687e3db6705f2f3b2cd79fdc,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,195,10
+681249a92d6a8855bde823d4ed17bb88,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,196,10
+0809749c60874a9367a48e84ce5353a2,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,197,10
+5945ba54df62a63829b7280b154004d1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,198,10
+49564e4285d01db68ee6eec979e9e1c1,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,199,10
+730c5ed89016415a5b44a3a2d5e8f52f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,200,10
+9d30572b6799aaf9303e46086401658f,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,201,10
+f70e4208f1bb46d5e3e3a9641674c1de,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,202,10
+370834866600794626a8d9a6df024526,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,203,10
+b3221ed2f783f7af1fee42cf8478f3fb,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,204,10
+04c2dacef2eabb0f4f3d5f4ed3ff06a4,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,205,10
+e0b42fd417eda8689edc1696990c45ae,vocals,fake,fft,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra_vocals.wav,206,10
+fa259a886f634f038fb34b0af0a451a5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,0,10
+d8388ffd3df7bb572b74ac2f6017a394,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,1,10
+c3f4860c710eae6421a22a9243786515,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,2,10
+0a75a6e3954f9d1f70151e73e9e119cc,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,3,10
+f303eeaa6d5d839797f53d0f7093ebe0,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,4,10
+09d80c593f321d7f0046cf2834d818be,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,5,10
+ecd257dbd883060f1cd950a775e35047,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,6,10
+0a49bd42769044be7f74d7d07a4908ed,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,7,10
+2774eea3fd1df45e03223b7a0fcd5821,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,8,10
+351b4fc329eec529cb2944395014f413,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,9,10
+80c7bd0c3c1b9656b7450f84600d6f08,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,10,10
+ef6d9287f37da4ebe7d7b451d2f4b18e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,11,10
+7e1b3690cf22358fd4e0b46326184d15,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,12,10
+f0cbe494173a6cb0ab1734fc6f0f3adc,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,13,10
+a59764ede454d625e4267575ca274a1d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,14,10
+7a242742bc615aa0d068cc672537f004,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,15,10
+3475dadce34da8b9a32104750cab48ed,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,16,10
+ac6752ce051b663b914c975955762c7e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,17,10
+de046dc4a7e65b5d3be790eaa5ecb47b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,18,10
+4d8e8e44075178790ca23f146bfad8c1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,19,10
+ffd5b8136654500f275191e498140817,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,20,10
+a8c15653871977de7caeba1cc4f82fd3,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,21,10
+bb5f6fd4bfe3f49afc6f4424dd76b92c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,22,10
+785fc21d55869b7379311ce6a86e801a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,23,10
+3b0a42ee372992f8edfb9f62b1434834,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,24,10
+5d45d3cd4d2017faa93ee10922f379ee,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,25,10
+da25697ad2ebea5013fbd8f511e70142,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,26,10
+619d00bccc3af3eb87285f916c4c2875,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,27,10
+30e900017b497030e96dccaade6b8771,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,28,10
+23997e5231b557c56dff90eec24c6524,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,29,10
+11dfa1c334be75b7e56769a6104f139c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,30,10
+c4c60e79fd18f85b6b2fa8997c2a446b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,31,10
+89675c5e80b73288b9b71b4898b8e2b5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,32,10
+0778b25fd853102c4d416794c89ccce5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,33,10
+64d72364aa7fe6f734e05b1bcff6b520,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,34,10
+ce9a7fe735e4577ee55ac3564d69f319,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,35,10
+40953ff4c6e56a8765c3267983d7177f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,36,10
+ef9e8072a52e6d9a866932990efc67d8,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,37,10
+4c4d4c837c8352cdccf98a6fafafc3c4,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,38,10
+84fea981a1e62d5d2a4b21ffb8b5e2a5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,39,10
+1056e87c04cab1d2e598e3890bf2099c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,40,10
+0b16bbc2ad3fa9a47a63e33a3ca32906,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,41,10
+fb24c46f192195e0488a25c5abf9c092,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,42,10
+99d8ec92071243bccda46603c92952fe,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,43,10
+b91231d50f8f6560693cd076454674d8,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,44,10
+f5925746f8365ff1caa7fcb9f22e8a32,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,45,10
+44e824f229d1a64816d4cbe9d22759ae,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,46,10
+6c55a9ec6b721286e9df2610690c3b11,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,47,10
+5c85279a83e71f2c39e4dd325e5f71a9,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,48,10
+c33c795921a865701590fc9625356a2a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,49,10
+1226985425a9ecbeed1a38820df02c77,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,50,10
+80110360a286d2d2c443fb5dbb62b5fd,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,51,10
+58ed26e08da53019714b2056f27904ad,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,52,10
+ece83471f39f3bd087e76cba72ac4589,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,53,10
+a0dba4cd983a9ee12d8ac739632ee210,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,54,10
+3b8d3fa1d5709ec28b3abc5e267534b2,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,55,10
+baecc2ab6961ac0b1f22024af2384a4f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,56,10
+6ff7e51888cf231bedd8772cce513ace,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,57,10
+97ba71b45cea9c4260a49195cd6b7a7d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,58,10
+975eb95732753e5175e5b72077c1f23b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,59,10
+b97610a14f39c8511b0bb836ad6bc2e0,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,60,10
+389766ec5d4292308fd6e64598259329,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,61,10
+27f45b1830929ba06fb8cb31fe262b68,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,62,10
+165ec97cac3edb556c283e2bc534f3db,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,63,10
+6a017ab18da67925c3f8a0d69e72cd16,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,64,10
+869615e733dc9c3e0eed4f38c2d15e3b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,65,10
+1296a6a3f5a37b4d9c859b30b14c1729,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,66,10
+b4d21ac4771a5f3cf5caffee79ee7254,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,67,10
+bc769a82fb358c4e4620d9ec177893ee,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,68,10
+8872d83fd362d0838ab78bc648b6c072,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,69,10
+e4a63c79453bf83c0dc9843f800e2ae1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,70,10
+6adcb04e192f5a1d21596aaa18da6af9,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,71,10
+87a55321c3ed3cd593fb7aff1184601f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,72,10
+1b4c64729d3392b7d8783f477a9c40d4,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,73,10
+d8eb59db55ea7b7f289780f4a1d749b5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,74,10
+7d4c66cd34ff6beb884bdff757d45347,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,75,10
+f86899ed1ba416a8cec795bbd10d40d1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,76,10
+29a6580f8c3921d44daad0f605e52817,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,77,10
+e6120c4ab2c27f7b6fca0e35900a0957,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,78,10
+d39e838d9a8ef714450c711246dca07b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,79,10
+202fd78bcf2ce7f357dd18e8ed8830f6,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,80,10
+e5637b1e924a45b48b3fee81b8de6e91,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,81,10
+8ab6b8cd732213b8a2ed25567630994d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,82,10
+4a0bd8568817cd25ba7d274f33d17d33,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,83,10
+4312d4596710e2afcdcc59417cca9460,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,84,10
+236d9335e8db6a9c7011c5fe9334b559,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,85,10
+4dc86510295c359f670aabbf57b2283c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,86,10
+7bb7ab2605898564060da2004e46d8a6,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,87,10
+6dfc2f338a1f30e59ac30d4284d468bf,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,88,10
+f742ddcc0f414112abef00a866de0093,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,89,10
+febf780934970cde1d1c203812850e17,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,90,10
+6311159befb2396d58dfab16754337e8,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,91,10
+793a33bd322e60dd8700433a9df1c43a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,92,10
+72090d7977d58e8053adf2777b458f1b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,93,10
+01d52b2705eb511b3951fec65708311e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,94,10
+a74fd3e77f613866da9e8bb0440d4338,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,95,10
+1f3c569f061b7b35ab8c3a69570ab7ce,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,96,10
+78405895e30fa2d8fcf7df1d4dfd0f86,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,97,10
+54239e6d4fb7197c273ba845bbe154ed,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,98,10
+73d88b8f9e6abce912abdc35879eea39,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,99,10
+94c1ea20a6f7aeefff86f432828d7a45,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,100,10
+087b33d46bc41fe585ae00a6d1143bdb,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,101,10
+2962308507cea11a77f4e7fa3003b6ec,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,102,10
+49b2c687419edd0ac00dce04e7ac4cf8,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,103,10
+c993569d6370038a456a7cd6a1a4de4f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,104,10
+83d9b55f935cecc6d2ffaacc71fefa90,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,105,10
+357a21ae729befd55a26d43c30141e66,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,106,10
+cbcbe592b1f0188fbcda2bd7a79a362d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,107,10
+5b70dbcff382c919f984d9cd182f39b3,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,108,10
+a5a75eb2f6f6d6f531dd1fd6dd54d581,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,109,10
+67b89f237eec60cf16ccbf3a06c63b99,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,110,10
+7fe7b937f7c58960d97dd4673ce2e081,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,111,10
+fd5046950c177936907545e006a4c02b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,112,10
+6239b71c873a1e12d0dd748341685228,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,113,10
+672f4b0e965b06fca37c8f4e9fafaf94,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,114,10
+1a50817f26258d5d6e1841ce9b6b2d5d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,115,10
+87e072dabf8cfeafaf58d2e4b9f7546d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,116,10
+471e76dc836e03a616a2f2ee56ca87a3,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,117,10
+d52e057193481456bf3b46fa62976b03,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,118,10
+8b491236e1443d4235caf00b7b5f41bf,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,119,10
+32936c11c6bd6245a171172dd98f90d5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,120,10
+1d97453285a67fe0d322d84ac6bb762d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,121,10
+d943e441f62daa3b4a447cc02ca33ae1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,122,10
+f367d7e6579f2606b2a1179642ebabb2,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,123,10
+d42b7099da2fac2543029dbed5d9fd10,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,124,10
+62466256732612068f463335c0eabf91,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,125,10
+46662e2aef51c0a5edd3a710c6e28689,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,126,10
+32d8865fae3722f926747e192303a157,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,127,10
+8375bf9abd5af824d157d671b9063655,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,128,10
+2763204839d09c0f5e8e2d02c5fc522e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,129,10
+d69cc602c1b22dee80fd8853f08e3e51,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,130,10
+f90c78b2c085caf91c7211ac7282c287,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,131,10
+158366a6599d85d9755acd3415d4e2ab,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,132,10
+36f8c275ed9dff34e5b80396d7854e36,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,133,10
+a72968a2ef87b05d5e3777872dfc02e2,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,134,10
+8c1173fd140e0f91414185cb0be6c9d9,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,135,10
+3510ed8e1adaacee2d8ff153232ee952,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,136,10
+1c87e473fbdbc679e727d001c03fba92,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,137,10
+0407da9b5a2cbfcd4eef6822157704bd,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,138,10
+1992d4083e8000cea75c6eb778a45b0e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,139,10
+6b87294ff46a1e278a68186324ca1931,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,140,10
+9934848edaf62f735a56fdbd6cc1f777,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,141,10
+f8450b28a1c140ebe2c0094f63157076,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,142,10
+ed45ea3f09d876456764958d0dc5b2a9,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,143,10
+8ca39fd0f4d7d8509f7fcd759ab0c63a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,144,10
+ce31e817dd0b38dc5f2e9e0e3de7b79a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,145,10
+577d9883ddb5afc9133e456d80eb55f1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,146,10
+564d57a57a975d9fd7f52c57391f69c7,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,147,10
+f3afeee8246ed2b6510fdda512bab1ea,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,148,10
+ba0fbb802a07d574c1a8d5804d8ef09f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,149,10
+dbc20cacca2c5e701fe9d6858ce183a0,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,150,10
+9f99e65380fa4185a34d022dce4fee16,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,151,10
+a973f7f4aaa7b77afc251a4f884abc0a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,152,10
+0c586d8726a29123231290cab0f809bc,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,153,10
+13eda2375247edcaccf36dd1a7a61722,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,154,10
+6ce43eee22896b28a93ecca0a64fff36,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,155,10
+325156a813c6ad61bc94afd5114c15c1,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,156,10
+53782f7a808d86d87e5a59b8b9d9354a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,157,10
+4500828647291bb2782ebb9286cd2435,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,158,10
+0e926d030c142156b658766a5abdee72,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,159,10
+a62d8664a4901af68468dffb42502133,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,160,10
+59dac7ec6fa845d878e4aec010b1fec4,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,161,10
+ce1e7a020a06bc94b531b2d7dbce2f99,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,162,10
+addd344d8e15b4c4a285e1bd4d901138,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,163,10
+988bb9acaf404465191da5ef02c2aa0e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,164,10
+9fcd179c11b90ff9bdd92e5929896444,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,165,10
+2daad9cef22463b2d2dd938ebb0d32b3,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,166,10
+684786a91e54e38b2410e28fcfb0bb6d,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,167,10
+87c11728a146826b038f8fa8516f450b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,168,10
+22600e9afe826cfc12324363ce80a2c6,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,169,10
+c8167a250101b64d4f80252ec0240ed9,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,170,10
+b898661eb651260952c7efaa937093cc,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,171,10
+c95485ce0f5ee3b04f8253dd9e442288,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,172,10
+bf276ce85d5f0877042264104b5cb46c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,173,10
+d3610e6a0d67b8e57f77776d73089b3b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,174,10
+9c29b2f19dbe576ae1382b328506755a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,175,10
+7b16ca8615c5778063c3719b21037e8a,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,176,10
+f2ff7576fe40706c89cd4652cb169732,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,177,10
+f61270c35d883d841aaf40f97ead0c02,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,178,10
+3d00b098d2a70eaa0cf1e3e1e6feeef0,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,179,10
+fd549d61eb1e17ff1e37e1926b5ba1b7,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,180,10
+f2a83d988f6cfff7d472a2ea5e2ca66f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,181,10
+fc64fd99e97a69b61c29ba07ac84f79f,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,182,10
+6270a0bd14c8788972a994fbb0919301,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,183,10
+55608b77a71f257b5d4cd46043ad4376,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,184,10
+4f18ccf41d3c2dcec14d73fd563fa5f8,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,185,10
+3c0ed3082fa82a4d976e671cfdc5431b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,186,10
+cbadd76861443d139d9dc082f613c0ce,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,187,10
+f6d6b255dcab93c8f3d7cb446cf4d1cb,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,188,10
+fd1a5e6c20d67c0a86b32f5940ee8aaf,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,189,10
+f1c36dea1be704fdd43cdbf110a0af6b,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,190,10
+cd29ba2b653c85f0682b8608bc8060df,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,191,10
+b5ef7afc44ca6cf6fd62b90074f2ba24,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,192,10
+659e0e841114236c69db2c28f92a8990,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,193,10
+cb6cbec6e922b5299d8f8382db368e6e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,194,10
+77c2738b08b7957c819d480bfcaaceab,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,195,10
+f5f42c0e779b7e7cabb3c8248ec52719,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,196,10
+1448c2af64d232ffccd4bf542db4bc3c,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,197,10
+0fac73e6c0107a5d6f79496114d813ec,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,198,10
+aa290eb3861ff7368fdc30aa5fa34c88,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,199,10
+8ecf23677563dae5be2362add5f5b2ff,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,200,10
+db6295fd55b6f736ab5a1d82e2a43c63,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,201,10
+5eb2eec81fae8772cdc2157b9a0d7393,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,202,10
+7136f29456241526cd667fc9dbe703f5,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,203,10
+91fc79c9121dd76cc7baf46f2ab3781e,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,204,10
+649c057698015bc63075d6626e1a7c19,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,205,10
+a17063dc9a2adb682915cfdc45582e17,vocals,fake,fft,Pakshi Rajo Charhike _ Folk _ Sudha Mishra_vocals.wav,206,10
+117fb395b80f03eff6371a18fb32ba77,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,0,10
+30359daf08bdf3e2f1da31b98f84a4a6,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,1,10
+bf61d8370f39d4accace3eb43e5d312c,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,2,10
+3756cabbab5845b8511e71221606043a,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,3,10
+2d61ed2fa0c5df4bac9d79b1e138f084,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,4,10
+d7547b42e3a29c68278b3e7196937fc5,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,5,10
+033adee8145d6ba57a0a6b42083d6623,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,6,10
+2d12ad7d7cd3dbe60b6dfb95f52fe217,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,7,10
+6daa59c637f8f7eed72089f97261f40f,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,8,10
+857e7946e648fcc2811a832f2dce3898,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,9,10
+b907e307977cfbd16d4dbd6736fb53a2,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,10,10
+c7cd5c7ebc01cd4a01131447323eec42,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,11,10
+761d29bfaf8be1a11feb2ff81459be29,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,12,10
+f963fc50999fdc805bf3c006786b555c,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,13,10
+fac5f051b43d379361610ac35932bbbc,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,14,10
+71821270a72cba15da8b10e065a7923e,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,15,10
+ef4559c476bfc22a96e3bafe138672b2,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,16,10
+1a931941a254048662e78dbae9ef9163,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,17,10
+8deff86d3e9208e4e83f4dc61e5ab81d,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,18,10
+7eaa7f08c60696ab741acec0e6d826d6,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,19,10
+a047904e46cc6d5b8ed1e29ee7317e9d,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,20,10
+cc7ffca915e603779aed4befbb4a4b96,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,21,10
+ebab54619ec7e5ac06f4599405646023,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,22,10
+708c095ce5e393f175b588120d64d9e0,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,23,10
+8855e3597037c60cf9656f59374e57c7,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,24,10
+1df71552c2e76e2ba1fb315a2176bc12,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,25,10
+f71fab7cf1f7833dbfd9b4f3afe5f601,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,26,10
+f54d383053403b130f9fb3700368acd0,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,27,10
+aa8f26c58f2680d42f719c71ef20147d,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,28,10
+e5fcda61ecc2e8dce73d941d849a87e6,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,29,10
+b79de0d67ce02e366ed65ecc4c98efc9,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,30,10
+2501016b60c7b4426889df8fb78ef9e8,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,31,10
+0882e550995bae5ac0dd7de568bd9180,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,32,10
+802fc37603f8a677aa4a3ceed0362bf2,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,33,10
+d38ac93e5e8c1c120f606b823b6f74a2,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,34,10
+70c9696b41b3d23107bbf1ef2de1513e,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,35,10
+5044472c1bdf7de40f009894eb5faca5,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,36,10
+d1b559ee131e4635dbe7d4230b3054f3,vocals,fake,fft,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal_vocals.wav,37,10
+a68db7be69961c971e0d07068df6df1e,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,0,10
+081e6fbde23f00fe255a2483dfc36d91,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,1,10
+503f476a6bf9cd336dcc74ecd78e6828,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,2,10
+80c8232293f145170f24f85322912329,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,3,10
+833ab3715d7fe6395b4240f508a8a6c5,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,4,10
+4d883ef79967bc6665d2b70660ab4793,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,5,10
+ce691d917504891871ed33d86e884126,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,6,10
+bd07168c9aab49bb6972a89ee24f222e,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,7,10
+19751278dbebc18fec51be8b5c732eb5,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,8,10
+64dd7c3f2320f352ba60ffe29a799999,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,9,10
+74fc96c4bf8595d32aa4471ef847bec9,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,10,10
+483b2c9681a60cd015919379875cfd67,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,11,10
+189249ceb3013964598f71d31cc3d6d8,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,12,10
+6f5e3c02faf4ac0075eb2c1eef387816,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,13,10
+4edd34f42fa107357b76bc688e4464ec,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,14,10
+a00328c3f350fbdd0a734828aa69b19b,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,15,10
+bb46b94e521d903df1a7701937280886,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,16,10
+58d27372630438a0f1fbc122904e4ce3,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,17,10
+167fc4750171c7d3c05d7dac4882c2ad,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,18,10
+f12cbcdc52021645df34fb0fa55cd23e,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,19,10
+493f15cc90e17b228127813a5fd0daf9,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,20,10
+c3f33d4f6710bbb66d7e6e0cecc79239,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,21,10
+fb63fb37acda8f0f6aceef4643cb98dc,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,22,10
+6bbaebfe664f338c6563dfb6ea59b1d8,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,23,10
+927ed8aef416b8fea29c34986ced724c,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,24,10
+9d65437adb54879ad297d2d09cbc5a49,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,25,10
+e66650b2b5093645d057921559372f17,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,26,10
+b13f5b0bf1caf6f5271ac7f6e1a1149e,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,27,10
+1eaa1822fc99e63c9eac7e9dadcd6ae4,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,28,10
+b3a288dc796c32bae311a228b56d53c1,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,29,10
+0b2aeea67185ae49aa62f790d4267a72,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,30,10
+773f169e483a4a198820a6cfbed41584,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,31,10
+b629d02a186f2383807914ca8481780f,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,32,10
+d06ac2dbeb33f80351bfceb7c1208d45,vocals,fake,fft,Rangabati E Rangabati (Full Song) _ Jukebox Cut_vocals.wav,33,10
+c57de8d63acf6e1dbf616ab13fb07d8e,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,0,10
+fddec7034ffb50045f72d500c4d9a7a0,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,1,10
+0d002d84fda8335711b9094a3b0c9efd,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,2,10
+a0c1c803897223f11dc1d824fcbaa9af,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,3,10
+ac069531b1cdc0b2a112fbed2486348b,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,4,10
+b7e377352c6260d6c68da70ad2a0c9d4,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,5,10
+123cd3bc810b84bdeb56ac8e79271314,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,6,10
+fc176e58f411412d361800f278cded9d,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,7,10
+5a15461fc88a0ac46428899c0b99de05,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,8,10
+1c1a477ecd288c65ca91b64df9208a34,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,9,10
+1c9dee6784a9991c3ea02811533220bb,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,10,10
+6c109c4f14f40f395fca575e82867ca7,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,11,10
+589a0d343203ecdf1c8472a69888e5ce,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,12,10
+a824642a503979d2eef43b46d6ae115d,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,13,10
+6a31c02abf48258a50769f57b9a5922a,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,14,10
+1b84ebeca700af1872edc7522d978834,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,15,10
+eea25fa46fbd2c8c8f58e00857c8e91b,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,16,10
+2beaee2444b9806c55f02d4a6b22ba54,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,17,10
+4d886100c0a955e9b060c583f15e4ddd,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,18,10
+4b149f67346259c7ecdc5d609f26f33b,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,19,10
+382bc46ec12dbe6a02d69d72ecbc58b8,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,20,10
+b74bed5b4bd22f845b6ceb6353124918,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,21,10
+5f12925cf2ed054054a4787ce3aff875,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,22,10
+eac54781cde306260ab8eed8c8b79a2a,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,23,10
+fc792dd3a9258e6fbae14ed13a5efe36,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,24,10
+e091d3ec3a6b38e575965d8c397008e4,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,25,10
+d26402c9948aaeead759a965b2a6ca07,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,26,10
+e38394a53167b48c1dedddbcd9d1adaf,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,27,10
+26645319141b6f35400f40ca09a7b441,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,28,10
+b0ea33361c59781cc1b82147aa266d43,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,29,10
+d28a32b4d418e6b9ec880c6d87177f07,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,30,10
+a5aed6c53d4bb9cd3a612a2d614fe5af,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,31,10
+ffd5f62eb756890a58e21ddbc9ad7e32,vocals,fake,fft,Rangabati _ Original Sambalpuri Folk Song_vocals.wav,32,10
+a6939ad4ad4a8fe21c7e03abc43a2aae,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,0,10
+64bd508163eae31047e05dd83875c355,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,1,10
+e574bd783068679404b3bf9a33a087ff,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,2,10
+d637a6f40a682df37db9c599f02feaa7,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,3,10
+0ffa56216249ec67de5b313efd047e87,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,4,10
+bb1d673a5560836fcd30ef84bdcc9412,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,5,10
+1d33aaef2218c15b6388daeeaaff6647,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,6,10
+1566fa3a4d36a269fad4eadbaa9385ed,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,7,10
+f6ee11b67fce9417bd14f3de80526619,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,8,10
+25aebd3c7f5d062a2fe2302af8ba18ed,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,9,10
+ade1b4d53ccc83aa65f921313870c8f0,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,10,10
+a821252c98f537075331b7483b64451e,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,11,10
+4fe879008da1eb7af357f7fa36fc72ff,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,12,10
+33d00bd061b1584bf5785621cd92daa3,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,13,10
+acf37a5ef00270905a621f065ded68b2,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,14,10
+baa4c058e091f6ace0cd716d84d35885,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,15,10
+075d9c42be571f60f42f879fa9924b80,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,16,10
+10a3e892ce9193bb744c3d294d65a9f5,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,17,10
+d7579f7a0db543ebfae6fddf2728559a,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,18,10
+c71067d6c9be34765fd7a6b8c3432fcf,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,19,10
+1cf99d6e697124ca58b36b17759e7dc0,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,20,10
+f442a3ad84676c3c717027ea6641f45b,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,21,10
+b482c9a906824ebe290099670cccf804,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,22,10
+01f9083d8e7a91afb8cabdf0e88e69ef,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,23,10
+a44a539e106d8c91eb9ab88bab284e78,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,24,10
+d252e7391c197713bf62f7ba5d509377,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,25,10
+f8c2077652580f34ff1e426122a98184,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,26,10
+1add27ca3e111618ab3dd5490c2c4e04,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,27,10
+95861120434bc2d118d44a3734fdf86c,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,28,10
+1919eeb0ca43585c5aa8adffb57a6bdf,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,29,10
+49001f650730003cb732093a0465c577,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,30,10
+62fac8aa681fb11a2303c40310c90504,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,31,10
+46b685acfadbeca2e3bb66df2a11a43b,vocals,fake,fft,Rangabati _ Original song With Lyrics_vocals.wav,32,10
+21336ff0d044ce7722e26d29461a281e,references,fake,fft,odia_reference.wav,0,10

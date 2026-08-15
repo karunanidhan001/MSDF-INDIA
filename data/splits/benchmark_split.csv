@@ -1,0 +1,294 @@
+SongID,Language,SongTitle,Clips,Split
+2,Bengali,Bosonto Batase,33,test
+9,Bengali,Bareer Kachhe Arshinogor,39,test
+10,Bengali,Moner Manush,51,test
+12,Bengali,Khachar Bhitor Achin Pakhi,46,test
+15,Bengali,Bala Nacho To Dekhi,23,test
+18,Bengali,Sohag Chand Badani Dhani,16,test
+20,Bengali,Bone Noy Mone Mor,19,test
+22,Bengali,Kotha He,38,test
+23,Bengali,Aj Noy Kaal Noy Roj Protidin,35,test
+26,Bengali,Arunkanti Ke Go Jogi,18,test
+31,Bengali,Bou Katha Kao,20,test
+34,Bengali,Tor Bhubane Jwale Eto Alo,22,test
+40,Bengali,Ami Jhanjhar Mato Durbar,17,test
+44,Bengali,Bhoriya Paran Shunitechhi Gaan,19,test
+46,Bengali,Kusume Kusume Charonchinha,25,test
+48,Bengali,Kala,73,test
+56,Bengali,O Amar Chandramallika,20,test
+58,Bengali,Milon Hobe Koto Dine,17,test
+59,Bengali,Loke Bale Bale Re,245,test
+1,Bengali,Tomar Hridmajhare Rakhbo,37,train
+3,Bengali,Kolonkini Radha,49,train
+4,Bengali,Kichudin Mone Mone,34,train
+5,Bengali,Prem Sukho Nidhi Radhe,34,train
+6,Bengali,Bare Bare Ke Jeno Dake,19,train
+7,Bengali,Doyal Tomaro Lagiya,24,train
+8,Bengali,Bhromor,36,train
+11,Bengali,Jao Pakhi Bolo Tare,26,train
+13,Bengali,Age Ki Sundor Din Kataitam,26,train
+14,Bengali,Pal Tule De,41,train
+16,Bengali,Pindare Polasher Bon,16,train
+17,Bengali,Sadher Lau Banaila More Bairagi,19,train
+19,Bengali,Ami Eto Je Tomay Bhalobesechhi,241,train
+21,Bengali,Tabo Achintya Rupa - Charita - Mahima,23,train
+24,Bengali,Keno Phote Keno Kusum Jhare Jaay,20,train
+25,Bengali,Mayur Ponkhi Louka,26,train
+27,Bengali,Bagichay Bulbuli Tui,19,train
+28,Bengali,Akashta Kanpchhilo Kyan,30,train
+29,Bengali,Jani Amar Sadhana Nai,17,train
+30,Bengali,Kul Kolonko,45,train
+32,Bengali,Andhakare Ese Tumi,16,train
+33,Bengali,Keno Tomra Amai Dako,19,train
+35,Bengali,Amar Bhetor Ami Ke,53,train
+36,Bengali,Ma Habi Na Meye Habi,241,train
+37,Bengali,Nachiye Nachiye,94,train
+38,Bengali,Hori Naamer Tori,33,train
+39,Bengali,Deeno Tarini,48,train
+41,Bengali,E Ki Labanye Purna Pran,19,train
+42,Bengali,Akoruno Shathire,81,train
+43,Bengali,Moder Ei Shikal Pora Chhal,30,train
+45,Bengali,Nishi Raat,21,train
+47,Bengali,Ache Syam Ange Rai Ango Helia,33,train
+49,Bengali,Apon Moner Baghe,45,train
+50,Bengali,Se Chokh Kothai Tomar,17,train
+51,Bengali,Ami Je Kato Ekela,19,train
+52,Bengali,Say Hari Mynah Bird,58,train
+53,Bengali,Jonomo Morono Hobe Nibarono,153,train
+54,Bengali,Ami Tomar Lageya Re,72,train
+55,Bengali,Aaji Milan Basar Priya,47,train
+57,Bengali,Purbo Digontey,13,train
+60,Bengali,Menoka Mathaye Dilo,39,train
+61,Bengali,Kalo Jole Kuchla Tole,2,train
+62,Bengali,Lal Paharir Deshe Ja,30,train
+63,Bengali,Phagooner Mohonaye,22,train
+64,Bengali,Sheeter Hawaay,43,train
+66,Hindi,Raga Bhairav,327,test
+73,Hindi,Ab Ke Sajan Sawan Mein,27,test
+74,Hindi,Saajan Bin,19,test
+76,Hindi,Raga Yaman Alap,41,test
+77,Hindi,Raga Bhairav Alap,341,test
+78,Hindi,Raga Desh,135,test
+80,Hindi,Thumri - Chaiti,26,test
+86,Hindi,Dadra Geet,42,test
+93,Hindi,Kajari - Sawan Aayo Re,545,test
+95,Hindi,Holi Ke Geet,33,test
+97,Hindi,Bihari Folk Geet,33,test
+98,Hindi,Awadhi Geet,22,test
+99,Hindi,Braj Bhasha Geet,39,test
+100,Hindi,Haryanvi Geet,18,test
+104,Hindi,Bundeli Folk Song,83,test
+107,Hindi,Punjabi Folk,32,test
+112,Hindi,Folk Song from Bihar,59,test
+115,Hindi,Bhojpuri Folk Song,24,test
+123,Hindi,Lag Ja Gale,20,test
+131,Hindi,Tum Jo Mil Gaye Ho,24,test
+132,Hindi,Piya Tose Naina Laage Re,42,test
+135,Hindi,Kya Hua Tera Vaada,47,test
+141,Hindi,Main Agar Kahoon,28,test
+142,Hindi,Suraj Hua Maddham,29,test
+145,Hindi,Kabhi Kabhi Mere Dil Mein,28,test
+65,Hindi,Raga Yaman,41,train
+67,Hindi,Raga Malkauns,127,train
+68,Hindi,Raga Darbari Kanada,289,train
+69,Hindi,Thumri - Kaahe Chhed Mohe,31,train
+70,Hindi,Babul Mora Naihar Chhooto Jaye,57,train
+71,Hindi,Raag Bhimpalasi,315,train
+72,Hindi,Raga Bageshri,269,train
+75,Hindi,Piya Bin Nahi Aavat,53,train
+79,Hindi,Raga Marwa,273,train
+81,Hindi,Raga Kafi,147,train
+82,Hindi,Raag Durga,20,train
+83,Hindi,Raga Deshkar,68,train
+84,Hindi,Raga Bhimpalasi Alap,376,train
+85,Hindi,Thumri - Madhuban Mein Radhika,33,train
+87,Hindi,Saawan Ke Geet Ritu Ke Geet,117,train
+88,Hindi,Kabhi Ram Banke Kabhi Shyam Banke,49,train
+89,Hindi,Jai Jai Shiv Shankar,51,train
+90,Hindi,Raga Durga Alap,19,train
+91,Hindi,Ghar Aaja Ghir Aaja,37,train
+92,Hindi,Sajan Bin Nahi Aavat Chain,7,train
+94,Hindi,Chaiti Geet,22,train
+96,Hindi,Rajasthani Folk Song,20,train
+101,Hindi,Kajri,308,train
+102,Hindi,Bhajan Folk Song,31,train
+103,Hindi,Rajasthani Maand,2,train
+105,Hindi,Purabi Geet,121,train
+106,Hindi,Chhattisgarhi Song,79,train
+108,Hindi,Garhwali Geet,2,train
+109,Hindi,Kumaoni Folk Song,4,train
+110,Hindi,Uttar Pradesh Folk,35,train
+111,Hindi,Rajasthan Folk Ballad,6,train
+113,Hindi,Himachali Folk Song,85,train
+114,Hindi,Marathi Folk Song,24,train
+116,Hindi,Garhwali Bhajan Folk,26,train
+117,Hindi,Haryanvi Dance Folk,28,train
+118,Hindi,Awadhi Traditional Song,26,train
+119,Hindi,Maithili Folk Song,42,train
+120,Hindi,Kashmiri Folk Song,57,train
+121,Hindi,Gujrati Folk Song,25,train
+122,Hindi,Punjab Folk Song,25,train
+124,Hindi,Tere Bina Zindagi Se,68,train
+125,Hindi,Ae Mere Watan Ke Logo,35,train
+126,Hindi,Roop Tera Mastana,662,train
+127,Hindi,Zindagi Ek Safar,25,train
+128,Hindi,Chaudhvin Ka Chand,27,train
+129,Hindi,Madhuban Mein Radhika,31,train
+130,Hindi,Albela Sajan,28,train
+133,Hindi,Chura Liya Hai Tumne,30,train
+134,Hindi,Dil Deke Dekho,27,train
+136,Hindi,Tujhe Dekha To,25,train
+137,Hindi,Ek Ladki Ko Dekha,36,train
+138,Hindi,Humko Humise Chura Lo,36,train
+139,Hindi,Bahon Mein Chale Aao,34,train
+140,Hindi,Pehla Nasha,34,train
+143,Hindi,Tera Ban Jaunga,28,train
+144,Hindi,Chalte Chalte,26,train
+146,Hindi,Agar Tum Saath Ho,28,train
+147,Hindi,Dil To Pagal Hai,24,train
+148,Hindi,Tujh Mein Rab Dikhta Hai,19,train
+150,Odia,Rangabati _ Original Songs & Singer Jitendra Haripal,352,test
+155,Odia,Dalkhai _ Sambalpuri Folk Song 2020,34,test
+156,Odia,Dalkhai Re _ Sujata _ Sika Music,39,test
+161,Odia,Rangabati E Rangabati (Full Song) _ Jukebox Cut,34,test
+149,Odia,Rangabati _ Original Sambalpuri Folk Song,33,train
+151,Odia,Rangabati _ Original song With Lyrics,33,train
+152,Odia,Dalkhai Re _ Sambalpuri Folk Dance Video,41,train
+153,Odia,Dalkhai Re _ New Version _ Lopamudra,29,train
+154,Odia,Dalkhai Re _ Provided to YouTube (Audio),28,train
+157,Odia,Din Gani Gani _ Odia Folk Song,16,train
+158,Odia,Rangabati (Live) _ Tapu Mishra & Jitendriya Haripal,38,train
+159,Odia,Alo Bau Lo Bau _ Folk _ Sudha Mishra,207,train
+160,Odia,Asharah Masara Jata _ Folk _ Sudha Mishra,207,train
+162,Odia,Mo Maina _ Folk Songs of Oriya _ Sudha Mishra,207,train
+163,Odia,Pakshi Rajo Charhike _ Folk _ Sudha Mishra,207,train
+167,Punjabi,Gora Gora Rang,20,test
+174,Punjabi,Chitta Kukkad,19,test
+175,Punjabi,Jutti Kasuri,18,test
+182,Punjabi,Akh Kashni,20,test
+184,Punjabi,Aaya Lariye Ni,21,test
+186,Punjabi,Tappe,202,test
+188,Punjabi,Ghori,26,test
+189,Punjabi,Dama Dam Mast Kalandar,46,test
+193,Punjabi,Sarke Sarke Jandiye Mutiare Ni,31,test
+194,Punjabi,Ik Meri Akh Kashni,13,test
+200,Punjabi,Laembadgini,18,test
+201,Punjabi,Naah,20,test
+203,Punjabi,Backbone,20,test
+208,Punjabi,Gallan Mithiyan,21,test
+213,Punjabi,Laare,28,test
+221,Punjabi,Sniper,19,test
+223,Punjabi,Gunday Ik Vaar Fer,22,test
+228,Punjabi,Gora Rang,18,test
+229,Punjabi,Palazzo,23,test
+230,Punjabi,Light Weight,2,test
+231,Punjabi,Time Table,24,test
+164,Punjabi,Tutak Tutak Tutian,28,train
+165,Punjabi,Tutak Tutak Tutian.temp,25,train
+166,Punjabi,Lathe Di Chadar,18,train
+168,Punjabi,Ki Banu Dunian Da,42,train
+169,Punjabi,Mirza Sahiba,20,train
+170,Punjabi,Suhe Ve Cheere Waliya,17,train
+171,Punjabi,Mera Long Gawacha,19,train
+172,Punjabi,Kala Doriya,18,train
+173,Punjabi,Madhaniya,14,train
+176,Punjabi,Sada Chiriyan Da Chamba Ve,24,train
+177,Punjabi,Heer,37,train
+178,Punjabi,Mahiya,99,train
+179,Punjabi,Jindua,80,train
+180,Punjabi,Kothe Te Aa Mahiya,30,train
+181,Punjabi,Challa,28,train
+183,Punjabi,Kala Shah Kala,25,train
+185,Punjabi,Boliyan,27,train
+187,Punjabi,Suhag,15,train
+190,Punjabi,Tere Tille Ton,24,train
+191,Punjabi,Charkha,361,train
+192,Punjabi,Kandayali Thor,222,train
+195,Punjabi,Mohabbatan De Dhol,45,train
+196,Punjabi,Proper Patola,15,train
+197,Punjabi,High Heels,21,train
+198,Punjabi,Saturday Saturday,21,train
+199,Punjabi,3 Peg,26,train
+202,Punjabi,Soch,29,train
+204,Punjabi,Hornn Blow,16,train
+205,Punjabi,Taara,27,train
+206,Punjabi,Haath Chumme,26,train
+207,Punjabi,Zindabaad Yaarian,23,train
+209,Punjabi,Gangland,16,train
+210,Punjabi,Daang,22,train
+211,Punjabi,Sakhiyaan,38,train
+212,Punjabi,Sorry,20,train
+214,Punjabi,Prada,17,train
+215,Punjabi,Lehanga,21,train
+216,Punjabi,Viah,17,train
+217,Punjabi,Suit Punjabi,20,train
+218,Punjabi,Coka,18,train
+219,Punjabi,Jaguar,16,train
+220,Punjabi,All Black,21,train
+224,Punjabi,Photo,23,train
+225,Punjabi,Affair,18,train
+226,Punjabi,Diamond,24,train
+227,Punjabi,Pagal,4,train
+232,Punjabi,DJ Wajda,3,train
+233,Punjabi,Issa Jatt,21,train
+234,Punjabi,So High,21,train
+235,Tamil,Hello Brother,22,test
+236,Tamil,Oodhaa Kalaru,27,test
+240,Tamil,Chillax,26,test
+237,Tamil,Vaanganna Vanakkanganna,27,train
+238,Tamil,Sonapareeya,24,train
+239,Tamil,Local Boys,27,train
+241,Tamil,Otha Sollaala,23,train
+242,Tamil,Kadhal Vandhale,26,train
+243,Tamil,Yethi Yethi,29,train
+244,Tamil,Machi Open the Bottle,28,train
+247,Telugu,Bavalla Na Bavalla,22,test
+252,Telugu,Rave Bangaru Bomma,22,test
+253,Telugu,Sudaradhe Prameela,26,test
+255,Telugu,SENIGA CHENLA NILABADI CHETHULIYAVE,25,test
+256,Telugu,UDUKUDUKU ROTTELU,18,test
+259,Telugu,Nagamani,36,test
+261,Telugu,Paligiri Rajendar,257,test
+262,Telugu,Jadala Ramesh,513,test
+266,Telugu,Devayya,612,test
+269,Telugu,Sommasilli Pothunnave O Chinna Ramulamma,73,test
+275,Telugu,Kuliki Vastava Raghu Mallelo Rama,37,test
+276,Telugu,SIRIPURAM ANGATLA,3,test
+284,Telugu,Bonala Patalu,23,test
+288,Telugu,Ma Palle Andalu,426,test
+289,Telugu,Garibolla Kanneeti Gaadhalu,265,test
+245,Telugu,Lachimi Na Chinni Lachimi,27,train
+246,Telugu,Nee Valla O Pilla,4,train
+248,Telugu,Allahe Allaha,26,train
+249,Telugu,Nindu Punammi Vela,9,train
+250,Telugu,Vintunna O Pilla,26,train
+251,Telugu,Sinna Sinnaga,24,train
+254,Telugu,Pushpa,16,train
+257,Telugu,Andala Aparanji,24,train
+258,Telugu,Ma Gallilo Okkadu Poradu,24,train
+260,Telugu,Kammari Thirupathi,26,train
+263,Telugu,Sandhya Koyyada,29,train
+264,Telugu,Mounika Reddy,31,train
+265,Telugu,Vandemataram Srinivas,30,train
+267,Telugu,Ashwini Rathod,22,train
+268,Telugu,Ranu Bombai Ki Ranu,27,train
+270,Telugu,Ringu Ringula Juttudhana,29,train
+271,Telugu,Yedikelli Vachinaave,27,train
+272,Telugu,Are Emainde Pilla,19,train
+273,Telugu,Atha Oyatha,31,train
+274,Telugu,Mogudu Pellala,70,train
+277,Telugu,Sharanu Sharanu Maayamma,33,train
+278,Telugu,Ammamma Yedabothe,25,train
+279,Telugu,Swamulara Babu,23,train
+280,Telugu,Appe Chestavo,27,train
+281,Telugu,Pachhani Mana Pally,18,train
+282,Telugu,Ayyori Mogada,22,train
+283,Telugu,Yemi Rajakiyalo,41,train
+285,Telugu,Palle Kanneru Peduthundo,281,train
+286,Telugu,Orugalluna Akshara Vruksham,27,train
+287,Telugu,Melukonna Telangana Chudara,281,train
+290,Telugu,Rasamayi Daruvu,102,train
+291,Telugu,AYYO RAMA RAMA BAALI,5,train
+292,Telugu,Sarangadhara Jamukula Katha,410,train
+293,Telugu,Jamukula Buduku Music,5,train
+294,Telugu,Bobbiliyuddam Burrakatha,310,train
