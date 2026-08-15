@@ -1,0 +1,800 @@
+\documentclass[conference]{IEEEtran}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{placeins}
+\usepackage{verbatim}
+\bibliographystyle{IEEEtran}
+
+% ============================================================================
+% MSDF-India -- SUPPLEMENTARY MATERIAL.
+%
+% Every count, shape, dtype, field name and file name in this document was read
+% directly from the released Drive tree
+%   https://drive.google.com/drive/folders/1bb0pH2RN5EvIYG701BpX3LoiHa3vy1QQ
+% on 14 August 2026 (24 metadata.csv files, 2 summary_features.csv files and one
+% clip's six .npy arrays were downloaded and inspected).
+%
+% Spots marked "% TODO(authors):" cannot be recovered from the release itself and
+% must be filled from the collection / generation logs. They are NOT guesses.
+% ============================================================================
+
+\title{Supplementary Material\\
+\large MSDF-India: A Multilingual Singing Deepfake Dataset\\for Cross-Lingual Analysis}
+
+\begin{document}
+\maketitle
+
+% ============================================================================
+\section{Scope}
+% ============================================================================
+This document accompanies the MSDF-India paper and specifies the released resource in
+full: the complete metadata of the corpus, the exact feature-extraction settings, the
+on-disk file structure and naming conventions, the mapping from feature files back to
+source recordings, and the procedure for reproducing the cross-lingual benchmark. It is
+intended to be sufficient for an independent group to reload the release, rebuild the
+evaluation splits, and obtain comparable numbers without contacting the authors.
+
+All counts, array shapes, data types and field names reported here were read from the
+released archive itself rather than from the generation scripts, so that the document
+describes what a user actually downloads. Where a property of the data cannot be
+recovered from the release (for example, the per-recording source URL, or the target
+speaker used for a particular conversion), this is stated explicitly rather than
+inferred.
+
+% ============================================================================
+\section{What is Downloadable}
+% ============================================================================
+The release is distributed as a single Google Drive folder:
+\begin{center}
+\url{https://drive.google.com/drive/folders/1bb0pH2RN5EvIYG701BpX3LoiHa3vy1QQ}
+\end{center}
+
+\noindent It contains two top-level trees:
+
+\begin{itemize}
+  \item \texttt{Real\_dataset/} --- the bonafide partition, one folder per language.
+  \item \texttt{Deepfake\_dataset/} --- the synthetic partition, one folder per
+        generation method, each with one folder per language.
+\end{itemize}
+
+Every language folder, bonafide or synthetic, has the same internal layout: six
+feature directories holding one \texttt{.npy} array per 10\,s clip, plus two CSV files
+(\texttt{metadata.csv} and \texttt{summary\_features.csv}) describing every clip in that
+folder. No audio waveforms are distributed; the release is feature-level only, and the
+released arrays are non-invertible derived representations.
+
+The archive holds \textbf{58{,}597 clips} of exactly 10.0\,s each --- 162.8\,h of
+material --- comprising 18{,}086 bonafide clips (50.2\,h) and 40{,}511 synthetic clips
+(112.5\,h). Per-clip storage is $\approx$1.07\,MiB across the six feature arrays, giving
+a total download of $\approx$61\,GiB; the frame-level HNR arrays alone account for 57\%
+of that volume (Section~\ref{sec:featspec}).
+
+% ============================================================================
+\section{Dataset Metadata}
+% ============================================================================
+
+\subsection{Bonafide Source Recordings}
+Table~\ref{tab:s1} lists the bonafide corpus per language: the number of source
+recordings admitted by the selection criteria, their total pre-segmentation duration, and
+the number of fixed 10\,s clips they yield. Segmentation is deterministic
+($\lfloor \text{duration}/10 \rfloor$ clips per recording, trailing fragment discarded),
+so the clip counts follow from the source durations. One Punjabi recording of 4.9\,s is
+removed by the minimum-duration rule, which is why 71 Punjabi source recordings appear as
+70 in the released clips.
+
+\begin{table}[t]
+\centering
+\caption{Bonafide partition: source recordings, pre-segmentation duration, released
+10\,s clips and audio retention, per language.}
+\label{tab:s1}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrr}
+\toprule
+\textbf{Language} & \textbf{Songs} & \textbf{Src (min)} & \textbf{Clips} & \textbf{Clip h} & \textbf{Ret.} \\
+\midrule
+Hindi   & 84  & 1111.7 & 6{,}634 & 18.43 & 99.5\% \\
+Punjabi & 71  &  404.7 & 2{,}393 &  6.65 & 98.6\% \\
+Bengali & 64  &  473.0 & 2{,}806 &  7.79 & 98.9\% \\
+Telugu  & 50  &  752.8 & 4{,}489 & 12.47 & 99.4\% \\
+Odia    & 15  &  251.8 & 1{,}505 &  4.18 & 99.6\% \\
+Tamil   & 10  &   44.0 &    259 &  0.72 & 98.0\% \\
+\midrule
+\textbf{Total} & \textbf{294} & \textbf{3038.0} & \textbf{18{,}086} & \textbf{50.24} & \textbf{99.2\%} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Provenance and language identification.} Recordings were curated from
+publicly available film and classical vocal material and from regional folk or
+traditional singing (forms such as \textit{thumri}, \textit{dadra}, \textit{chaiti} and
+\textit{kajri}, and named regional traditions including Awadhi, Bhojpuri, Bundeli,
+Garhwali, Kumaoni and Maithili). The language label is the language of the vocal content,
+assigned during expert listening; code-mixed recordings with no dominant target language
+were excluded.
+% TODO(authors): per-recording source citation (archive / platform / URL / access date /
+% licence) and the original sampling rate of each source file. Neither is recoverable
+% from the release; both must come from the collection log.
+
+\subsection{Released Clip Inventory}
+Table~\ref{tab:s2} gives the clip count of every language$\times$partition cell of the
+release, obtained by counting rows of the 24 \texttt{metadata.csv} files. These are the
+counts a user obtains after download. Two cells are degenerate and should be treated as
+absent for benchmarking purposes: Bengali So-VITS is empty (the folder exists but its
+\texttt{metadata.csv} has no rows), and Punjabi So-VITS contains a single source
+recording (21 clips).
+
+\begin{table}[t]
+\centering
+\caption{Released clips per language and partition. Values are row counts of the
+corresponding \texttt{metadata.csv}. All clips are exactly 10.0\,s.}
+\label{tab:s2}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrrr}
+\toprule
+\textbf{Language} & \textbf{Bonafide} & \textbf{RVC} & \textbf{FFT} & \textbf{So-VITS} & \textbf{Total} \\
+\midrule
+Hindi   & 6{,}634 & 4{,}188 & 6{,}626 & 6{,}634 & 24{,}082 \\
+Punjabi & 2{,}393 &   148 & 4{,}037 &    21 &  6{,}599 \\
+Bengali & 2{,}806 & 2{,}806 & 2{,}806 &     0 &  8{,}418 \\
+Telugu  & 4{,}489 &   103 & 4{,}245 & 4{,}481 & 13{,}318 \\
+Odia    & 1{,}505 &    33 & 2{,}100 & 1{,}505 &  5{,}143 \\
+Tamil   &   259 &    23 &   496 &   259 &  1{,}037 \\
+\midrule
+\textbf{Total} & \textbf{18{,}086} & \textbf{7{,}301} & \textbf{20{,}310} & \textbf{12{,}900} & \textbf{58{,}597} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Composition of the Synthetic Partitions}
+\label{sec:composition}
+The synthetic folders are not homogeneous: alongside conversion outputs they also carry
+pipeline by-products that were swept into feature extraction and carry the label
+\texttt{fake}. Table~\ref{tab:s3} resolves every synthetic cell into four content classes,
+identified from the filename grammar of each entry (Section~\ref{sec:mapping}):
+
+\begin{itemize}
+  \item \emph{Converted} --- the conversion output proper.
+  \item \emph{Vocal stem} --- files named \texttt{<title>\_vocals.wav}, i.e.\ isolated
+        vocal tracks from the source-separation stage of the FFT branch.
+  \item \emph{Reference} --- target-voice reference clips
+        (\texttt{<lang>\_reference.wav}, \texttt{<lang>\_rvc\_ref.wav}).
+  \item \emph{Unconverted source} --- in the Hindi RVC folder only, the 32 original
+        recordings that sit beside their 32 \texttt{\_VOCAL\_CONVERTED} counterparts.
+\end{itemize}
+
+Users who require a strictly spoof-only synthetic partition should retain the
+\emph{converted} column: \textbf{32{,}731} clips. The remaining 7{,}780 clips
+(5{,}662 vocal stems, 24 references, 2{,}094 unconverted sources) are labelled
+\texttt{fake} in the released metadata but are not conversion outputs, and are filtered by
+the reference implementation in Section~\ref{sec:repro}.
+
+\begin{table}[t]
+\centering
+\caption{Content classes inside the synthetic partitions (clips). Only the
+\emph{Converted} column contains conversion outputs.}
+\label{tab:s3}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{llrrrr}
+\toprule
+\textbf{Method} & \textbf{Lang.} & \textbf{Conv.} & \textbf{Stem} & \textbf{Ref.} & \textbf{Unconv.} \\
+\midrule
+\multirow{6}{*}{RVC}
+ & Hindi   & 2{,}094 & --- & --- & 2{,}094 \\
+ & Punjabi &   143 & --- &  5 & --- \\
+ & Bengali & 2{,}806 & --- & --- & --- \\
+ & Telugu  &    98 & --- &  5 & --- \\
+ & Odia    &    28 & --- &  5 & --- \\
+ & Tamil   &    18 & --- &  5 & --- \\
+\midrule
+\multirow{6}{*}{FFT}
+ & Hindi   & 6{,}626 & --- & --- & --- \\
+ & Punjabi & 2{,}004 & 2{,}032 &  1 & --- \\
+ & Bengali & 2{,}806 & --- & --- & --- \\
+ & Telugu  & 2{,}026 & 2{,}218 &  1 & --- \\
+ & Odia    &   946 & 1{,}153 &  1 & --- \\
+ & Tamil   &   236 &   259 &  1 & --- \\
+\midrule
+\multirow{6}{*}{So-VITS}
+ & Hindi   & 6{,}634 & --- & --- & --- \\
+ & Punjabi &    21 & --- & --- & --- \\
+ & Bengali &     0 & --- & --- & --- \\
+ & Telugu  & 4{,}481 & --- & --- & --- \\
+ & Odia    & 1{,}505 & --- & --- & --- \\
+ & Tamil   &   259 & --- & --- & --- \\
+\midrule
+\multicolumn{2}{l}{\textbf{Total}} & \textbf{32{,}731} & \textbf{5{,}662} & \textbf{24} & \textbf{2{,}094} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Singer and Voice Information}
+\label{sec:singers}
+Singer identity is recorded in the release only where the filename carries it, and no
+gender field exists anywhere in the metadata. Concretely:
+
+\noindent\textbf{Bonafide.} \texttt{original\_filename} holds the song title (Hindi,
+Punjabi, Odia) or an index-prefixed title (Bengali, Telugu, Tamil). It does \emph{not}
+name the performer. Bonafide singer identity is therefore not available from the release.
+% TODO(authors): if a per-recording performer field exists in the collection log, add it
+% as a `source_singer` column to Real_dataset/<lang>/metadata.csv and to the curation
+% sheet. Gender, if required, should be annotated explicitly rather than inferred.
+
+\noindent\textbf{RVC, Hindi.} This is the one branch whose filenames name voices. The 32
+converted files are \texttt{<Voice>\_VOCAL\_CONVERTED.wav} over the following 32 named
+voices: Akhil Sachdeva \& Tulsi Kumar; Alka Yagnik \& Arijit Singh; Allah Jilai Bai; Asha
+Bhosle \& Mohammad Rafi; Begum Akhtar; Girija Devi; Kishore Kumar; Kishori Amonkar; Kumar
+Sanu; Kumar Sanu \& Lata Mangeshkar; Lata Mangeshkar; Lata Mangeshkar \& Kishore Kumar;
+M.S.\ Subbulakshmi; Maithili Thakur; Mohammad Rafi; Mukesh \& Lata Mangeshkar; Pandit
+Bhimsen Joshi; Pandit Chhannulal Mishra; Pandit Jasraj; Pandit Kumar Gandharva; Roop Kumar
+Rathod; Shobha Gurtu; Sonu Nigam \& Alka Yagnik; Udit Narayan; Udit Narayan \& Alka
+Yagnik; Ustad Amir Khan; Ustad Rashid Khan; and five unnamed placeholders (Regional
+Artist, Regional Folk Singer, Regional Singer, Traditional Artist, Traditional Singer).
+One entry is truncated in the release as \texttt{M.S\_VOCAL\_CONVERTED.wav} (the source
+name contains a period) and pairs with \texttt{M.S.~Subbulakshmi.wav}.
+% TODO(authors): state whether these names identify the SOURCE performer or the TARGET
+% voice model, and give the RVC model checkpoint used per row. The filename alone is
+% ambiguous.
+
+\noindent\textbf{RVC and FFT, other languages.} Filenames are sequence-numbered
+(\texttt{rvc\_punjabi\_017.wav}) and carry no voice information.
+
+\noindent\textbf{So-VITS.} Every So-VITS filename carries one of three fixed voice
+presets rather than a target singer. Their distribution is given in
+Table~\ref{tab:s4}; presets are assigned round-robin by sequence number, not chosen per
+recording.
+
+\begin{table}[t]
+\centering
+\caption{So-VITS voice presets: clips (source recordings) per language. Bengali is empty.}
+\label{tab:s4}
+\footnotesize
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Language} & \textbf{kawaii\_girl} & \textbf{soft\_anime} & \textbf{energetic\_idol} \\
+\midrule
+Hindi   & 2{,}894 (28) & 2{,}267 (28) & 1{,}473 (28) \\
+Telugu  & 1{,}366 (17) & 1{,}591 (16) & 1{,}524 (17) \\
+Odia    &   509 (5)  &   342 (5)  &   654 (5)  \\
+Tamil   &    97 (4)  &    82 (3)  &    80 (3)  \\
+Punjabi &    21 (1)  &     ---    &     ---    \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Controlled Vocabularies}
+The metadata uses closed vocabularies: \texttt{language} $\in$ \{\texttt{hindi},
+\texttt{bengali}, \texttt{punjabi}, \texttt{tamil}, \texttt{telugu}, \texttt{odia}\};
+\texttt{label} $\in$ \{\texttt{real}, \texttt{fake}\}; \texttt{method} $\in$
+\{\texttt{real}, \texttt{rvc}, \texttt{fft}, \texttt{sovits}\}. Note the asymmetry
+between the \texttt{method} value \texttt{sovits} and the directory name
+\texttt{SoVits\_Anime}; both refer to the same partition.
+
+\subsection{Train/Test Partitioning}
+\label{sec:split}
+Partitioning is performed at the \emph{recording} level, never the clip level, so that no
+recording contributes clips to both sides and a detector cannot exploit
+recording-specific cues. With seed 42, approximately 30\% of the recordings of each
+language are held out, giving the assignment in Table~\ref{tab:s5}. The full song-level
+assignment ships as \texttt{benchmark\_split.csv} (\texttt{SongID}, \texttt{Language},
+\texttt{SongTitle}, \texttt{Clips}, \texttt{Split}), one row per bonafide source
+recording.
+
+\begin{table}[t]
+\centering
+\caption{Song-disjoint train/test split of the bonafide partition (seed 42). Clip counts
+sum to the per-language totals of Table~\ref{tab:s1}.}
+\label{tab:s5}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Language} & \textbf{Train songs} & \textbf{Test songs} & \textbf{Train clips} & \textbf{Test clips} \\
+\midrule
+Hindi   & 59 & 25 & 4{,}570 & 2{,}064 \\
+Punjabi & 49 & 21 & 1{,}762 &   631 \\
+Bengali & 45 & 19 & 2{,}030 &   776 \\
+Telugu  & 35 & 15 & 2{,}131 & 2{,}358 \\
+Odia    & 11 &  4 & 1{,}046 &   459 \\
+Tamil   &  7 &  3 &   184 &    75 \\
+\midrule
+\textbf{Total} & \textbf{206} & \textbf{87} & \textbf{11{,}723} & \textbf{6{,}363} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\noindent\textbf{Language-balanced test set.} From the held-out recordings, 60 bonafide
+clips per language are drawn with seed 7, giving a balanced benchmark of
+$60\times6=360$ clips. Sixty is bounded by Tamil, whose test partition offers 75 clips;
+the margin is deliberately small so that no language is over-drained. The realised
+manifest ships as \texttt{balanced\_test\_clips.csv} (\texttt{sample\_id},
+\texttt{Language}, \texttt{original\_filename}, \texttt{clip\_index}). Tamil's 60
+balanced clips derive from only 3 recordings, which limits the diversity --- not the
+size --- of its test set; this is a property to report alongside Tamil results.
+
+\noindent\textbf{Metrics.} Equal Error Rate is reported per language; any aggregate is
+the equal-weight mean of per-language values, never a clip-weighted pool, so that Hindi
+cannot dominate. 95\% confidence intervals are obtained by bootstrap resampling of the
+balanced test clips with at least 1{,}000 resamples. The evaluation regime (zero-shot or
+fine-tuned) is stated for every reported system.
+
+% ============================================================================
+\section{Feature-Extraction Specifications}
+\label{sec:featspec}
+% ============================================================================
+All features are computed from the standardised 10\,s clips at a 16\,kHz sampling rate
+(160{,}000 samples per clip), mono, peak-normalised. Table~\ref{tab:s6} gives the exact
+released form of each feature: array shape, data type and the analysis settings implied
+by that shape. Two distinct frame rates are used and this must be respected when features
+are combined: the spectrogram-family features use a 25\,ms window with a 10\,ms hop
+(\texttt{n\_fft}=400, \texttt{hop\_length}=160, giving $1+160000/160=1001$ frames), while
+the pitch and flux features use librosa's default 2048-sample window with a 512-sample
+hop (giving $1+\lfloor160000/512\rfloor=313$ frames).
+
+\begin{table*}[t]
+\centering
+\caption{Released feature arrays. Shapes and dtypes were read from the files; settings
+are those implied by the shapes and observed value ranges.}
+\label{tab:s6}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lllrp{7.4cm}}
+\toprule
+\textbf{Directory} & \textbf{Shape} & \textbf{dtype} & \textbf{Bytes/clip} & \textbf{Extraction settings} \\
+\midrule
+\texttt{logmel/} & $(80,1001)$ & float32 & 320{,}448 &
+80 Mel bands, \texttt{n\_fft}=400 (25\,ms), \texttt{hop\_length}=160 (10\,ms),
+\texttt{center}=True; power spectrogram converted to dB. Observed range
+$[-59.95,\,20.05]$, consistent with \texttt{power\_to\_db(top\_db=80)}. \\
+\texttt{mfcc/} & $(39,1001)$ & float32 & 156{,}284 &
+13 MFCCs stacked with first- and second-order deltas ($13+13+13$), same framing as
+\texttt{logmel}, computed from the 80-band log-Mel spectrogram. \\
+\texttt{pitch\_frames/} & $(313,)$ & float64 & 2{,}632 &
+Frame-wise $F_0$ by YIN. \texttt{frame\_length}=2048, \texttt{hop\_length}=512,
+\texttt{center}=True. Values are bounded exactly by $[50,1000]$\,Hz, i.e.\
+\texttt{fmin}=50, \texttt{fmax}=1000. Unvoiced frames are not flagged; the estimator
+returns a value for every frame. \\
+\texttt{spectral\_flux/} & $(312,)$ & float32 & 1{,}376 &
+Frame-to-frame spectral difference on the same 2048/512 framing; length is one less than
+the pitch frame count, as expected of a first difference. Non-negative. \\
+\texttt{hnr\_frames/} & $(160000,)$ & float32 & 640{,}128 &
+A per-\emph{sample} array (not per-frame) at the clip's full 16\,kHz resolution, whose
+mean and standard deviation are released as \texttt{hnr\_mean} / \texttt{hnr\_std}.
+Non-negative and heavy-tailed (observed max $3.1\times10^{5}$), i.e.\ a harmonic-to-noise
+\emph{ratio} rather than a dB quantity. This array is 57\% of the download volume. \\
+\texttt{whisper\_embeddings/} & $(512,)$ & float32 & 2{,}176 &
+Whisper encoder hidden states mean-pooled over time. The 512-dimensional width
+corresponds to the \texttt{base} Whisper encoder. \\
+\bottomrule
+\end{tabular}
+\end{table*}
+% TODO(authors): confirm from the extraction script (i) the exact HNR estimator and its
+% units, (ii) the Whisper checkpoint and revision, and (iii) the librosa version. The
+% released arrays fix the shapes and ranges but not the estimator internals.
+
+Two derived quantities used in the paper are defined on these arrays. Jitter is the mean
+absolute difference between consecutive pitch frames,
+\begin{equation}
+J = \frac{1}{N-1}\sum_{i=1}^{N-1}\left|F_0(i+1) - F_0(i)\right|,
+\end{equation}
+computed over the 313 frames of \texttt{pitch\_frames} and released as
+\texttt{pitch\_jitter}; and the harmonic-to-noise ratio,
+\begin{equation}
+HNR = 10\log_{10}\!\left(\frac{E_{\text{harmonic}}}{E_{\text{noise}}}\right),
+\end{equation}
+with $E_{\text{harmonic}}$ and $E_{\text{noise}}$ the periodic and aperiodic energies.
+
+Each folder's \texttt{summary\_features.csv} carries 13 clip-level scalars alongside
+\texttt{sample\_id}, so that experiments needing only summary statistics require no
+\texttt{.npy} download at all. The fields are \texttt{pitch\_mean},
+\texttt{pitch\_variance}, \texttt{pitch\_jitter} (statistics of
+\texttt{pitch\_frames}); \texttt{spectral\_flux\_mean}, \texttt{spectral\_flux\_std};
+\texttt{hnr\_mean}, \texttt{hnr\_std}; \texttt{logmel\_mean}, \texttt{logmel\_std};
+\texttt{mfcc\_mean}, \texttt{mfcc\_std} (grand mean and standard deviation over the whole
+2-D array); and \texttt{whisper\_embedding\_norm},
+\texttt{whisper\_embedding\_variance}. The \texttt{sample\_id} sets of
+\texttt{metadata.csv} and \texttt{summary\_features.csv} are identical within every
+folder, so the two join one-to-one.
+
+% ============================================================================
+\section{File Structure}
+% ============================================================================
+
+\subsection{Directory Layout}
+\begin{scriptsize}
+\begin{verbatim}
+MSDF-India/
+|- Real_dataset/
+|  |- hindi/          bengali/   punjabi/
+|  |- tamil/          telugu/    odia/
+|     |- logmel/               *.npy
+|     |- mfcc/                 *.npy
+|     |- pitch_frames/         *.npy
+|     |- spectral_flux/        *.npy
+|     |- hnr_frames/           *.npy
+|     |- whisper_embeddings/   *.npy
+|     |- metadata.csv
+|     |- summary_features.csv
+|- Deepfake_dataset/
+   |- RVC/
+   |  |- hindi_rvc/  bengali_rvc/  punjabi_rvc/
+   |  |- tamil_rvc/  telugu_rvc/   odia_rvc/
+   |     |- (same six feature dirs + 2 CSVs)
+   |- FFT/
+   |  |- <lang>_fft/  ...
+   |- SoVits_Anime/
+      |- <lang>_sovits_anime/  ...
+\end{verbatim}
+\end{scriptsize}
+
+\noindent The layout is uniform: 24 leaf folders (6 bonafide + 18 synthetic), each with
+the same six feature directories and the same two CSV files, and each self-describing.
+A user interested in a single language$\times$method cell needs to download exactly one
+leaf folder.
+
+\subsection{Feature-File Naming Convention}
+\label{sec:naming}
+Feature files follow
+\begin{center}
+\texttt{<prefix>\_<stem>\_clip<k>.npy}
+\end{center}
+where \texttt{<stem>} is the value of \texttt{original\_filename} with its final
+extension removed, \texttt{<k>} is \texttt{clip\_index} (0-based, no zero padding), and
+\texttt{<prefix>} identifies the directory the source audio was read from during
+extraction. The same file name is used in all six feature directories of a folder, so
+one clip is addressed by one name across every feature type.
+
+Observed prefixes are \texttt{<language>\_real} for the bonafide partition,
+\texttt{<language>\_rvc} and \texttt{<language>\_fft} for those branches,
+\texttt{<language>\_sovits\_anime} or \texttt{output\_sovits\_anime} for So-VITS
+(the prefix differs by language), and \texttt{references\_rvc} /
+\texttt{references\_fft} for the target-voice reference clips.
+
+\noindent\textbf{Practical consequence.} The prefix is \emph{not} a column of
+\texttt{metadata.csv}, so a feature path cannot be constructed from a metadata row alone.
+The robust join is by suffix:
+\begin{scriptsize}
+\begin{verbatim}
+suffix = f"_{stem}_clip{row.clip_index}.npy"
+path   = next(p for p in listdir(featdir)
+              if p.endswith(suffix))
+\end{verbatim}
+\end{scriptsize}
+\noindent which is what the reference loader in Section~\ref{sec:repro} does.
+
+\subsection{Metadata-Field Definitions}
+Every leaf folder's \texttt{metadata.csv} has exactly the seven fields of
+Table~\ref{tab:s7}, one row per released clip, and no missing values.
+
+\begin{table*}[t]
+\centering
+\caption{\texttt{metadata.csv} field definitions. The same seven fields appear in all 24
+leaf folders, with no missing values.}
+\label{tab:s7}
+\footnotesize
+\begin{tabular}{lp{14.2cm}}
+\toprule
+\textbf{Field} & \textbf{Definition} \\
+\midrule
+\texttt{sample\_id} & 32-character lowercase hexadecimal clip identifier. Unique across
+the entire release (58{,}597 rows, 58{,}597 distinct values). Opaque: it is not a hash of
+any released field, and must be treated as a primary key rather than recomputed. It is
+the join key to \texttt{summary\_features.csv} and to
+\texttt{balanced\_test\_clips.csv}. \\
+\texttt{language} & Language code. In 12 of the 24 files this column instead carries the
+source audio's parent directory name---\texttt{vocals} or \texttt{references} in the FFT and
+RVC folders of Odia, Punjabi, Tamil and Telugu, and \texttt{output} for \emph{every} So-VITS
+row of those four languages (11{,}952 clips in total). The containing folder is
+authoritative; grouping on this column as released silently drops 6{,}266 So-VITS clips into
+a spurious ``output'' language. \\
+\texttt{label} & \texttt{real} for bonafide clips, \texttt{fake} for every clip in a
+synthetic folder --- including the non-conversion content of
+Section~\ref{sec:composition}. \\
+\texttt{method} & Generation method: \texttt{real}, \texttt{rvc}, \texttt{fft} or
+\texttt{sovits}. Constant within a folder. \\
+\texttt{original\_filename} & File name of the audio the clip was cut from, including its
+extension. This is the only pointer back to a source recording, and the key used for the
+mapping of Section~\ref{sec:mapping}. \\
+\texttt{clip\_index} & 0-based index of the clip inside its source recording. Contiguous:
+a recording of $n$ clips uses indices $0\ldots n-1$. \\
+\texttt{duration\_seconds} & Clip duration in seconds. Always 10 across all 58{,}597
+rows. \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\subsection{An Example Feature File}
+Fig.~\ref{fig:example} works one clip end to end: its metadata row, the six arrays it
+resolves to, and its summary-feature row.
+
+\begin{figure*}[t]
+\centering
+\begin{scriptsize}
+\begin{verbatim}
+# Real_dataset/tamil/metadata.csv, row 1
+sample_id,language,label,method,original_filename,clip_index,duration_seconds
+f3bbf40fcea681d7d15dbad01f0d6665,tamil,real,real,004_Hello Brother.mp3.mp3,0,10
+
+# The six arrays this row resolves to (identical basename in every feature directory):
+Real_dataset/tamil/logmel/tamil_real_004_Hello Brother.mp3_clip0.npy      (80, 1001) float32
+Real_dataset/tamil/mfcc/tamil_real_004_Hello Brother.mp3_clip0.npy        (39, 1001) float32
+Real_dataset/tamil/pitch_frames/...  _clip0.npy                           (313,)     float64
+Real_dataset/tamil/spectral_flux/... _clip0.npy                           (312,)     float32
+Real_dataset/tamil/hnr_frames/...    _clip0.npy                           (160000,)  float32
+Real_dataset/tamil/whisper_embeddings/... _clip0.npy                      (512,)     float32
+
+# Real_dataset/tamil/summary_features.csv, matching row
+sample_id            = f3bbf40fcea681d7d15dbad01f0d6665
+pitch_mean           = 136.994      pitch_variance      = 29617.367   pitch_jitter  = 17.463
+spectral_flux_mean   = 9.161        spectral_flux_std   = 11.775
+hnr_mean             = 39.481       hnr_std             = 1312.259
+logmel_mean          = -45.702      logmel_std          = 18.236
+mfcc_mean            = -5.177       mfcc_std            = 78.724
+whisper_embedding_norm = 21.927     whisper_embedding_variance = 0.939
+
+# Note: original_filename ends in ".mp3.mp3"; the stem used in the file name is
+# "004_Hello Brother.mp3" (only the FINAL extension is stripped). File names contain
+# spaces and periods, so paths must be quoted.
+\end{verbatim}
+\end{scriptsize}
+\caption{One released clip, from metadata row to feature arrays to summary statistics.
+Values are verbatim from the release.}
+\label{fig:example}
+\end{figure*}
+
+\subsection{Mapping Feature Files to Source Recordings}
+\label{sec:mapping}
+Because the release is feature-level, the link between a synthetic clip and the bonafide
+recording it was derived from lives entirely in \texttt{original\_filename}. The filename
+grammars differ by language and method, and so does the strength of the link:
+
+\begin{itemize}
+  \item \textbf{Bonafide:} \texttt{<Title>.mp3} (Hindi, Punjabi, Odia) or
+        \texttt{<NNN>\_<Title>.mp3.mp3} (Bengali, Telugu, Tamil), where \texttt{<NNN>} is
+        a per-language source index.
+  \item \textbf{So-VITS, all languages:}
+        \texttt{anime\_<preset>\_<seq>\_<Title>.wav} (Hindi, Odia) or
+        \texttt{anime\_<preset>\_<seq>\_<NNN>\_<Title>.mp3.wav} (Punjabi, Tamil,
+        Telugu). Both carry the title, so the mapping is exact.
+  \item \textbf{FFT, Hindi:} \texttt{deepfake\_<seq>\_<srcid>\_<Title>.mp3} --- the only
+        branch with an explicit numeric source pointer in addition to the title.
+  \item \textbf{FFT and RVC, Bengali:} \texttt{fft\_<seq>\_<Title>.mp3\_22k.wav} and
+        \texttt{rvc\_fixed\_<seq>\_<Title>.mp3\_22k.wav}; title-carrying, exact.
+  \item \textbf{FFT, other languages:} \texttt{fft\_<lang>\_<seq>.wav} for the conversion
+        outputs (no title) alongside \texttt{<Title>\_vocals.wav} for the vocal stems
+        (title-carrying).
+  \item \textbf{RVC, other languages:} \texttt{rvc\_<lang>\_<seq>.wav}; sequence number
+        only.
+  \item \textbf{RVC, Hindi:} \texttt{<Voice>.wav} and
+        \texttt{<Voice>\_VOCAL\_CONVERTED.wav}; a voice-name namespace disjoint from the
+        bonafide title namespace.
+\end{itemize}
+
+Table~\ref{tab:s8} quantifies the resulting coverage: the fraction of synthetic source
+files in each cell that can be matched to a bonafide source recording by
+normalised-title matching. Coverage is complete for every So-VITS cell, for Hindi FFT and
+for both Bengali branches; it is 50\% for the FFT cells of Odia, Punjabi, Tamil and
+Telugu (exactly the vocal-stem half); and it is zero for RVC outside Bengali, where the
+filenames carry only a sequence number.
+
+\begin{table}[t]
+\centering
+\caption{Mapping coverage: synthetic source files resolvable to a bonafide source
+recording by title, per cell.}
+\label{tab:s8}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Language} & \textbf{RVC} & \textbf{FFT} & \textbf{So-VITS} \\
+\midrule
+Hindi   & 0/64 (0\%)   & 84/84 (100\%)  & 84/84 (100\%) \\
+Bengali & 64/64 (100\%)& 64/64 (100\%)  & --- (empty) \\
+Punjabi & 0/71 (0\%)   & 69/138 (50\%)  & 1/1 (100\%) \\
+Telugu  & 0/51 (0\%)   & 45/90 (50\%)   & 50/50 (100\%) \\
+Odia    & 0/16 (0\%)   & 14/28 (50\%)   & 15/15 (100\%) \\
+Tamil   & 0/11 (0\%)   & 10/20 (50\%)   & 10/10 (100\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% TODO(authors): release a `source_map.csv` with columns
+% (method, language, original_filename, source_song_id, source_original_filename)
+% built from the generation logs. That is the one artefact that would make the
+% sequence-numbered RVC and FFT branches joinable; it cannot be reconstructed from the
+% released names.
+
+Song-disjoint splitting of the \emph{synthetic} partitions is therefore currently exact
+only for the cells with full coverage. For the sequence-numbered cells, the reference
+implementation splits at the level of \texttt{original\_filename}, which still guarantees
+that no synthetic recording contributes clips to both partitions, but cannot guarantee
+that a synthetic clip and its bonafide counterpart land on the same side. This is the
+main reason the headline benchmark of the paper is defined on the bonafide-balanced test
+set.
+
+% ============================================================================
+\section{Reproducing the Benchmark}
+\label{sec:repro}
+% ============================================================================
+The benchmark is reproducible from the released CSVs alone; the \texttt{.npy} arrays are
+needed only for systems that consume frame-level features.
+
+\begin{enumerate}
+  \item \textbf{Obtain the release.} Download the Drive folder (or only the leaf folders
+        of interest) preserving the directory layout.
+  \item \textbf{Build the clip index.} Concatenate the 24 \texttt{metadata.csv} files,
+        adding the leaf folder path as an extra column. This yields 58{,}597 rows.
+  \item \textbf{Filter the synthetic partition} to conversion outputs only, dropping
+        names ending in \texttt{\_vocals.wav}, names matching
+        \texttt{*reference*}/\texttt{*\_ref*}, and, in Hindi RVC, names without the
+        \texttt{\_VOCAL\_CONVERTED} marker. This leaves 32{,}731 synthetic clips
+        (Table~\ref{tab:s3}).
+  \item \textbf{Apply the fixed split.} Join \texttt{benchmark\_split.csv} on the
+        bonafide \texttt{original\_filename} to obtain train/test at the recording level
+        (Table~\ref{tab:s5}). Do not re-derive the split with a fresh seed; the released
+        assignment is the protocol.
+  \item \textbf{Load the balanced test set.} Read
+        \texttt{balanced\_test\_clips.csv} and select those 360 \texttt{sample\_id}
+        values, adding the matching synthetic clips per language and per method.
+  \item \textbf{Score and report.} Compute EER per language, aggregate as the
+        equal-weight mean over languages, and attach bootstrap 95\% confidence intervals
+        ($\geq$1{,}000 resamples) to every per-language value. State whether the system
+        was evaluated zero-shot or fine-tuned.
+\end{enumerate}
+
+Fig.~\ref{fig:code} gives a minimal reference loader implementing steps 2, 3 and the
+suffix join of Section~\ref{sec:naming}.
+
+\begin{figure*}[t]
+\centering
+\begin{scriptsize}
+\begin{verbatim}
+import os, re, glob, numpy as np, pandas as pd
+
+ROOT = "MSDF-India"
+
+def load_index(root=ROOT):
+    """Concatenate all 24 metadata.csv files into one clip index."""
+    rows = []
+    for csv in glob.glob(os.path.join(root, "*_dataset", "**", "metadata.csv"), recursive=True):
+        d = pd.read_csv(csv)
+        if len(d):
+            d["folder"] = os.path.dirname(csv)
+            rows.append(d)
+    return pd.concat(rows, ignore_index=True)          # 58,597 rows
+
+def conversion_outputs_only(df):
+    """Drop vocal stems, target-voice references and unconverted Hindi RVC sources."""
+    fn   = df.original_filename
+    stem = fn.str.lower().str.endswith("_vocals.wav")
+    ref  = fn.str.lower().str.contains(r"reference|_ref\b|_ref\.", regex=True)
+    unc  = (df.method.eq("rvc") & df.language.eq("hindi")
+            & ~fn.str.contains("_VOCAL_CONVERTED"))
+    return df[~(stem | ref | unc)]                     # 18,086 real + 32,731 fake
+
+def feature_path(row, feature="logmel"):
+    """Resolve one metadata row to its .npy file (the folder prefix is not in the CSV)."""
+    stem   = row.original_filename.rsplit(".", 1)[0]
+    suffix = f"_{stem}_clip{row.clip_index}.npy"
+    d      = os.path.join(row.folder, feature)
+    for p in os.listdir(d):
+        if p.endswith(suffix):
+            return os.path.join(d, p)
+    raise FileNotFoundError(suffix)
+
+idx   = conversion_outputs_only(load_index())
+split = pd.read_csv("benchmark_split.csv")             # SongID,Language,SongTitle,Clips,Split
+bal   = pd.read_csv("balanced_test_clips.csv")         # 360 balanced bonafide sample_ids
+test  = idx[idx.sample_id.isin(set(bal.sample_id))]
+
+x = np.load(feature_path(idx.iloc[0]))                 # (80, 1001) float32
+\end{verbatim}
+\end{scriptsize}
+\caption{Reference loader: builds the clip index, filters the synthetic partition to
+conversion outputs, and resolves a metadata row to its feature array.}
+\label{fig:code}
+\end{figure*}
+
+\noindent\textbf{Environment.} The released arrays are plain \texttt{numpy} \texttt{.npy}
+files and load with any recent \texttt{numpy}; \texttt{pandas} is the only other
+requirement for the CSVs. Re-extracting features from audio additionally requires
+\texttt{librosa} and, for the Whisper embeddings, the \texttt{transformers} Whisper
+encoder.
+% TODO(authors): pin the exact versions used for the released extraction
+% (python, numpy, librosa, torch, transformers) so re-extraction is bit-comparable.
+
+% ============================================================================
+\section{Code Repository and README}
+% ============================================================================
+The code accompanying the release is organised as follows:
+
+\begin{scriptsize}
+\begin{verbatim}
+msdf-india/
+|- README.md
+|- requirements.txt
+|- data/
+|  |- benchmark_split.csv
+|  |- balanced_test_clips.csv
+|  |- selection_checklist.xlsx
+|- src/
+|  |- extract_features.py  # audio -> npy + CSV
+|  |- build_index.py       # merge 24 metadata.csv
+|  |- filter_synthetic.py  # conversion outputs
+|  |- make_splits.py       # seeds 42 and 7
+|  |- evaluate.py          # EER + bootstrap CIs
+|- notebooks/
+   |- selection_validation.ipynb  # PCA/kmeans
+\end{verbatim}
+\end{scriptsize}
+
+\noindent The repository URL is
+% TODO(authors): insert the public repository URL here before submission, and mirror
+% benchmark_split.csv / balanced_test_clips.csv into the Drive release so the protocol
+% travels with the data.
+\texttt{[to be inserted]}.
+
+\noindent The \texttt{README} states, in order: the release URL and licence terms; the
+directory layout of Section V-A; the field definitions of Table~\ref{tab:s7}; the feature
+specification of Table~\ref{tab:s6}; the six-step reproduction procedure of
+Section~\ref{sec:repro}; the filtering rule of Section~\ref{sec:composition} together
+with the resulting clip counts; the known issues of Section~\ref{sec:issues}; and the
+citation and contact details for requesting the original audio under the controlled-use
+agreement.
+
+% ============================================================================
+\section{Release Notes and Known Issues}
+\label{sec:issues}
+% ============================================================================
+The following properties of the current release are documented so that users are not
+surprised by them, and so that any number computed from the archive can be reconciled
+with the paper.
+
+\begin{enumerate}
+  \item \textbf{Non-conversion content in the synthetic folders.} 7{,}780 clips labelled
+        \texttt{fake} are vocal stems, target-voice references, or (in Hindi RVC) the
+        unconverted source recordings themselves. They must be filtered before training
+        or evaluation; Section~\ref{sec:repro} does so. Treating the synthetic folders as
+        wholly spoof inflates the spoof partition by 19\%.
+  \item \textbf{Language field.} The \texttt{language} column is unreliable as released
+        (Table~\ref{tab:s7}): in half the files it carries the extraction directory name
+        rather than the language. Every language-wise figure in this document is derived
+        from the containing folder, which is authoritative, and the loader released with the
+        code repository repairs the column on load.
+        % TODO(authors): regenerate the 12 affected metadata.csv files with the correct
+        % language value before the next upload.
+  \item \textbf{Degenerate cells.} Bengali So-VITS is empty and Punjabi So-VITS contains
+        one source recording. The So-VITS branch is therefore evaluable on four languages,
+        not six.
+  \item \textbf{Directory and label naming.} The So-VITS partition is stored under
+        \texttt{SoVits\_Anime/} and its files carry one of three fixed voice presets
+        (Table~\ref{tab:s4}) rather than a per-recording target singer, while
+        \texttt{metadata.csv} records \texttt{method=sovits}.
+        % TODO(authors): this partition must be reconciled with the So-VITS description in
+        % the main paper before submission -- either by regenerating it with the neural
+        % pipeline and re-extracting features, or by describing the released variant. Do
+        % not leave the released artefacts and the paper text describing different systems.
+  \item \textbf{Counts.} The clip counts of Table~\ref{tab:s2} are the authoritative
+        description of the release. They are computed at the clip level and are not
+        directly comparable with recording-level file counts and durations reported for
+        the generation stage.
+        % TODO(authors): reconcile Table III of the main paper (recording-level file
+        % counts of the generation store, e.g. Hindi RVC = 241) with the released feature
+        % counts here (Hindi RVC = 64 source files / 4,188 clips). Either report both and
+        % label them, or report only the released population.
+  \item \textbf{Storage asymmetry.} \texttt{hnr\_frames} stores one value per audio sample
+        and accounts for 57\% of the archive. A future release could store it at the same
+        frame rate as the other descriptors at negligible information cost.
+  \item \textbf{Identifiers.} \texttt{sample\_id} is opaque and cannot be recomputed from
+        the released fields; it must be carried through any derived artefact so that
+        results remain joinable to the release.
+\end{enumerate}
+
+\end{document}
