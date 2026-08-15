@@ -1,4 +1,4 @@
-# MSDF-INDIA
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6de1d059-075e-48b4-a09f-83ba39eb25ef" /># MSDF-INDIA
 
 ## Multilingual Singing Voice Dataset for Deepfake Singing Voice Detection
 
@@ -113,3 +113,9 @@ The MSDF-INDIA corpus and associated synthetic samples are intended to support r
 * Robustness evaluation of deepfake detection systems
 
 **For research and academic use.**
+## Dataset Metadata
+
+The complete dataset metadata, including recording-level information and
+associated dataset attributes, is available here:
+
+[Download / View Dataset Metadata](https://drive.google.com/file/d/1pDCAETf01VipDCS7esICPlul1tnp_Qer/view?usp=sharing)
