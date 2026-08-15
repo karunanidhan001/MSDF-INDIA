@@ -713,33 +713,48 @@ encoder.
 % ============================================================================
 \section{Code Repository and README}
 % ============================================================================
-The code accompanying the release is organised as follows:
+The code and the small, versionable parts of the release are published at
+\begin{center}
+\url{https://github.com/karunanidhan001/MSDF-INDIA}
+\end{center}
+% TODO(authors): confirm this is the URL cited in the paper once the pending pull request
+% is merged, and mirror data/splits/ into the Drive release so the protocol travels with
+% the data.
+
+\noindent The repository is organised as follows:
 
 \begin{scriptsize}
 \begin{verbatim}
-msdf-india/
+MSDF-INDIA/
 |- README.md
 |- requirements.txt
 |- data/
-|  |- benchmark_split.csv
-|  |- balanced_test_clips.csv
-|  |- selection_checklist.xlsx
+|  |- clip_metadata/       24 metadata.csv
+|  |- summary_features/    24 summary CSVs
+|  |- splits/              the two protocol CSVs
+|  |- inventory/           recording-level index
+|  |- templates/           provenance sheet
 |- src/
-|  |- extract_features.py  # audio -> npy + CSV
-|  |- build_index.py       # merge 24 metadata.csv
-|  |- filter_synthetic.py  # conversion outputs
-|  |- make_splits.py       # seeds 42 and 7
-|  |- evaluate.py          # EER + bootstrap CIs
-|- notebooks/
-   |- selection_validation.ipynb  # PCA/kmeans
+|  |- build_index.py       merge the 24 CSVs
+|  |- filter_synthetic.py  keep conversion outputs
+|  |- load_features.py     summaries, .npy paths
+|  |- make_splits.py       verify / redraw splits
+|  |- evaluate.py          EER + bootstrap CIs
+|  |- verify_release.py    audit data against docs
+|- notebooks/              6 generation notebooks
+|- docs/
+   |- DATASET_CARD.md
+   |- FEATURE_SPEC.md
+   |- EVALUATION_PROTOCOL.md
 \end{verbatim}
 \end{scriptsize}
 
-\noindent The repository URL is
-% TODO(authors): insert the public repository URL here before submission, and mirror
-% benchmark_split.csv / balanced_test_clips.csv into the Drive release so the protocol
-% travels with the data.
-\texttt{[to be inserted]}.
+\noindent The frame-level arrays are not versioned---they are the 61\,GiB of the Drive
+release---but \texttt{data/summary\_features/} carries the 13 clip-level scalars for all
+58{,}597 clips, so the corpus can be indexed, split, filtered and analysed at the summary
+level with no download at all. \texttt{src/verify\_release.py} asserts every count reported
+in this document against the shipped metadata and exits non-zero if the two disagree, so a
+re-extraction or a metadata fix cannot silently drift from the documentation.
 
 \noindent The \texttt{README} states, in order: the release URL and licence terms; the
 directory layout of Section V-A; the field definitions of Table~\ref{tab:s7}; the feature
